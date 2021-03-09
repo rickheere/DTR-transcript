@@ -1,5 +1,7 @@
 # DTR-transcript
 
+![alt text](visual-of-the-process.gif "The script is downloading transcripts")
+
 ## How to use
 
 Lets first download the code and install the dependencies.
