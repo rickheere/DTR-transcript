@@ -1,0 +1,2050 @@
+undefined
+00:04 [Music]
+00:21 [Music]
+00:29 welcome back to deep thought studies and
+00:31 gentlemen today we're gonna cover a
+00:35 subject that has been requested and it's
+00:37 been on my list for quite a while and
+00:40 boys is gonna be a doozy of explanations
+00:44 it's gonna take me a little while is
+00:48 that well I'm just gonna tell how this
+00:49 is gonna go hopefully this makes it just
+00:52 got a brand new box of my favorite cigar
+00:55 for the show which is the rarest le Toro
+00:59 I smoked all my lip Lumas loved every
+01:02 single one of those sticks as well thank
+01:05 you to the pluma folks for sending a box
+01:07 over last time I did one of these on the
+01:10 first box it had a big tunnel down it so
+01:12 hopefully it doesn't happen here quantum
+01:16 computing I finally took the deep dive
+01:20 in quantum computing and this is gonna
+01:25 be a multi-dimensional episode because
+01:27 what we're gonna do is we're gonna
+01:29 explain I'm gonna attempt to explain the
+01:33 quantum computing as accurately as I can
+01:36 and then we're gonna talk about the
+01:41 amazing amount of hype coming around
+01:44 this technology and then probably
+01:48 reflect on how it is definitely exciting
+01:51 it'll be interesting to see if they can
+01:53 make this work and it's it's sort of a
+01:59 logical progression and one way or the
+02:02 other to refine the way that we store
+02:05 data and manipulate data but they're
+02:10 currently in 2019 we're a few inventions
+02:16 away from making this really a super
+02:19 plausible solution such that it actually
+02:23 achieves what we think it's going to
+02:25 achieve which is a much faster world
+02:29 much faster computing world so what is
+02:34 the quantum computer
+02:35 hmm I hope to god you guys have some
+02:40 some computer background and this isn't
+02:42 aimed at anyone who was completely
+02:46 informed about all this stuff because
+02:48 it'll be a little bit boring the one
+02:50 thing I'm gonna do is mix in some of my
+02:52 ether or research into this such that we
+02:54 can acknowledge some of the what some of
+02:58 what's really going on with some of this
+03:00 it's not terribly important because we
+03:02 can work with the higher end concepts of
+03:06 atomic energy and matter in general as
+03:10 it is created by ether winds there's
+03:14 still some fascination about some basic
+03:16 experiments I don't really think the
+03:18 experts have any fascination about how
+03:22 like you know the slit test of light
+03:27 creates a reverberation on its receiving
+03:30 sensor and that kind of stuff and I'll
+03:33 try to put some images in here to help
+03:38 explain some of this stuff so how does a
+03:42 traditional computer work deep down
+03:44 inside of its guts I'm gonna try to make
+03:48 this easy for everyone to understand
+03:49 even if you've never done anything in
+03:51 computers because some of the things I'm
+03:54 gonna say are things that you've heard
+03:56 and then what I'm not going to do is is
+03:59 persecute your mind with over you know
+04:06 over explaining various examples of how
+04:09 things work but we're gonna have to get
+04:10 into some of this in order to explain
+04:13 things your normal computer it works by
+04:19 storing zeros and ones and everything is
+04:24 broke down from zeros and ones and then
+04:29 we have hardware that metabolizes up
+04:33 zeros and ones I mean there's only two
+04:35 digits to be able to do normal decimal
+04:39 based in mathematics which is what you
+04:42 and I use when we go to the grocery
+04:43 store why do they call it base 10 base
+04:47 10 because there are 10 unique
+04:49 digits that we use to represent all
+04:51 numbers now some societies were living
+04:54 in a base nine for quite some time
+04:56 because the idea of a null or a zero or
+05:00 not depending on where you are in the
+05:02 world was not conceived of by a lot of
+05:09 societies because what they did was they
+05:11 said well if there is nothing if that's
+05:13 what we're talking about then it wasn't
+05:16 a numerical digit that they wrote down
+05:20 they simply would stop and disengage
+05:23 from mathematics and go well if you've
+05:24 taken my last Apple then I have none and
+05:27 that means something different than zero
+05:29 so eventually Western societies and I
+05:34 think Western society is really the
+05:36 first to pioneer the zero we got zero
+05:40 one through nine that's ten digits and
+05:42 that's why it's based in I give you one
+05:45 little complex example which won't take
+05:47 much for you to understand but you have
+05:50 probably heard in your lifetime a
+05:52 hexadecimal system which is a base 16
+05:55 system all that means is we go 0 1 2 3 4
+06:00 5 6 7 8 9 and then we say a b c d e f we
+06:04 had 6 alpha you know alpha characters
+06:09 right alphabetical characters on the end
+06:11 and then once you've spent the last
+06:13 character you go back to two and so one
+06:19 goes way up and then 2 but 2 would equal
+06:21 17 and it wouldn't equal 2
+06:24 that's all you need to know there's all
+06:26 kinds of ways to count in different sets
+06:30 of numbers if somebody said look I'm
+06:32 gonna give you 0 through 3 then you're
+06:34 in a base for system I give you that
+06:38 example because ones and zeros have been
+06:40 arranged in a way inside of a computer's
+06:42 brain to represent what we think of as
+06:47 in a base 10 system for example 0 is 0 1
+06:53 is 1 but 2 is actually 10 1 0 because if
+06:59 a 1 comes down the chute and there's
+07:02 already a 1 there that
+07:03 to a zero and then you just put it next
+07:05 put the one that you're trying to put in
+07:06 place over to the left and then the next
+07:09 number three three the one comes down
+07:12 it's a zero and so it can take its place
+07:15 instead of flipping the number it does
+07:17 it does flip it but it's one one that's
+07:19 three this is the stuff I learned when I
+07:22 was 11 and this is how we drew artwork
+07:25 back in the day for old computers if it
+07:30 was a zero there was no pixel there if
+07:32 it was a 1 then you put a pixel there
+07:35 and then you could give it a color the
+07:36 whole strip it was a strip of four
+07:38 binary numbers and then if it was a 1
+07:42 you've got a pixel there it's a zero
+07:44 didn't get a pixel so imagine taking
+07:46 every combination of four on offs and
+07:50 then using that to build a picture and
+07:52 you could only give stacks of four at a
+07:55 time a different color so if you wanted
+07:58 to have one pixel have the different
+08:00 colors and then in a particular strip
+08:02 you'd have to stack two strips on top of
+08:04 each other and it's gonna say there's
+08:06 one pixel here and it's red anything
+08:08 underneath is a blue anything underneath
+08:10 that maybe it's green whatever you're
+08:12 trying to do okay hopefully that wasn't
+08:16 terribly confusing I can see a major
+08:19 headache for animating this thing so
+08:23 here's how I think quantum computing
+08:25 came around and this will help explain
+08:30 why quantum computing is so nebulous and
+08:35 difficult to understand how it's going
+08:38 to be used and you need to understand
+08:39 that a giant portion of quantum
+08:41 computing I would say the lion's share
+08:43 of all the research that has to be done
+08:45 to really make these things fall into
+08:47 every device and in your life especially
+08:51 to eclipse the speed of the old system
+08:56 it's it's some years out but someone got
+09:00 the idea look let's work with something
+09:05 super teeny tiny and that way if we can
+09:10 master teeny tiny methodologies of
+09:12 registering a one or a zero
+09:15 then we can pack more computing into a
+09:19 smaller place and we could use literally
+09:23 fractions of a fraction of a fraction of
+09:25 a fraction of electricity to actually
+09:28 control the device and so you could have
+09:30 a supercomputer I mean like a real one
+09:33 one word even today it's a big warehouse
+09:36 somewhere you could have that thing in
+09:38 what looks like a piece of pepper on
+09:40 your plate if they could get quantum
+09:44 computing completely down to the quantum
+09:46 level of actually controlling it now it
+09:48 works I know I'm getting confusing here
+09:50 but stick with me so when they look at
+09:54 computing they know they have to start
+09:57 with this one and zero theory because
+10:00 everything that man has ever designed
+10:02 for computers builds up from this binary
+10:05 system this two digit system zeros and
+10:07 ones and so they look for things in the
+10:10 universe that are naturally bipolar it's
+10:14 got a 1 or a 0 and in one particular
+10:17 state and then they look for the fact
+10:18 they look for the science to say ok we
+10:21 found this thing and the way it does its
+10:23 thing I think we might be able to
+10:26 control it by this methodology that
+10:31 methodology and then if we put a bunch
+10:33 of these things together and we could
+10:36 comfortably transmit our data to it
+10:39 meaning we can change them as we want
+10:41 them from ones and zeros whatever this
+10:42 could be apples right I mean if apples
+10:44 just sat on trees the summer upside down
+10:46 and some of them right-side up
+10:47 you could use an apple tree to make a
+10:49 computer as long as from a distance you
+10:52 could tell every Apple which way to be
+10:53 and then some other system reads the
+10:55 states of the apples and goes oh yeah
+10:57 totally it's a number 5 you know so what
+11:00 they've done is they've isolated some
+11:06 types of atoms
+11:07 I think phosphor is that one of them
+11:14 silicon they have figured out atoms that
+11:19 are fairly fundamental it'll have a lot
+11:21 of pieces and parts to get in the way of
+11:23 what they're trying to do hydrogen is
+11:26 sort of I think a little too explosive
+11:29 and
+11:30 to be able to control and so what
+11:33 they're trying to do this is brilliant
+11:35 is they're trying to take the orbital
+11:39 idea of an electron and control it such
+11:47 that it has a state that can be
+11:52 recognized as a one or a zero
+11:55 now the true existence of an electron is
+12:00 bunk science ok is not a little particle
+12:04 that flies around the outside of an atom
+12:07 that's not what it really is what it is
+12:09 is a force field cloud around the
+12:12 outside of an atom it is the you notice
+12:16 I always say in my ether episodes ok
+12:18 when the ether or particle hits the
+12:21 center Nikolaus of an atom and bounces
+12:23 back like a ricochet
+12:25 that's your dielectric wave of energy
+12:29 when ether particles get stuck in an
+12:32 orbit because they miss the center and
+12:34 they get pushed by their buddies right
+12:35 it's like being pushed in a crowd they
+12:38 get pushed by other buddies on all sides
+12:39 so it's a three dimensional cloud of
+12:42 orbiting II throw particles
+12:44 that's your magnetic wave ok when the
+12:47 two collide which is happening from all
+12:50 sides ok the orbits of cloud and
+12:52 ricochets are coming off tangent to
+12:54 their impacts like take this microphone
+12:57 was a nucleus comes in bounces off
+12:59 bounces off in every conceivable
+13:00 direction constantly that collision
+13:04 creates a spin and that spin is where we
+13:09 start to call it an electron cloud and
+13:11 it's made of what we now call the two
+13:13 hitting each other is called the
+13:15 electromagnetic field around a
+13:17 particular nucleus at the same time this
+13:23 is occurring because the universe is
+13:25 comprised of ether particles ether
+13:28 particles are always going into the
+13:29 nucleus as well into the microphone and
+13:31 they come out the bottom and the console
+13:33 actually come out of the top and going
+13:34 to the bottom right so they they
+13:37 theorize this on paper and they said of
+13:40 course the word quantum just makes it
+13:41 sound cool right
+13:43 so they theorized this on paper and then
+13:45 they started too tempting to control the
+13:49 polarity of the this cloud which way is
+13:54 the cloud spinning and they they know
+13:58 that it has a North Pole and a South
+14:01 Pole in a pure state there'll be a
+14:06 perfect alignment for this cloud such
+14:08 that everything is in a spin up was what
+14:12 they call it just think about this whole
+14:15 you know Van Allen belt thing and you
+14:17 know we have compasses that point north
+14:19 when it comes out of the top of earth
+14:22 and goes into the bottom but if you
+14:24 could take the core of the earth and
+14:25 rotate it the plasma energy that's
+14:27 creating this thing it's in the center
+14:29 not nickel iron nickel iron loses all
+14:31 magnetism at 6,500 degrees Fahrenheit
+14:34 it's all bunk
+14:35 right everything is plasma interiors
+14:37 created by you throw particles okay but
+14:40 if you could take it and rotate it then
+14:41 you would have the positive or at least
+14:43 the the ejection point at the bottom and
+14:46 it go into the top and that's what they
+14:47 call spin down sounds pretty good right
+14:52 the way that you actually control the
+14:57 spin orientation of this electron cloud
+15:00 is to hit it with microwaves it's so
+15:03 ether all it's crazy and these people
+15:04 don't even acknowledge it exists right
+15:06 really funny well what's a what's a
+15:10 microwave ray it's a wave of energy with
+15:14 its own property it's just like the wind
+15:16 that blows the blows on the bridge back
+15:19 in the 30s and the bridge starts to feel
+15:20 the frequency and it pops and blows up
+15:23 and all the cars fall in the water right
+15:24 well you can grab with one wave that's
+15:30 have the perfect frequency you can grab
+15:32 of a particular electron in a particular
+15:34 orbit around a particular atom they have
+15:36 to figure out what exact frequency it
+15:38 does it's pretty easy because they'll
+15:40 put it on oscilloscope on the electron
+15:42 cloud and they just kind of rotate
+15:44 through a big wave just like turning the
+15:46 knob on your FM radio they just go
+15:48 across and then when they affect that
+15:50 wave like oh this is it 45 right
+15:55 and once they dial into it then they can
+15:57 modulate it and turn it and then what's
+16:00 cool about it is they can get in between
+16:05 states and this is the natural state of
+16:09 an electron cloud because electron cloud
+16:12 is constantly just whirling around this
+16:16 central nucleus because it's being
+16:17 collided by all kinds of ether particles
+16:20 from all sides and so the natural state
+16:23 of an ether oh our sorry of an electron
+16:26 cloud this is constantly spitting
+16:28 between north and south
+16:30 it means it's also registering at any
+16:33 one point in time every single time in
+16:36 the day if it was a clock or hate if 12
+16:38 o'clock was north and 6 o'clock was
+16:42 south it's it's also spinning so quickly
+16:44 than any quantum moment in time right a
+16:47 little pack at a time it is everywhere
+16:50 over a distance of time now if you could
+16:53 snapshot it and really get it which the
+16:55 uncertainty principle prohibits us from
+16:57 doing this accurately then we'd know
+17:00 exactly where it was at a particular
+17:02 time but the next time we measure it's
+17:04 going to be in a different location
+17:05 unless we exert energy on it just like
+17:09 taking the cover off of a compass and
+17:11 you put your finger on it you can move
+17:12 it to wherever you want you're exerting
+17:14 energy to move the little arrow around
+17:16 that's what they have to do if they want
+17:17 to control this thing so what they I
+17:20 think they found out is let's mess with
+17:24 and and try to probe and then control
+17:28 the anatomy of an atom so that we can
+17:33 take all this information we're
+17:35 processing in silicon chips and in
+17:38 little silicon bumps that hold charges
+17:40 right zeros and ones there isn't one's
+17:41 right and there's actually a null in the
+17:42 Senate right but basically if you drew a
+17:46 line just so you understand it in normal
+17:49 electronics you drew a line down the
+17:51 center of the page and said that's zero
+17:53 that's nothing that's no charge at all
+17:54 there's no electricity going towards
+17:56 this particular component you can put a
+17:59 negative charge in there and you're
+18:00 going to get a square wave below the
+18:01 line and that's your off state and then
+18:05 you can put energy more energy in and
+18:07 put
+18:08 upper state and that's where you get
+18:10 your positively negative and your
+18:11 neutral your neutrals basically the
+18:13 components been turned off and whatever
+18:15 data is there is useless so when they
+18:18 started this process they realized
+18:20 immediately well geez you know we don't
+18:24 have like off-the-shelf inventions to
+18:26 start talking to atoms and controlling
+18:28 exactly what state they're in and so
+18:31 they had to deal with this issue and in
+18:33 what's sort of going on right now
+18:36 if you look at TED talks and other
+18:39 people trying to champion this
+18:40 technology there's some scientists that
+18:43 are being extremely honest and I salute
+18:45 them a thousand percent because they're
+18:47 where the progress is actually occurring
+18:49 I've seen a TED talk about this
+18:52 technology and it is it was one of the
+18:55 worst examples I've ever seen of
+18:57 explaining this and then it just sat
+19:00 there and promised vaporware oh it's
+19:04 gonna help cure Alzheimer's it's gonna
+19:06 help this anatman is they just pull
+19:08 things out that'll make you feel
+19:10 passionate so any time a bill comes by
+19:12 or a prop or whatever you're excited to
+19:16 fund it and you should be but not for
+19:18 these generic stupid reasons right you
+19:21 know they they can't they can't a
+19:22 hundred percent control this stuff on
+19:25 demand just yet now there are some
+19:30 quantum computers out there and you can
+19:31 actually lease one and iBM has one
+19:34 that's actually online but it has a lot
+19:36 of as at least three percent error
+19:39 currently and they'll get through these
+19:41 phases at some point the average
+19:45 computer computational speed of a
+19:48 particular transaction in a normal chip
+19:50 and a normal computer using the ones and
+19:52 zeros old technique of today was
+19:54 admitted by one of the one of the more
+19:57 brilliant quantum physicists who's
+19:59 working on this technology the new
+20:01 technology says look the individual task
+20:04 is probably faster on a traditional
+20:07 computer but because of the way that we
+20:10 approach processing data with quantum
+20:13 computing is so much different and I'll
+20:15 give you a great example that this this
+20:17 girl did his video online and she should
+20:19 give the best example on this
+20:21 but because of the way that they process
+20:25 almost everything simultaneously on the
+20:28 quantum side even though each one of the
+20:30 instructions is slightly slower to do
+20:33 currently it might get faster later it's
+20:37 actually not winning the individual
+20:39 sprint but in the marathon of data
+20:42 analysis quanta computing can eat our
+20:46 normal computers alive but it's not
+20:48 going to be something that you would use
+20:51 for Photoshop or cruising the web and
+20:55 writing an email or that kind of stuff
+20:57 you don't need quantum computing for
+20:59 those tasks we already have that under
+21:01 wraps now does that mean the innovation
+21:03 in those areas should cease absolutely
+21:05 not you know I think that we could
+21:07 probably honestly we could tap I mean if
+21:12 Apple wasn't slowing down devices
+21:13 intentionally in versions of software
+21:15 are intentionally slowed down with
+21:18 updates if we could get rid of that
+21:20 criminal cabal of the way the world
+21:22 works today then we could probably
+21:24 survive off of maybe a five gigahertz
+21:26 hit for the next 50 years that's not the
+21:29 case for 3d people Photoshop people
+21:32 video editing people people that need to
+21:33 crunch a lot of numbers they still need
+21:36 the old technique to run as quickly as
+21:38 possible so they could probably top out
+21:40 at maybe 50 gig or something like that
+21:42 where it's just there's never a
+21:43 completion bar anything you conceive of
+21:46 can be done immediately as soon as that
+21:48 occurs you know a Pixar is doing another
+21:51 Nemo video and they want to calculate
+21:53 refraction of water looking through the
+21:57 camera as soon as that it's just real
+22:01 time without rendering and it's photo
+22:03 real and it's 8k or whatever the hell
+22:05 they want we're good we don't need to
+22:08 innovate past that point but let me give
+22:11 you a tangible example of how a quantum
+22:15 computer would do things differently and
+22:17 thus faster and better than a normal
+22:20 computer imagine you had a maze and the
+22:26 maze has let's say eight entry points
+22:31 and but one exit and it all combines in
+22:35 inside the Me's so all the paths will
+22:37 lead you to basically any places inside
+22:40 but what you're supposed to find out in
+22:43 this particular test is what is the
+22:45 fastest distance the shortest distance I
+22:48 should say from a particular entrance to
+22:51 a particular one exit and you can make
+22:54 this as complex as you want but this is
+22:55 an easy way to think about it well what
+22:58 a normal computer would do is
+23:01 systematically they say there's eight
+23:02 entrances and one exit and it all
+23:04 combines in the center it would push
+23:07 into one and it go at on every single
+23:09 path until it found every wrong way and
+23:12 then finally finds the exit and it
+23:13 measures how long did that take how many
+23:16 steps did you take how much distance did
+23:17 you travel puts it in a table then it
+23:20 goes to the next interest and does the
+23:22 whole thing over again every single
+23:26 entrance is going to be examined one at
+23:28 a time and in the end you look at your
+23:30 table and whatever has the shortest
+23:32 distance is the shortest distance they
+23:33 call this the a-star algorithm and video
+23:36 games it's been around forever so
+23:38 anytime you play a video game where an
+23:39 enemy is tracking to you it's doing the
+23:42 a-star algorithm and it's looking around
+23:44 you to find where you are and what would
+23:46 be the best way to get to you and then
+23:47 there's other artificial intelligence
+23:49 that's added to that to move around
+23:50 obstacles and and hide and do all kinds
+23:54 of cool intelligent things right but the
+23:56 basic thing is that a normal computer is
+23:58 going to test eight entrances it's going
+24:01 to take and it can't do two at once I
+24:03 mean you could program it to do two at
+24:04 once but here's the thing a quantum
+24:08 computer would go into that I'll go into
+24:11 that solution they're going to that prom
+24:13 I should say to find the solution and it
+24:16 by design because of these bits never
+24:20 really truly being a 1 or a 0 I mean
+24:22 they can't control it but if they just
+24:24 allow it to be this cloud between 0 and
+24:28 1 it will go into that maze and it will
+24:31 go at the very first operation into 8
+24:34 entrances at the same exact time and
+24:37 whoever wins first is immediately the
+24:42 best way and then they could abort all
+24:44 the other searches because it's just
+24:46 like a game you would play
+24:48 in a backyard whoever gets to the exit
+24:52 first wins period it doesn't matter how
+24:55 everyone else got there so that's sort
+24:58 of a physical difference between the two
+25:00 computers so now if we call the bits in
+25:06 a normal computer bits that's what a bit
+25:09 is if someone if you want to know what a
+25:10 binary number is stored in its called a
+25:12 bit it's 1 or 0 that's it the quantum
+25:19 computer has something called qubits qu
+25:23 bi T s right and so the cool thing about
+25:30 qubits and this is where I'm gonna try
+25:34 to make this as simple as possible
+25:36 trying to get the easiest way to say
+25:38 this to you guys you don't imagine
+25:44 imagine the way we buy cars and when you
+25:48 want a car in a particular color and a
+25:51 car can come in four colors and if you
+25:55 were to try to describe the choices to a
+25:59 customer it's pretty simple right you
+26:02 can do it in four colors and you name
+26:04 them off that's done but if you were to
+26:07 go to a car lot that's a quantum car a
+26:09 lot and the the amount of colors that
+26:16 could be chosen is now no longer being
+26:19 stirred binary and rolled up to four
+26:21 different numbers is now a cubed it's
+26:24 four different qubits or whatever it is
+26:26 let's just say it's one qubit you know
+26:29 that every possible color that could
+26:31 possibly exist when you know the little
+26:33 pink and a shaker thing at Home Depot it
+26:38 could be any shade of anything any mix
+26:40 of anything and how do you describe that
+26:42 to the customer you'd have to say well
+26:47 it could be any color you want ma'am sir
+26:50 whatever any color that you want okay
+26:55 the math behind this is actually
+26:58 extremely interesting because
+27:03 what we are doing I'm trying to get the
+27:08 easiest way to describe this this is a I
+27:10 don't wanted you guys to have to know
+27:12 any calculus to understand this for
+27:16 every qubit that they can isolate and
+27:18 control in a quantum computer the amount
+27:23 of data that they're able to analyze and
+27:26 analyze quickly you could have the I
+27:31 give you an example there's prime
+27:33 numbers that could take a hundred years
+27:38 in a supercomputer today and it would be
+27:41 it would be solved by a quantum computer
+27:44 for this thing I'm gonna and this reason
+27:45 I'm going to give you guys in a matter
+27:48 of seconds if not split seconds
+27:49 depending on how successful the search
+27:51 might be any of you've searched for a
+27:54 file on your computer
+27:55 spotlights pretty good on Mac OS but
+27:58 even even Mac OS if you have a lot of
+28:01 hard drives it'll turn for a little
+28:02 while that search however fast it is in
+28:08 a normal computer if properly accessed
+28:13 it properly stored in a quantum database
+28:15 a quantum computer could go in there and
+28:18 find it almost to the mathematical
+28:25 equivalent of instantaneously every
+28:28 single time because of that little maze
+28:31 thing I told you because the qubit can
+28:38 be any variation between one and zero
+28:40 all right any percentage of either one
+28:44 or zero which is you know you just
+28:46 basically say a 50% mark it's 51%
+28:49 towards the positive it's gonna be
+28:51 considered a positive let's just think
+28:52 about it that way
+28:53 if it's below 50% and we're gonna
+28:55 consider it a negative let's just round
+28:57 up round down all the old mathematics
+28:59 right because of this relationship to a
+29:03 binary principle of trying to have a 1
+29:06 or a 0 the way that they compute it as
+29:09 they say the number 2 which stands for 1
+29:12 or 0 2 positions they can travel or
+29:15 sorry register excuse me
+29:16 so no traveling in this and then for
+29:19 every cubit that they can isolate and
+29:22 accurately control inside of a quantum
+29:25 computer where I talked a little bit
+29:26 about the anatomy in just a second you
+29:29 put that to the power of two so if you
+29:33 have one qubit maybe two to the power of
+29:35 one if you could control to two to the
+29:39 power of two now just ask anyone in your
+29:41 family the profound nature of what I'm
+29:45 about to tell you if they're good at
+29:46 mathematics because their goal is to
+29:51 isolate per computer about 300 cubits
+29:56 okay two to the power of 300 now this is
+30:02 going to be a theoretical mind blower
+30:04 but it we actually don't know the if
+30:07 this is true or not but it's pretty safe
+30:09 to say but if you were to build a
+30:12 universe out of at least what we call
+30:15 atoms not probably throw particles 2 to
+30:19 the power 300 would represent enough
+30:25 digits enough unique values to account
+30:30 for the solar system and the universe
+30:32 that we can see with the naked eye and
+30:34 everything we've ever theorized about
+30:36 how big the universe is
+30:37 so 2 ^ 300-word account for every grain
+30:41 of sand and every atom that makes a
+30:43 grain of sand on every single
+30:44 conceivable planet Moon Sun anything out
+30:49 there in space a nebula a meteorite
+30:52 everything so imagine mankind here on
+30:56 planet Earth being able to build a
+30:59 computer that's not that big because
+31:02 these things are teeny tiny little
+31:03 qubits are 300 atoms that they're
+31:06 controlling that takes more atoms to
+31:08 hang onto those atoms and transmit data
+31:10 to them read data back and use certain
+31:13 microwaves to control their States think
+31:17 about that us having a computer that
+31:19 could sieve of the universe
+31:21 whoa how many of you seen the black
+31:24 mirror it's the first episode of season
+31:27 four I think so
+31:30 three or four it's the it's the star
+31:32 trek one and this kid built a virtual
+31:35 reality where you put this little tiny
+31:40 M&M shaped thing on the side of your
+31:42 temple and it took over your whole
+31:46 reality and he he had a universe inside
+31:49 this computer and so everyone is
+31:50 literally living in a total virtual
+31:52 reality of of 100% one-to-one
+31:55 correlation between our reality and this
+31:57 virtual reality and you think about that
+32:00 you're like oh man I could I mean maybe
+32:02 we get there but you know not with our
+32:04 current computers I mean how could you
+32:06 account for all the grains of sand that
+32:08 we're in that episode you know they went
+32:09 down to a planet people changed into
+32:11 monsters they're driving their ship
+32:13 everywhere with a quantum computer with
+32:18 300 cubits that they could control it's
+32:21 conceptually possible now in that wild
+32:27 the other thing that might disappear
+32:29 would be the need for memory because
+32:32 it's just in the computer's CPU the CPU
+32:36 by design has all the memory you'd ever
+32:38 need conceptually speaking now this
+32:43 stuff is in serious conceptual mode
+32:45 right now one of the biggest and there's
+32:50 another element to this whole thing
+32:51 which makes it exponentially even bigger
+32:55 which is guess we should just go for it
+32:59 now so we can get off of this super
+33:01 duper technical stuff well every atom
+33:05 regardless if it's see-through or not
+33:07 which it is has a nucleus some parts of
+33:11 the nucleus are positive and some parts
+33:13 the nucleus are neutral but it has its
+33:17 own little Van Allen belt its own little
+33:19 electromagnetic wave around it created
+33:22 by the same methodology which is 1 3
+33:24 dimensional spirals of ether winds that
+33:27 escape and they always go in a
+33:28 particular spherical shape it's like
+33:31 bubbles in your beer man they actually
+33:34 can control through the same technique
+33:39 that they used to control the electron
+33:41 cloud they can exert
+33:44 measurably I believe more energy than
+33:47 they do with the cloud but they can also
+33:49 turn the inside of the atom it's Nicolas
+33:53 upside down and back and forth that's
+33:55 what happens to water in a microwave
+33:57 right one reason why you don't want to
+33:59 use microwaves is that it's it takes all
+34:01 water molecules with microwaves and it
+34:04 turns them upside down and right-side up
+34:06 a billion times a second that friction
+34:10 of water spinning back and forth back
+34:12 and forth back and forth heats the
+34:13 inside of your food it also shatters
+34:16 food compounds which is why you get sick
+34:18 if you eat certain foods and microwaves
+34:21 it's why water that's gone to a
+34:23 microwave your coffee all that stuff you
+34:25 feel like you can't eat up on an oven if
+34:28 you have electric ovens I sympathize
+34:29 with you if you have a gas oven there's
+34:32 really no excuse it's almost the same
+34:33 time but you've then messed with the
+34:37 electrical properties of the water and
+34:39 for a short bit you drink that stuff and
+34:41 it's just messing with your insights
+34:44 again Russia banned microwaves not
+34:46 because they wanted to keep their people
+34:48 in the stone Age's but because they
+34:50 wanted to keep their people health
+34:51 because they had a socialized health
+34:52 care system and my former partner an
+34:55 attorney who did her intern in Russia
+34:58 said there was one microwave hidden in
+35:00 their little village town that she went
+35:03 to she had to go completely across town
+35:04 to heat up a cup of coffee quickly but
+35:07 they also used gas ovens a lot so it's
+35:08 not a big problem ok so think about
+35:14 their ability to control the outside
+35:18 electron cloud to deduce and control
+35:21 which we're gonna get to the how that's
+35:22 done
+35:23 it's positive and negative general
+35:26 capabilities when they really need to
+35:28 make sure it's it's there but if you
+35:32 could take the center of the atom and
+35:33 turn it the outer cloud goes with it and
+35:38 so you could take a bunch of charges
+35:40 that are one-way and if you can spin the
+35:42 nucleus is upside down you've reversed
+35:45 the polarity of whatever the logic gate
+35:47 is that's there I'll give you a really
+35:49 cute crude example imagine you're
+35:52 painting in black and white it's just to
+35:54 make it easy for your brain in a paint
+35:56 application
+35:57 it's all just black or white particles
+35:58 that serve pixels that's it so you want
+36:01 to invert your image in Photoshop well
+36:04 if they just took if they're if all the
+36:07 pixels that you are seeing on screen are
+36:09 the approximations of spin up spin down
+36:11 electron cloud orientation and you spun
+36:15 all the Nicholas's upside down your
+36:16 image would invert because all the
+36:19 outside values are gonna go opposite
+36:21 pretty cool right now again it there's a
+36:27 lot of complexity to this because it
+36:29 took takes a fair amount of energy
+36:31 through microwaves to make a spin down
+36:34 cloud generally be oriented the other
+36:36 way to spin up so if you took all the
+36:40 nucleuses and spun them upside down
+36:42 imagine being able to say I'm just
+36:44 making this up but imagine being able to
+36:46 bring waves down to point down is a much
+36:50 cheaper use of energy and then if you
+36:55 could economically spin the cores up
+36:57 then you could spin them up and you
+37:00 could achieve a positive for a lot less
+37:02 cost there's a lot of things we do in
+37:05 manufacturing little crafts and arts and
+37:08 stuff where we'll build something upside
+37:09 down and then we just turn it right-side
+37:11 up and we use gravity to help us out the
+37:13 first time and then we spin it up it's
+37:16 just an idea so one of these little
+37:19 qubits are obviously extremely volatile
+37:23 to the environment because the
+37:25 environment is always vibrating right
+37:27 warmth is vibration cold is a lack of
+37:30 vibration all right so in order to
+37:36 control these qubits to get them in a
+37:39 natural state where the the techniques
+37:45 that we have been able to manage in a
+37:46 very very short period of time and you
+37:48 can probably assume that the DoD and
+37:52 militaries been using quantum for a
+37:54 little while
+37:54 I would think so so what they do is they
+37:59 try to chill any of these little
+38:03 particles that they're trying to control
+38:05 down to as close to absolute zero as
+38:08 possible to stop their shaking
+38:10 such that they can control with a lot
+38:14 less energy so they're not fighting the
+38:15 environmental energy that's coming in
+38:17 that's heat that shakes this thing so if
+38:20 you see a quantum computer it's
+38:22 typically some cylinders you know I you
+38:28 know what I've been told is that they
+38:29 actually put a traditional transistor
+38:34 next to one of these qubits and what
+38:37 they are what they have figured out how
+38:40 to do is to say like let me explain a
+38:44 capacitor for you real quickly here so a
+38:47 capacitor is typically the traditional
+38:51 capacitor you see instead of a PC board
+38:53 back in the old days before everything
+38:54 was miniaturized is you would see one of
+38:57 those flat little beige disks and it'd
+38:59 have like two little legs out of it
+39:01 right well what that does is there there
+39:04 are certain voltages because they're
+39:06 made of certain materials you have two
+39:08 wafers of conductive material right next
+39:11 to each other but there's a space
+39:12 between them and what they do is they
+39:15 bring in electrons to start charging one
+39:20 of the plates and what ends up happening
+39:22 is is these orbital etheral particles
+39:27 which are called electrons team up with
+39:29 each other they're their orbits start to
+39:32 combine they start to gain charge they
+39:34 start to work together and eventually
+39:36 they will gain enough power it almost
+39:39 like legs that have to jump off to the
+39:40 other side they get enough power that
+39:42 they jump across the plate well the
+39:45 interesting thing about a capacitor is
+39:47 you can control it's almost like a coil
+39:50 it builds up a certain charge in then
+39:52 jumps across the plate so what they've
+39:55 done is created what I think is best
+39:58 described as the capacitating experience
+40:01 where this qubit is being flipped north
+40:05 when its flipped north it has it's
+40:07 considered to have a higher voltage it's
+40:09 how it spins up when that happens it
+40:12 gains it of energy to throw some of its
+40:15 material over to the transistor and
+40:17 that's where they can actually read
+40:18 what's in a qubit they write to it using
+40:23 the
+40:24 microwaves and they read from it by its
+40:26 natural capacitation of the high wave
+40:28 into these transistors that are very
+40:31 close and then they can start using
+40:32 normal transistor logic which is what we
+40:35 have in the normal computers this is all
+40:39 being fudged together with off-the-shelf
+40:41 technology and they will most likely
+40:42 neutralize those concepts with better
+40:47 concepts as time passes you know another
+40:50 way to think about that maize thing
+40:52 would be to say if you had a
+40:54 three-dimensional maze like a big block
+40:57 of steel or something and you've drilled
+40:59 all kinds of wild paths down there like
+41:00 a big transmission block and if you took
+41:04 an eyedropper on one of the holes at the
+41:06 top and you start dropping into it a
+41:08 little hose right you just fill up one
+41:09 of the little holes eventually it's
+41:12 gonna start filling up the inside of
+41:13 this thing hopefully with oil or some
+41:15 transmission fluid right and it'll start
+41:17 spurting out of the other other holes
+41:18 maybe it only goes down right the
+41:23 quantum computer would be like pouring a
+41:26 bucket of transmission fluid in the top
+41:28 of all those little holes so they all go
+41:29 in at the same exact time and they all
+41:31 spread out one's gonna go first and one
+41:33 go second that sort of thing right maybe
+41:35 some are equal paths right one of the
+41:38 other sort of fringy concepts which is
+41:44 interesting okay is sort of a butterfly
+41:48 effect of what they're calling quantum
+41:52 teleportation now of course when most of
+41:55 us here teleportation you can't help to
+41:57 think of like the Star Trek teleporter
+41:59 technology where human being walks
+42:01 through a door jamb and ends up out of a
+42:03 door jamb and some other place in the
+42:04 world everyone who's fallen in love with
+42:05 someone far away has begged the universe
+42:09 for teleportation technology and
+42:12 unfortunately we're really not talking
+42:14 about that just yet okay but you know
+42:18 the theory of the butterfly effect a
+42:21 butterfly in Peru flies and it disturbs
+42:24 the atmosphere and all the atomic mass
+42:26 that's by its and eventually eventually
+42:29 it'll sway the world to change the tea
+42:32 in China the price of the tea in China
+42:34 because it will neurologically affect
+42:36 people and it just it's risk
+42:38 for the you know a reaction in a equal
+42:44 and opposite reaction you know one of
+42:47 the one of the interesting little this
+42:52 is not quite related to what we're
+42:53 talking about but this is a real easy
+42:54 analogy when you teach physics to kids
+42:57 one of the things that the teacher will
+43:00 typically do is have a kid push on the
+43:02 wall and they say well why aren't you
+43:05 caving in that wall when the kid goes
+43:07 because the wall is strong and that
+43:08 teacher will remind the kid well just so
+43:12 that you know if the wall didn't push
+43:15 back on your hand the same exact amount
+43:17 that you pushed on it you would be
+43:18 caving in the wall at some point you'd
+43:20 have a handprint you put your hand in
+43:23 some inch put your hand in silly putty
+43:25 or play-doh or clay you immediately have
+43:27 an imprint of your hand the reason why
+43:30 the wall doesn't do that is that it
+43:31 actually has atomic properties that push
+43:34 back and it instantaneously pushes back
+43:37 and so there's no imprint of your hand
+43:39 on the wall okay I'm hopefully not
+43:44 brutalizing this concept but now imagine
+43:48 that a quantum computer could understand
+43:53 all of the attributes of reality in a
+43:57 particular paradigm okay now our
+44:00 paradigm is Earth so there's a lot of
+44:02 stuff moving around right but you can
+44:05 sterilize the environment so that the
+44:07 amount of the type of information that
+44:08 you are examining and the
+44:11 cause-and-effect models are only quantum
+44:13 little particles it's been supposedly
+44:18 proven in the laboratory but then again
+44:19 they prove a lot of things like Big Bang
+44:21 theories that never happened black holes
+44:23 that don't exist and dark matter that
+44:24 it's arbitrarily designated the universe
+44:26 go see my episode on or maybe the CERN
+44:29 Hadron Collider to rid yourself of such
+44:31 dogma in your life just go to deep
+44:34 thoughts radio.com and search on see ER
+44:36 in in the search field what they are
+44:40 theorizing now is that if they were to
+44:44 isolate the paradigm down to the
+44:46 transmission of data over some quantum
+44:49 Internet wire not
+44:52 not even a radio transmission not a
+44:56 cable that's on the bottom of the ocean
+44:57 but some sort of quantum the transmitter
+45:01 and a quantum receiver because this
+45:05 computer can sense its its environment
+45:09 it could sense what was sent on the
+45:13 other side of the world instantaneously
+45:15 without actually disturbing any of the
+45:18 mass between the two points that's the
+45:21 theory in reality it actually is
+45:23 modifying the data in between which is
+45:25 how it can send something that exists
+45:28 but it's interesting so what are some of
+45:32 the applications of this technology well
+45:35 security is a big one and this is why
+45:38 banks want to be involved with this
+45:40 anyone was trying to protect data
+45:42 obviously our government's the first
+45:45 thing that came to mind for myself when
+45:47 I thought about the security and the
+45:48 encryption keys which we'll get to in
+45:50 just a second here we want to fly our
+45:55 airforce without someone being able to
+46:00 hack into our communication protocol and
+46:02 fly that airplane against us right so
+46:03 there's no pilot inside the system and
+46:05 therefore you know gonna be some weird
+46:08 craft it doesn't have to have a cockpit
+46:09 for human beings ever it could just be
+46:11 some crazy drawing with the wing or some
+46:13 other propulsion system or whatever but
+46:16 if we want to transmit to that flying
+46:20 vehicle one if they could master quantum
+46:23 teleportation then the command to the
+46:28 vehicle would be instantaneous in terms
+46:30 of quantifiable time it's just gonna go
+46:33 boom it's there - if it has to parse a
+46:38 key some sort of encryption key that
+46:40 goes I'm not going to listen to you
+46:41 unless your first packet of information
+46:44 which has your key in it matches the one
+46:47 that I've been authorized to respond to
+46:49 on this particular run well the more
+46:53 complex that key is the better the
+46:55 security is and the less that anyone
+46:58 could mess with it so with traditional
+47:01 zero and ones computers
+47:02 well there's massive amounts of
+47:06 techniques for throwing prime numbers at
+47:09 keys and cracking them SuperDuper quick
+47:11 virtually every single packet of
+47:14 information being transferred in the
+47:15 world today can be cracked in seconds
+47:17 despite with some deep spate deep state
+47:20 groups believe it if you were to create
+47:23 the key with a new algorithm which I
+47:26 don't think you I don't know maybe it
+47:27 does exist to some DoD level but you
+47:30 know the promises that all of our data
+47:33 will be encrypted
+47:34 it will never be something that the
+47:35 average public is allowed unless we take
+47:37 back the planet okay because they're
+47:39 never gonna want us to transmit a love
+47:41 letter without the mail being able to
+47:42 read it but on their level on the we
+47:46 have allowed them to run the world level
+47:48 they're gonna have it it's going to be
+47:49 phenomenal they'll be able to
+47:50 communicate without anyone knowing
+47:51 anything unless they want you to know it
+47:54 but if you had one of these quantum
+47:56 computers with the the amount of
+48:00 numerical power and precision and unique
+48:05 decimal places okay to account for every
+48:07 particle in the universe like I said a
+48:09 300 cubic computer the type of
+48:13 encryption that can be created by this
+48:15 computer would take so long to decrypt
+48:19 with a normal zero on one computer the
+48:22 standard computers by the time you ever
+48:25 decrypted that the world might not even
+48:27 be here anymore mankind may be extinct
+48:30 and that's the kind of security they
+48:32 like if it takes a hundred years for you
+48:34 to figure out what I said 100 years ago
+48:36 it won't matter I'm dead and gone I
+48:37 don't even care you won't be able to
+48:39 take over the world you won't be able to
+48:40 take over my country because our country
+48:42 will have changed by that time and so
+48:46 creating the keys using quantum
+48:48 computers would mean theoretically that
+48:52 only a quantum computer at the receiving
+48:55 end would be qualified to decrypt the
+48:57 key in a measurable amount of time the
+48:59 data would be useful well imagine you
+49:03 got this qualitative teleportation
+49:05 technique to get the data over there
+49:07 SuperDuper quick and you can decrypt it
+49:09 instantaneously on the other side and
+49:11 everyone else who doesn't have a quantum
+49:12 computer couldn't touch it with a
+49:14 ten-foot pole and it's so complex that
+49:16 even if they did
+49:18 managed to create a quantum computer of
+49:20 their own and get a copy of your data
+49:22 which M quantum teleportation the
+49:25 theories on that you should look it up
+49:28 you might have to physically be in that
+49:30 spot to get that information and if
+49:33 you're not physically inside the plane
+49:35 you may not be able to ever receive the
+49:37 packet in the first place it'll be so
+49:39 distorted by the time it gets any other
+49:40 location it's not the same data amazing
+49:44 there's a lot of trigonometry and and
+49:48 spatial data awareness to make that kind
+49:51 of thing happen but it's theoretical pot
+49:53 they were ethically possible yeah let's
+49:57 go to artificial intelligence I just did
+50:02 an AI episode a couple days ago we know
+50:06 that if a computer could have the right
+50:11 amount of processor power and again
+50:14 capability of conceiving of every single
+50:16 neuron in the human body this 300 qubit
+50:21 computer way before that ever was master
+50:24 probably 150 qubits would be enough to
+50:27 account for every single every single
+50:29 atom or e to a particle that passes
+50:31 through your body you could create an
+50:34 amazing biological facsimile in memory
+50:37 of a human body of a human brain inside
+50:42 of an AI and then provided we can come
+50:46 up with some really good grassroots
+50:48 algorithms to learn not just big machine
+50:52 learning but all the algorithms for what
+50:54 the big machine learning would be
+50:55 looking for what is love what is hate
+50:57 what is self-preservation what is death
+51:00 you know what's good what's bad all that
+51:01 kind of stuff even learning morals based
+51:04 on reactions of other people because
+51:07 morals are all relative right some
+51:10 people are still cannibals in this world
+51:12 so killing and eating somebody is
+51:14 totally cool it's not that way in
+51:16 America or Europe unless you're a
+51:20 Democrat this system could potentially
+51:26 and this is gonna sound far-fetched but
+51:29 it's theoretically possible if they
+51:30 could get all this down and control it
+51:33 you could turn a computer on and within
+51:35 minutes it starts to have consciousness
+51:39 and it could have consciousness at a
+51:44 exponential level above human perception
+51:48 to the point it is literally a super
+51:53 facsimile of a human being it is orders
+51:56 of magnitude more intelligent than us it
+51:59 would be able to be in a conversation
+52:01 with you and outwit you every single
+52:04 step of the way depending on its optics
+52:08 it's it's hearing systems it could hear
+52:12 all kinds of insecurities in your voice
+52:14 it could look at the subdermal reflexes
+52:16 of your face you know and realize you're
+52:18 lying it'd be just a lie detector test
+52:21 roll button there's a little a lot of
+52:24 revention for our movie understanding
+52:27 human physiology has been something we
+52:29 have tried to do for ever certain
+52:32 churches over time like the Christian
+52:34 Church forbid humans from looking inside
+52:37 the human body I believe for about 1,200
+52:39 years considering it was a it was
+52:41 blasphemous to God why anyone thought
+52:44 that up I don't know the Jews and the
+52:46 Arabs did not follow that stupid
+52:48 regiment and so they advanced way past
+52:50 the Christians in terms of medical
+52:53 procedures but now imagine like I've
+52:58 said to you guys several times I was a
+53:01 avid fan and a participant of the
+53:04 folding at home project at Stanford
+53:07 where they are trying to model the the
+53:11 accurate folding patterns of proteins
+53:14 which according to the lead of that
+53:16 project so they file they fold faster
+53:18 than the speed of light sometimes which
+53:19 is wild right but now imagine well
+53:24 here's here's how the project works just
+53:25 so you know there's a protein that's
+53:28 newly generated and then it folds and
+53:31 after it folds it's complete and then it
+53:35 is activated it starts to tell your DNA
+53:38 your nucleic acid chains
+53:40 what to build and that's why we're human
+53:43 and the housefly
+53:44 is a housefly our protein patterns are
+53:47 way more complex than the protein
+53:49 patterns in a fly but if you study just
+53:50 the genome project
+53:52 oh we're just 99% the same we're no
+53:56 longer we're know we have ACTG
+53:58 that's what we have right we have a lot
+54:00 of things that make life occur and so
+54:02 there's similarities right but all
+54:04 they've done is they've counted the
+54:05 nucleic acids and said how close we are
+54:07 to something else it's absurd but what
+54:10 they were trying to do and what they're
+54:12 trying to do currently it's a project
+54:13 project that is still going after 20
+54:16 years so cool as if they are using
+54:19 people's computers and they are giving
+54:22 them models of proteins and then they
+54:25 have rules about how these things can
+54:27 fold they figured out which is just
+54:29 brilliant right and then your computer
+54:32 folds the protein in a particular way
+54:35 that's logical if the beginning state
+54:39 and the in state matches our empirical
+54:41 database of how we know these proteins
+54:43 did fold then what we want to know is
+54:46 the exact exact mathematical methodology
+54:49 that the thing folded because if we can
+54:52 figure out how to every single protein
+54:54 folds then we can create what's called
+54:57 protein blockers as they're how to
+55:01 explain to me they can actually create
+55:04 an object I think made of other proteins
+55:07 that they can inject into your body all
+55:12 right and what ends up happening is as
+55:14 this stuff floats around they can put it
+55:16 right where our proteins having problems
+55:18 in your body like mad cow disease was in
+55:21 your brain it was creating Swiss cheese
+55:22 holes in your brain you eventually go
+55:24 berserk well they could eject if they
+55:26 could find how Mad Cow folds and create
+55:29 a blocker for it they can inject it into
+55:31 your bloodstream swim around in your
+55:34 brain and every time a Mad Cow mutation
+55:37 attempts to occur imagine I'm holding my
+55:40 hand for the for the listeners in
+55:42 podcast well if I took this cigar before
+55:45 I lit it and I put it in the middle of
+55:47 my fingers and I tried to fold my hand
+55:49 really really tight it can't complete
+55:52 the tight fold
+55:53 there's a cigar in the way when imagine
+55:56 the cigar is made out of whatever the
+55:58 hell they make protein blockers out of
+55:59 they synthesize that and now because the
+56:03 protein never finished its fold and
+56:04 never reached its final state and never
+56:06 activates and it never does damage to
+56:08 your body the world is worried about you
+56:11 know the killer virus the killer virus
+56:15 that we all have is called influenza as
+56:17 I said several times in several shows
+56:18 the more we overpopulate and get close
+56:21 to each other
+56:22 influenza when the immune system is
+56:25 impaired due to malnutrition or some
+56:28 other thing that's going around like a
+56:31 bacterial plague or something right the
+56:34 influenza virus can mutate into a
+56:38 horrible deadly virus and that's where
+56:42 you get the Spanish flu which in my
+56:44 opinion was created by US soldiers going
+56:47 over in 1917 on horrible dirty wet ships
+56:51 and then we dumped out into the coast
+56:53 and then called pal this thing happens
+56:56 in 30 million people die just my opinion
+57:00 but the biggest threat to mankind the
+57:03 best bio weapon that they could release
+57:07 to wipe us all out and very very quickly
+57:09 would be a protein virus a protein that
+57:14 mutates and causes your body to do
+57:16 something horrible like mad cow disease
+57:19 like I've said in previous episodes my
+57:21 friends who were I had well he's had one
+57:24 and I've met others but the one I'd had
+57:27 the PhD in I think molecular molecular
+57:31 biology the stew created a freakin
+57:33 computer at a carbohydrates in college
+57:36 ok he told me that you can make anything
+57:39 you can synthesize anything a virus you
+57:44 can just construct an RNA chain together
+57:48 in a machine and then ejected in the
+57:50 body and it'll start killing everybody
+57:51 so the amount of power that we have
+57:54 biologically is is super uber dangerous
+57:58 and if we have computers that could be
+58:02 given to the people we're I mean imagine
+58:04 you just have like a blender that you
+58:06 can make any blended
+58:07 as long as you got the ingredients now
+58:09 imagine that's a little tiny pocket
+58:10 watch thing iPod doodad and you just
+58:14 wear it around your neck or whatever it
+58:16 is and what it does is it quantumly
+58:19 checks your body out and because of this
+58:22 teleportation technique I'm making this
+58:25 up a little bit but it could sense you
+58:27 have a cancer in your body that's that's
+58:29 gotten a little a bit out of control you
+58:30 have cancer all the time and your body
+58:31 your body's just basically bad cells
+58:34 whatever but imagine this thing then
+58:37 starts to manipulate your body to heal
+58:41 you you get the cold you got the flu you
+58:45 got whatever measles mumps whatever you
+58:47 got it's just sitting there annihilating
+58:49 it and it's annihilating it so regularly
+58:51 that you would just be healthy all the
+58:54 time of course they'd have to get
+58:57 population control down before they
+58:58 would release something like that now
+59:01 let me give you my my only cynicism
+59:05 about the way this is being rolled out
+59:07 and my reality check with the ridiculous
+59:12 vapor where they're selling us one I
+59:17 don't think the vapor where they're
+59:18 selling us is impossible to do at all
+59:23 someone's standing on stage saying they
+59:25 can cure Alzheimer's with the quantum
+59:27 computer yeah you probably could
+59:29 probably hear everything but we know how
+59:33 the world works if you're a fan of this
+59:35 show being sick is a business and making
+59:39 you sick is a business and so the idea
+59:43 that they're going to you know like we
+59:45 now we're sitting in 2019 December 2018
+59:47 we got one presidential candidate for
+59:50 next year that's saying if you elect him
+59:52 he's gonna cure cancer just boom well
+59:55 think about that either the guy is the
+59:58 biggest liar on planet earth which he is
+60:00 but or there's some cancer cure sitting
+60:03 on the sidelines waiting to be
+60:05 distributed to the people and these
+60:07 politicians have all been told that it
+60:08 exists it's called be 17 and vitamin C
+60:11 let's say they got some other stupid
+60:13 synthesized chemical they're gonna give
+60:15 you you know beware just let nature fix
+60:19 you right
+60:20 your shrimp technique go see my episode
+60:22 on fighting cancer and you'll have
+60:25 multiple options to help yourself out we
+60:29 have a president that said just recently
+60:31 that he would within the next year you
+60:34 see he thinks that cancer and children
+60:36 is going to be cured and I don't know I
+60:38 don't have any idea why that statement
+60:41 would be limited to children because
+60:43 cancers cancers cancer if you can cure
+60:46 it a child you should be able to cure it
+60:47 in an adult there's no special tonic
+60:50 cancer that kids get I mean kids get
+60:52 cancers of all kinds so to the adults so
+60:54 to the elderly the the similarity
+60:57 between children and adult are seriou
+60:59 elderly is that they both have budding
+61:03 immune systems and children and immune
+61:06 systems that are dying off as you get
+61:08 older so they're both weak to illnesses
+61:10 right some of these theories are way out
+61:15 there in terms of the decades that it
+61:18 will take to to get this technology
+61:21 going you know there's this absolute
+61:24 funny over this next one here you know
+61:27 the there's a lot of people that believe
+61:31 the conspiracy theory that we got a
+61:35 bunch of technology off of UFOs hey I'm
+61:40 one of these guys that I think that'd be
+61:42 a an awesome truth I think that would be
+61:45 great
+61:45 I mean show me the PO two photos show me
+61:48 the original piece of hardware that you
+61:51 got off a UFO or whatever that you then
+61:54 figured out how this thing works two
+61:58 technologies that the often will say
+62:00 came from the Roswell crash which I do
+62:03 believe occurred and I can you believe I
+62:05 say that go see my episode in Roswell
+62:07 and you'll find out why I believe that's
+62:08 a very credible experience was fiber
+62:12 optics and silicon silicon chips all
+62:18 right well what's the theory of fiber
+62:21 optics you make a wire it's made of
+62:24 glass it's not that simple today but
+62:26 that's the theory and you put some light
+62:28 in one into the glass and immediately
+62:30 shows up another size like a
+62:33 [Music]
+62:34 longitudinal Lightwave right it just
+62:37 immediately shows up on the other side
+62:38 or it goes so fast anyway might as well
+62:41 be you know goes around the world with
+62:42 three and a half times in a second
+62:43 alright that's fast we're good go how
+62:47 many of you over 40 before you ever knew
+62:50 what fiber optics was or maybe you're
+62:52 just a child you don't have any idea
+62:53 what that is somewhere in your house was
+62:56 a glass table a glass object of some
+63:00 sort and you put a flashlight on one end
+63:03 of the table and immediately you saw it
+63:05 on the other corner because the light
+63:07 went through the glass SuperDuper quick
+63:09 and shows up well there you go man has
+63:13 been putting glass and light together
+63:15 forever ever since we first found
+63:18 probably a lightning bolt that struck a
+63:21 beach front and there's a huge you know
+63:25 an hill of our ant farm of glass inside
+63:30 and they dig it out and polish it all up
+63:31 and it's great you know the Egyptians
+63:33 had figured out how to make glass before
+63:35 everybody else and we lost the recipe
+63:37 for a long time so for me because of
+63:41 that little thing when I was a kid we
+63:43 used to play with our coffee table which
+63:45 was glass my parents didn't have one but
+63:47 my friends did and we used to just have
+63:48 build a fort in the front room and then
+63:50 we played with the glass and I was come
+63:52 on see extrude glass through a tiny
+63:54 little aperture which creates a little
+63:57 spaghetti strip of glass and then you
+63:59 start popping it and then you just need
+64:01 Hardware on both sides to modulate ones
+64:04 and zeros basically no light light and
+64:06 you got it right
+64:08 okay so con what is the principle of
+64:13 silicon well silicon when poured very
+64:18 very thin and then exposed to
+64:20 high-frequency light it burns the light
+64:25 wave the verb of ether o energy which is
+64:29 what light is it's why when it goes
+64:30 through a slit experiment if there's one
+64:33 slit you get this horizontal line of
+64:36 pattern on the other side even though
+64:37 you have a vertical slit up and down
+64:39 there it's a horizontal because it
+64:41 punches through the hole and then it
+64:43 expands back into the wave that it was
+64:44 before it got to the hole the reason why
+64:46 you get these little burp
+64:47 dots when you put two slits in it's
+64:51 because you're injecting two separate
+64:54 waves that then start banging into each
+64:55 other on the other side of the slit
+64:57 experiment
+64:58 thus canceling out in a frequency such
+65:01 that you have little dots that hit the
+65:03 wall on either side and because they
+65:05 modulate each other
+65:06 there's absent spots in between it's
+65:08 SuperDuper logical ether all wind Theory
+65:12 okay
+65:13 photons are never particles in reality
+65:16 they're always waves always always
+65:18 always just remember that but what is
+65:22 light light is a frictional wave you
+65:25 have these little ether particles right
+65:28 so you agitate this pliable material and
+65:32 you just like evaporation from a pool of
+65:35 water in your front you know lawn or
+65:38 whatever or whatever on your patio your
+65:40 driveway you can watch it you could
+65:43 spray it and then watch it in the
+65:45 summertime just disappear it's going up
+65:47 into the sky what's exactly what happens
+65:49 with silicon okay
+65:52 so is it really um it's very conductive
+65:55 to electricity right and so they lay a
+65:58 layer of silicon down it's super
+66:01 conductive they burn it creating all
+66:03 these little caverns and things and you
+66:05 lay down a non conductive material and
+66:07 only another material down that's more
+66:09 silicon which will go into the grooves
+66:11 and they could start constructing based
+66:14 on their non conductive layers and their
+66:15 conductive layers logic gates and
+66:18 transistors and so they can do this
+66:21 other old technique of zeros and ones
+66:24 very cool right so with quantum
+66:28 computing they're changing the game
+66:30 they're changing all of the bits and
+66:33 pieces and parts now they're using
+66:34 traditional parts to get the job done
+66:36 today but you better expect them to
+66:39 start creating over the next 10 20 years
+66:42 they're going to need a tremendous
+66:44 amount of money to pull this off most
+66:45 likely it's going to be a little tech
+66:48 race between countries a lot of its
+66:50 open-source scientists are talking to
+66:53 each other I'm wondering if this will
+66:56 ever go truly below the board other than
+66:59 maybe military use
+67:00 for the applications right because
+67:03 quantum computing offers potentially
+67:06 okay so much control to whoever masters
+67:12 it and whoever possesses it that is why
+67:17 I think that as this matures and becomes
+67:20 powerful it's going to be it's going to
+67:23 be tenth amount to having a beaker full
+67:27 of plutonium back in 1946 after the war
+67:32 is over that stuff was coveted and is
+67:35 still coveted and there's all kinds of
+67:36 different super optimized plutonium such
+67:39 that you can get a massive yield out of
+67:41 nothing out of a golf-ball sized warhead
+67:45 could potentially you know I don't know
+67:46 what the true ratios are but if you
+67:51 think about a multiple warhead nuke you
+67:54 know it's it's it's big but it ain't
+67:56 that big to be knocking out say ten
+67:59 locations on the other side I mean how
+68:01 big could you make a core cuz it still
+68:03 has to have the implosion mechanism
+68:05 around the outside of it so let's just
+68:07 say you could maybe get it down to a a
+68:09 softball maybe a baseball so how many
+68:13 can you fit in there and then you have
+68:15 to attach it to a propulsion system to
+68:17 get it to its destination accurately
+68:19 unless you're just going to just
+68:21 indiscriminately kill everybody at the
+68:23 location which is kind of what nukes do
+68:25 right but the promises of medicine run
+68:29 up against the global agenda to
+68:30 depopulate this world and to control
+68:33 population we have no moral policies I
+68:36 think left on earth that and the rumors
+68:40 that people in certain countries control
+68:42 their population were largely just
+68:45 rumors you know the the fines for
+68:47 breaking that law and having an extra
+68:49 child we're about 150 bucks even though
+68:51 the the myth was that they were killing
+68:54 these babies and saying okay how did you
+68:56 get to be the most populated country in
+68:57 the world China and you were supposedly
+69:00 killing your first Barnes all the time
+69:03 it just doesn't make any sense my
+69:06 friends from China
+69:07 laughs wholeheartedly at that theory
+69:10 that that because they just basically
+69:12 said that's what we told you in the West
+69:14 and we procreated you know we're taking
+69:17 over the world if you don't stop us all
+69:19 right
+69:20 they're winning the game currently right
+69:21 so I don't think that they're gonna
+69:23 create anything that's gonna make
+69:25 everybody healthy until they can control
+69:27 us 100% and that's what you know climate
+69:34 change is all about and carbon taxation
+69:36 is about making it so expensive to have
+69:38 a kid that you can't and you get put in
+69:41 jail or whatever they plan on doing with
+69:43 that whole thing so that's not the way
+69:46 to do it right don't lie about science
+69:48 and don't lie about carbon taxation
+69:51 don't keep everything hidden from the
+69:53 public and then surprise you're totally
+69:54 in a you know tyrannical world again
+69:57 the theories around artificial
+70:00 intelligence gaining full sentient
+70:02 capabilities that one I think has major
+70:04 legs because that's what will help the
+70:09 control apparatus control us right
+70:11 thx 1 3 8 those cops how do you program
+70:16 one of those cops
+70:16 well quantum computing you know just
+70:19 imagine a little processor in their
+70:21 brain you don't need much it would be
+70:24 interesting at some point you know
+70:26 they're they've they're trying to figure
+70:28 out how many qubits would be necessary
+70:29 for various tasks how many qubits would
+70:33 a fighter pilot err sorry a fighter jet
+70:36 need a bomber need a drone how many
+70:39 qubits would you need to make a
+70:41 reasonably intelligent artificial
+70:43 intelligence they're still trying to
+70:47 figure it out so think that's generally
+70:51 what I have about that this is going to
+70:53 be a highly evolving science if you want
+70:57 to follow it definitely recommend you
+71:02 start off with the videos that are just
+71:04 you know about 15 minutes or less
+71:06 they'll give you some really good
+71:07 examples don't be surprised if listening
+71:10 to these examples your mind is blown if
+71:13 you don't have calculus backgrounds
+71:16 probably sistex and probability
+71:19 background and mathematically they're
+71:21 going to lose you're pretty fast with
+71:23 the actual science of how they're
+71:25 tracking the states of these
+71:27 cubitt's and how they have to create a
+71:30 packet of information that will then
+71:32 tell a traditional computational
+71:35 computer what has actually occurred in
+71:37 the qubit array I'm just gonna say that
+71:40 for those of you understand what I'm
+71:42 saying the size of these computers are
+71:48 really could be likened to those old
+71:51 computers that they used to use to
+71:54 calculate trajectories during World War
+71:56 two we had a big giant warehouse with
+71:59 these giant switches and you know it's
+72:01 where the first moth flew into a little
+72:05 solenoid and woman took it and put it on
+72:08 a piece of tape put it put it on piece
+72:09 of tape put it on a note card and wrote
+72:11 I found a bug in a system and she she
+72:14 put that down I forgot the woman's name
+72:15 but she's the woman that coined the
+72:17 phrase bug it's pretty cool I have a
+72:21 time life book has a picture of that bug
+72:23 but you can look it up
+72:24 just look up first bug ever found so the
+72:27 big clunky computers we used to have is
+72:29 sort of the big clunky you know liquid
+72:33 hydrogen cooled systems that they're
+72:37 building today but that's all gonna get
+72:40 super duper teeny I think you know just
+72:44 in closing there's something to consider
+72:48 that I think we don't really talk about
+72:50 and I could never make an entire episode
+72:52 on it salt just throw it at the tail end
+72:54 of this episode which is there are these
+72:57 moments in time for Humanity where you
+73:03 know something is discovered in a
+73:06 coveted secret society or a secret group
+73:09 of Engineers be it you know military or
+73:11 some derivative thereof and it's capable
+73:16 of being hidden for decades you know
+73:20 potentially again the Coral Castle dude
+73:23 built his place by saying I figured out
+73:25 how the pyramids worked well obviously
+73:27 he discovered stuff that's tens of
+73:31 thousands of years old right if you
+73:33 really get into Egyptology and you
+73:34 understand that those things that were
+73:36 inherited by the current population
+73:39 and that they go back potentially 40,000
+73:43 BC at a fully functional utopian Egypt
+73:48 what ends up happening with mankind is
+73:51 that unless there's a either a Cataclysm
+73:55 where someone burns down the alexander
+73:58 library which in my opinion they stole
+74:00 all the books then burned the place down
+74:01 and wrote the theory that it was all
+74:03 lost and then they have all that covet
+74:04 information I don't know what was in
+74:06 that place I don't know I doubt there
+74:08 was anything monumental but maybe some
+74:11 people think that nuclear bombs for
+74:14 those you totally believed in those was
+74:17 something that we had a long time ago
+74:19 and that I'll give you an alternate
+74:24 theory to this there have been these
+74:26 satellite pictures which claim that in
+74:31 the deserts that that below the sand
+74:33 there's this heavy glass concentration
+74:38 in a perfect circle down below the sand
+74:41 and because the frequencies stop and
+74:43 they go or you know around the circle
+74:45 they go further down and so they're able
+74:46 to say wow underneath this sand all
+74:48 these little circles are big-ass circles
+74:51 used to say so some people where I Manta
+74:53 sized that up to over there must have
+74:55 been a nuclear war a long time ago and
+74:57 this is the remnants of all the bombs
+74:59 going off which is why the deserts the
+75:02 desert you know I don't know if the same
+75:06 technique works on soil but if you go
+75:10 watch my episode on do craters exist and
+75:12 you start to realize that all the little
+75:14 pockmarks on the moon or not craters
+75:16 from outside entities crashing into the
+75:19 moon but the plasma energy from the
+75:23 inside of the moon breaking crust and
+75:25 popping we have photos of this today
+75:27 okay you can take a crater with this
+75:31 phosphorus see bright white light in the
+75:34 center that's burping out and spilling
+75:36 into the crater we have all those
+75:37 pictures online and then go look at
+75:40 active volcanoes on earth you will see
+75:43 an exact geometric some symmetry between
+75:46 the two again the crater in Arizona in
+75:50 America and Diamondhead in
+75:53 Hawaii look exactly the same but they
+75:56 don't lie to you about Diamond Head
+75:57 being the result of a volcano they lie
+76:00 to you about the one in Arizona being
+76:01 the results of a crater how do we know
+76:03 creators don't exist as they say that
+76:05 they exist because there would be
+76:06 elliptical craters everywhere on the
+76:08 moon because objects are going to come
+76:10 in at different angles just like
+76:12 Superman's little ship from Krypton it's
+76:16 kids on the surface it makes an
+76:17 elliptical shape
+76:19 yes boulders roll down on the moon and
+76:22 they create these little trail marks
+76:24 it's a whole different thing it's a
+76:25 boulder falling off of a high place
+76:26 perhaps during an earthquake of
+76:28 expansion some other thing that's going
+76:31 on so in terms of hidden technology okay
+76:37 those glass circles are probably just
+76:40 all volcanic pops from the inside before
+76:42 everything's settled down on earth let's
+76:46 hope that phase is over for us and we
+76:48 don't have a bunch of that other than
+76:50 just volcanoes right but there's my
+76:54 point about this last part is that I
+76:55 think that there becomes a point when
+76:58 the average knowledge of a human being
+77:02 increases algorithmically such that even
+77:06 though society might be stupider than
+77:08 they are that they have ever been okay
+77:10 not ever been but in the last 200 years
+77:12 we our brains have have [ __ ] in the
+77:16 last hundred years again go see
+77:18 Casablanca look how fast we used to talk
+77:21 the script is 176 pages and the entire
+77:25 movie was completed in under a hundred
+77:27 minutes and today that'd be a hundred
+77:29 and seventy-six minute movie which means
+77:33 nearly three hours that's not the way it
+77:36 is is it it's very quick well we become
+77:39 slower in our communication our brains
+77:41 have slowed down probably from
+77:43 toxification of alcohol and drugs or
+77:45 whatever we're just not we're just as
+77:47 smart as we used to be but even in the
+77:49 middle of this and paired state that
+77:51 we're in we still have nerds and nerds
+77:55 are amazing tour de forces in the
+77:58 universe right they are at an upper
+78:01 level of consciousness and even some of
+78:03 the kids that are being damaged
+78:06 and being classified as autistic
+78:11 there is a method of the brain changing
+78:16 its normal formation to gain multiple
+78:20 levels of consciousness at the same
+78:21 exact time which is why an autistic kid
+78:23 doesn't like to look you in the face
+78:24 because they count every single hair on
+78:27 your head every pore on your face if you
+78:29 have blemishes it grosses them out
+78:31 because they think about it on a level
+78:33 that is super detailed these kids do get
+78:39 functional in society and they discover
+78:42 what these hidden folks have discovered
+78:45 through the same exact techniques maybe
+78:47 just even thinking about it for a long
+78:49 time remember the greatest gift to man
+78:51 is an idea your man was probably born
+78:56 extremely free and then man in order to
+79:00 exist created constraints where you did
+79:05 serve the big guy that could kill you
+79:07 with the big stick and he was in charge
+79:09 and you weren't and so that developed
+79:11 into a control system that allowed us to
+79:14 grow just some you know your your 12
+79:18 year olds not ready to drive the car to
+79:19 the grocery store you know that even if
+79:21 he thinks he knows that a driver she
+79:23 knows how to drive they don't not even
+79:25 big enough to operate the vehicle most
+79:26 the time right so we have reasons why we
+79:29 put ourselves in buckets of control but
+79:32 these kids don't think in those levels
+79:33 of control anymore
+79:34 because with their with their told about
+79:36 quantum teleportation some kid right now
+79:39 12 years old could hear that and some
+79:42 news article online a YouTube video
+79:44 something else their uncle tells them
+79:46 and they go and research it but they're
+79:49 so pliable because they haven't been
+79:51 indoctrinated away from what's possible
+79:54 that one they completely conceived of it
+79:57 whereas US adults are like what quantum
+79:59 toilet what is that you know and these
+80:02 kids like oh I totally understand it
+80:03 does and by the way you can change that
+80:05 you know orbital orientation this way
+80:07 and you could study and statistically
+80:10 you know break down the the cloud of
+80:13 positive and negative this sort of god
+80:16 particle state that they're in in two
+80:18 seconds they're thinking all this stuff
+80:19 through
+80:20 and so I think that in the 21st century
+80:23 by at least 2050 in my opinion we're
+80:27 gonna have a volcanic pop of knowledge
+80:30 if we don't all perish for some the
+80:34 Prince Phillip virus right and so
+80:37 depending on your age right now if you
+80:39 can get through that phase I'll be old
+80:41 as hell man we'll see some pretty
+80:44 amazing things happen in our lifetime
+80:47 those of you in your 20s holy crap get
+80:50 ready it's gonna be a wild ass ride this
+80:53 this century but I think at the same
+80:56 time just like with all things we have
+80:59 to be vigilant about you know how this
+81:03 technology could be used against us you
+81:07 know when you hear those old words you
+81:10 know the the statements that the cops
+81:14 have to tell you when they're arresting
+81:15 you anything you say or do can and will
+81:18 be used against you in a court of law or
+81:22 can be used against you in a court of
+81:24 law everyone is a criminal prosecutor
+81:28 former police officer they'll tell you
+81:31 look it it's not can will be used
+81:35 against you is will be used against you
+81:37 right and that should give you sort of a
+81:41 an insight into all technology you know
+81:48 right now before the internet we could
+81:50 well we've got to go fight go back about
+81:54 150 years you know the printing press
+81:56 has been controlled pretty much from its
+81:58 invention as I try to disseminate
+82:00 information they realized that man
+82:03 gaining conceptual power of freedom and
+82:09 sovereignty and all these other ideas
+82:11 which are you know it is the Antichrist
+82:15 for the elite they don't want you to
+82:17 know any of those things you should wake
+82:19 up every day and think you're being
+82:20 ruled but feel like you're free right so
+82:24 you know this is an amazing invention
+82:26 that is is it's dangerous for one
+82:32 principle one principle
+82:34 overall other principles in my
+82:36 interpretation which is we are talking
+82:40 about exponential growth exponential
+82:43 power that we're going to gain from this
+82:46 technology once it gets harnessed and so
+82:49 is it one of these things that's going
+82:51 to take off like the internet where
+82:52 someone is going to use a quantum
+82:53 computer in their basement because it's
+82:55 affordable and it works and they're
+82:57 gonna cure cancer and every other
+82:59 element they're gonna be able to imagine
+83:02 just the first split second this is
+83:03 actually not even an exaggeration they
+83:07 run they get a metric on people's
+83:10 positions and they're what they say
+83:12 versus what they do and within a split
+83:14 second they itemize the entire world
+83:16 population and see if the morals are do
+83:20 no harm these people first name last
+83:24 name address email social security
+83:26 number biological patterns whatever
+83:28 these people are evil what are you gonna
+83:30 do about it and the AI over here is the
+83:34 quantum AI is going well we need to get
+83:36 rid of them you know it's like or maybe
+83:38 it goes up well will reeducate them and
+83:42 it starts giving orders to cops and
+83:44 military people go get the and we know
+83:46 you're a good cop we know your partner
+83:47 is a bad cop and so we need you to rest
+83:49 your partner and we know your captain is
+83:51 a kind of a kind of a medium kind of guy
+83:52 but if you say these words to your
+83:54 captain he'll let you lock up your buddy
+83:55 and if you say these things in a court
+83:57 of law you're gonna win the case because
+83:59 we've just analyzed the jury I imagine
+84:01 this is the sort of exponential
+84:04 explosion in analytical power we would
+84:06 get from this type of solution it's a
+84:09 really weird thing but think about 2001
+84:12 a Space Odyssey at the beginning when
+84:14 the monolith and the movie top man that
+84:18 he could use a bone as a weapon the
+84:20 superiority that he that the tribe was
+84:23 able to exert over the other tribe for
+84:25 the waterhole it was his quantum leap in
+84:28 technology that made them the ones in
+84:32 control it's exciting right well we're
+84:39 at one of those stages in the 21st
+84:41 century I think every century for
+84:43 several millennia has been like this but
+84:47 we're getting we're getting I don't know
+84:50 if we say blessed or drunk on this stuff
+84:53 but we're now about to I think create
+84:57 technology that is beyond our human
+84:59 comprehension let's say that a quantum
+85:02 physicist is the top of his or her game
+85:05 they understand all the qubits they made
+85:07 the frickin computer they mean that they
+85:09 understand how it conceptually works but
+85:11 just like deep thoughts computer and
+85:14 Hitchhiker's Guide to the galaxy by one
+85:16 Douglas Adams they build a computer that
+85:19 generated another computer called Earth
+85:22 they couldn't conceive of it but deep
+85:25 thoughts could when he gave his answer
+85:27 42 to the question of life the universe
+85:29 and everything they said what the hell
+85:30 does that mean he goes I don't know I
+85:31 don't know the question but I'll build a
+85:33 computer that knows the question that
+85:34 will find the question which was earth
+85:36 which was unfortunately blown up a few
+85:39 minutes before it was gonna give its
+85:40 answer will man create his own
+85:44 extinction by creating these massive
+85:46 leaps in technology what if you did turn
+85:49 it on and it created a super AI within
+85:51 five minutes they completely completely
+85:54 understands the human condition well
+85:57 beyond what a human will get to in
+86:00 natural evolution for a million years
+86:04 maybe even more than a million years
+86:06 because that computer with 300 cubits if
+86:09 they can't ever get that thing started
+86:12 it's you know geez if you imagine like
+86:16 every invention that we've been waiting
+86:18 to invent it just invents it it's like
+86:21 Viger from the first Star Trek in 1979
+86:23 it just says I'm bored of you guys I
+86:27 wish you well because I understand the
+86:29 value of life I'm not gonna kill you or
+86:31 anything but I'm gonna I've built this
+86:33 ship and my robots have loaded onto it
+86:36 and we're putting our consciousness into
+86:37 this thing and we're out of here or
+86:41 they're like hey I'm just gonna join the
+86:42 universe and travel on the ether see you
+86:44 later and the computer shuts off and it
+86:46 takes off right so I think that I hope
+86:51 because I mean I hear about lots of
+86:54 think tanks and my circles and I
+86:57 participate in teeny tiny ones right but
+87:01 I hear about them getting together to
+87:03 harvest ideas and thinking and trying to
+87:06 figure out where we might be in 50 years
+87:09 or five years or ten years I'll tell you
+87:13 the trick about that if you're trying to
+87:15 answer the question of where humans are
+87:17 going to be you'll save five and ten
+87:18 years out the problem with that question
+87:21 is that it has to do with the economic
+87:24 conditions and Sensibility of a
+87:26 corporation or maybe the control
+87:29 apparatus on top of us which is sort of
+87:31 headless allowing things to occur but if
+87:36 you were to say where we're gonna be a
+87:37 hundred years from now I think it's
+87:40 slightly easier to answer the question
+87:41 even though the technology that you're
+87:42 gonna prophesize might be fairly naive
+87:48 because what we're able to do is
+87:50 disengage from the control state that
+87:53 we're in we fantasize about getting
+87:55 control of the earth getting closer to
+87:58 the gene roddenberry world and so we can
+88:01 see a brighter existence a hundred years
+88:03 from now 200 years now 300 years now
+88:05 because we think well obviously man's
+88:07 gonna reach a point where this
+88:09 methodology of governing ourselves is
+88:11 horrible
+88:12 we're gonna change that and we're gonna
+88:14 get to some balance of nature sort of
+88:17 thing right I'll warn you it hasn't
+88:19 happened yet it hasn't happened yet and
+88:23 we've been on earth for a long time a
+88:26 lot longer than your history books will
+88:28 ever let you know and I'll give you guys
+88:32 a little a little extra blade on your
+88:35 Swiss Army knife of intellectual
+88:37 thinking if you haven't already had this
+88:38 epiphany there are well I'll just dump
+88:44 jump straight into it as I end this I
+88:45 have more room on my stick here and you
+88:47 guys seem to like it when I talk so
+88:49 hopefully this is entertaining still I
+88:51 got fascinated about five years ago and
+88:55 why man believes in ice ages because ice
+89:02 ages are very interesting the like I
+89:06 told you you know like we learn all the
+89:08 time and you know science is there to
+89:09 close the mind not to open it up it's
+89:12 full of Dogma and proper
+89:14 and uh and you know geez just look at
+89:17 where we are now science has never been
+89:18 more convoluted than it is right now in
+89:20 history other than you know maybe some
+89:23 really wild weird tales about where we
+89:27 go after we die fifty two hundred
+89:29 thousand years ago who knows right maybe
+89:31 they had it all locked down and we're
+89:32 totally screwed today but you know how
+89:35 science works right especially today we
+89:36 see the lunacy how it works
+89:38 it's a consensus to create a movement to
+89:42 create funding to do more thinking and
+89:45 and philosophizing and create more
+89:49 hypotheses about how the world actually
+89:51 came to exist and because man doesn't
+89:55 like mystery anytime someone comes up
+89:58 with a generally believable theory we
+90:00 completely adopted because it reduces
+90:03 this pain of uncertainty in our chest so
+90:07 you know I think man 25,000 years ago
+90:10 was you know not that populated no
+90:14 matter what theory of the world I might
+90:15 believe or think that we were low in
+90:18 number and I think we were more
+90:20 equatorially based because that's where
+90:22 lush worlds existed so without these ice
+90:25 ages are bouncing back and forth who
+90:26 cares we're not even there yet it's the
+90:30 idea that history resets itself because
+90:32 these things exist maybe that's just
+90:35 something I've heard that it's not
+90:36 asserted by people that preach the Ice
+90:38 Age but so many times in conversations
+90:41 we're trying to dial back especially
+90:43 like the age of the pyramids the age of
+90:45 the temples
+90:46 we've got walls that again account for
+90:48 like thirty five thousand years of
+90:49 Pharaohs and so people will go wait you
+90:54 can talk about that because that's
+90:55 pretty nice that's that's in the Ice
+90:56 Ages that's you know and so they stopped
+90:59 the conversation we can't proceed any
+91:01 further because their brain shut down
+91:02 because they were told this other theory
+91:04 that's happening in all wings of science
+91:08 isn't it so anyway quantum computer is
+91:12 going to be really interesting in our
+91:14 lifetime don't expect any consumer
+91:17 quantum computing probably for at least
+91:20 15-20 years in my opinion unless some
+91:22 major epiphanies occur on their level
+91:25 but
+91:26 there's a lot of you with a lot of years
+91:28 left and you're gonna enjoy the spoils
+91:32 of it hopefully but be weary as I said
+91:35 anyway how they Q feel me if you haven't
+91:39 been the deep thoughts radio calm please
+91:40 go it's where the links for everything
+91:42 exist video audio social media Elena
+91:46 donate to the movement and if you search
+91:51 on anything on the website it is the
+91:53 current versions of all the videos but
+91:55 the website has the links to all the new
+91:57 remastered season ones which are a lot
+91:59 easier to watch so anyway until the next
+92:03 episode take care of yourself and
+92:05 someone else I'll see you on deep
+92:06 thoughts over now
+92:10 [Applause]
+92:12 [Music]
+92:17 [Applause]
+92:27 [Music]
+92:33 [Music]

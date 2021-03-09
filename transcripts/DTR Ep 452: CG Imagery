@@ -1,0 +1,2309 @@
+undefined
+00:04 [Music]
+00:21 [Music]
+00:30 welcome back ladies and gentlemen now
+00:35 it's November it's the middle of
+00:37 November 20 19 it is 80 plus degrees out
+00:43 here and it's really 80 degrees out here
+00:48 my phone's telling me it's 86 it's
+00:52 beautiful out here
+00:53 myself an Excalibur got this cool wizard
+00:58 shirt my dad got me here this is Ralph
+01:02 Bakshi's wizards now when I went to
+01:05 animation school in the Brockton art
+01:10 museum when I was 12 or so this is piece
+01:14 right here is Disney's piece after the
+01:17 old man they'll wizard zap disaster
+01:22 robot named forgot what it was something
+01:25 rather better than but the old wizard
+01:27 hits him and then he's like he now your
+01:29 name's piece and that's what he was he
+01:35 was like a beautiful creature after that
+01:39 man if it was only that easy right I've
+01:43 been all up about 15 minutes then I
+01:48 thought man that stays beautiful
+01:50 schedules all upside down I've been
+01:52 writing to the wee hours of the night
+01:54 and I saw this one I'm going to spend
+01:59 most of my day doing today but I'm also
+02:01 gonna do some 3d stuff today just a
+02:03 little tiny little thing for a friend of
+02:06 mine but I've been debating this episode
+02:09 for quite a while which is to say we
+02:12 have CG stuff out there right
+02:13 computer-generated graphics CGI again
+02:20 everybody in my world didn't know and in
+02:23 the business says CGI CGI and but you'll
+02:25 hear all these people say it online CG
+02:30 that's it
+02:32 usually it was a CG okay Peter generated
+02:35 alright that's it that's how the
+02:37 conversation goes in the end
+02:38 Street so if you want to be hip and cool
+02:40 drop the eye and what's funny is that we
+02:43 used to have a internet scripts used to
+02:47 be called CG ice so it got really
+02:49 confusing in the 90s I have a book by Al
+02:52 Riley that says CGI scripting or so that
+02:55 much I can't even I can't remember what
+02:58 the hell the acronym stands for but
+03:00 anyway what this episode is going to
+03:01 attempt to do is a couple things now
+03:06 there are a lot of you out there that
+03:07 really follow 3d software even though
+03:09 you may not use it you follow the
+03:11 industry we have geniuses like Tim who
+03:14 have been in the industry well we have a
+03:17 guy who's just a member who has he's
+03:23 done as much as probably most of my
+03:25 friends so we have some beautiful
+03:28 experts and it's funny to watch people
+03:29 you know argue with Tim it's like you're
+03:35 wrong Tim is right but I've been around
+03:38 this industry for a super long time but
+03:41 in the computer business for a long time
+03:43 game business for a long time
+03:45 my co-host from the other show MKULTRA
+03:49 radio like I say several times he's got
+03:51 two Emmys for special effects one for
+03:54 serenity the movie and one for
+03:57 Battlestar Galactica the relaunch he's
+04:00 now working on Top Gun but the dude is
+04:02 done I think he's touched every Star
+04:06 Trek from Voyager up he helped do the
+04:11 intro for enterprise but the dude is
+04:13 just like he's done all kinds of weird
+04:17 stuff like Apple commercials and you
+04:19 know it's just nuts but once you get you
+04:22 know a friend in the business then you
+04:24 invited to a party and then there are a
+04:27 bunch of people you meet in the industry
+04:30 right check that out those of you missed
+04:35 it on the podcast that wasp just totally
+04:38 checked out the camera there they will
+04:40 do instant replay here we go instant
+04:43 replay where did this you know this
+04:46 industry come from because there's
+04:47 always been special effects right
+04:50 we know that you know the first time you
+04:52 saw King Kong you saw someone point a
+04:58 gun and there's a laser coming out and
+04:59 the Buck Rogers episode back in the 30s
+05:02 we've had people screwing around with
+05:04 cameras and making special effects and
+05:06 the funny thing is is that the animated
+05:08 24 frames per second camera came out of
+05:12 someone playing with 35 millimeter
+05:14 cameras or whatever millimeter they used
+05:17 to be and then speeding it up and
+05:20 playing it really fast and seeing the
+05:21 guy on the horse you know run and the
+05:23 guy walking animating those I forgot
+05:25 what they call it but this little
+05:26 carousel devices back in the day so
+05:31 there's always someone being clever with
+05:32 imagery so way back in the day you got
+05:35 people literally using grease pencil or
+05:38 other techniques to draw literally on
+05:41 the film frame by frame by frame and
+05:43 then taking pictures of that and then
+05:46 printing it such that they could
+05:48 distribute the film anywhere right all
+05:52 the way up to today we have massive AI
+05:56 participating in the deep fake it
+06:00 studies my face a thousand percent and
+06:02 then says oh well let's just put Arnold
+06:05 Schwarzenegger space over the stood
+06:06 space and honestly it's really smart
+06:11 okay but as a programmer theoretically
+06:17 it's not that intense I mean it's really
+06:20 not that intense okay we're going to
+06:22 we're going to rasterize the human face
+06:25 we're obviously looking for a couple
+06:27 like sockets a nose a mouth and then
+06:31 relative positioning thereof once we
+06:33 find what we can approximate as a center
+06:37 of an eye socket the edge of a mouth
+06:38 then we have these orientation points
+06:41 that we can start jumping off and start
+06:42 looking for the chin lines the ears all
+06:45 that good stuff now someone has to do it
+06:49 and people who actually do it they get
+06:52 the award because they went through the
+06:55 theoretical process of making it happen
+06:57 there's a lot of people that will poopoo
+06:59 other people's stuff unless you do it
+07:02 you're not the you're not the dude
+07:04 the dudette right but it is
+07:07 theoretically very explainable so I'm
+07:10 gonna do is take you through the first
+07:13 pixel all the way to modern-day and
+07:17 start to kind of piece it together
+07:20 because the other audience is the
+07:22 audience that really doesn't know
+07:23 anything about computer-generated
+07:24 imagery but they pretend like they do
+07:27 because they'd only be caught with their
+07:28 pants down in public and so this video
+07:31 is for you
+07:32 and you'll know more than most people
+07:34 after this video is over from the
+07:37 software to the capabilities to the
+07:38 history like it's done my little lizards
+07:41 getting a lot bigger today's his day 86
+07:46 degrees in November like hell yeah
+07:49 looks like the wasps are really super
+07:53 agitated right now like it like excited
+07:55 not angry they're looking for new homes
+07:58 moving around I think they thought their
+08:02 game was over I'm starting to get a
+08:04 super duper cold
+08:06 that's your wasp update I believe I have
+08:09 this date right this guy's name's Ivan
+08:13 Sutherland 1962 it was either 62 some
+08:21 reason 68 rings in my mind too but he
+08:22 plots the very first pixel on a screen
+08:26 using a memory it's black and white he's
+08:31 got a range of memory that he set aside
+08:34 that is either 0 or 1 and the zero men
+08:39 don't do anything and the one meant
+08:41 there's a pixel now part of the genius
+08:44 of the pixel is that you have this sort
+08:48 of quantifiable little square which for
+08:50 all of us today is no big deal but the
+08:54 truth of the matter is we have monitors
+08:58 that are shooting this gun from the back
+09:00 of this this tube covered in phosphor I
+09:05 believe that's what it is and it's got
+09:07 this piece of metal inside it's got this
+09:11 checker or this sort of Swiss cheese
+09:13 pattern they're all round and so it's
+09:17 shooting and hitting that
+09:18 and then hitting the screen and that's
+09:19 what's creating this picture that you
+09:21 see and it starts in the upper left and
+09:23 goes xìng xìng xìng xìng xìng to the
+09:25 lower right and the reason why when your
+09:27 computer or so when your monitor got out
+09:28 of phase your TV back in the day you
+09:31 started that black line they kept kind
+09:32 of rolling over the reason why that
+09:36 existed was that your refresh rate was
+09:39 out of sync with your eyeball and so the
+09:42 black line that you see was the
+09:45 broadcast dead signal between frames so
+09:50 you know you have to have so many frames
+09:51 per second to see TV and this is
+09:54 changing constantly in the 60s and 70s
+09:56 and you know they kept trying to figure
+09:59 it out but there was a dead zone and so
+10:04 the gun is just waiting but that would
+10:07 carry those bits into the viewable range
+10:09 if it was out of sync and so you're
+10:13 always adjusting the TV and that's not
+10:18 to be confused with degauss in your
+10:20 monitor as well those dude plots a pixel
+10:24 but he understands he's going to have to
+10:27 do a little bit of geometry within the
+10:30 TV to plot the thing in a way that it
+10:33 can have any dimension of viewability
+10:35 because a single point from that gun is
+10:39 nearly invisible and it's got kind of
+10:41 kind of a glowy roundness to it like a
+10:43 star it doesn't really work that well
+10:47 but once he did that he taught
+10:50 programmers holy crap
+10:52 we can now create sort of a pixelated
+10:56 fiction on the screen and someone as
+11:01 boring as it might seem someone had the
+11:04 ingenious idea of creating the game pong
+11:08 you've seen it right two little walls on
+11:12 both sides got a little control first
+11:16 pong was a stand-up video game was
+11:18 actually pretty wild-looking they plot
+11:21 like a little center line it's like a
+11:24 little tennis net and they differed
+11:27 quite a bit between units but you have
+11:31 this thing and you have the ball
+11:32 and it's just kinetic energy transfers
+11:36 if I remember right the very first pong
+11:38 game I don't know if it was an Atari
+11:42 game or not but it is soon got into
+11:43 Ataris hands and that launched their
+11:46 empire and perhaps it wasn't copyrighted
+11:49 then we have the golden era of arcade
+11:53 games and I've got a whole episode on
+11:55 arcades not only the games we like to
+11:57 play but the culture and the moment that
+12:01 no longer exists that when you try to
+12:03 tell your kids about arcades you know
+12:05 you just sort of give up so that episode
+12:08 is dedicated to getting it right but you
+12:11 know we get space invaders asteroids and
+12:14 they're all fairly you know they're
+12:16 using different technologies asteroids
+12:18 used a special type of rendering engine
+12:22 where the gun was actually told how to
+12:23 paint every character on the screen
+12:26 whereas space invaders was using the
+12:31 pixel technology pixels their pixels not
+12:34 there you know the games were black and
+12:37 white but in order to make the the the
+12:41 first games were black and white but in
+12:42 order to make it sexy they put a film
+12:44 over the TV to make sure that the black
+12:48 of my pixels went through and got some
+12:49 color you know that was one of the
+12:52 initial techniques and then eventually
+12:54 we started getting multiple bit
+12:58 technology 4-bit 8-bit 16-bit and each
+13:01 one of these bits allowed a color to get
+13:04 assigned to a pixel it's simply about
+13:08 moving numbers around people if I say it
+13:11 pixels at an XY that's two digits I've
+13:14 got a whole two integers I have to hold
+13:16 depending on how much resolution you
+13:18 have that energy could be you know the X
+13:20 could be gigantic a five-k monitor be
+13:23 huge and then you know you have the Y
+13:26 and then you have to decide whether it's
+13:28 on or off now if you want the pixel to
+13:31 have a color then on a separate table
+13:34 you got to say for that pixel I've got
+13:36 this RGB value red green blue value that
+13:40 you could blend together in an extreme
+13:43 science you might have CMYK cyan yellow
+13:48 magenta black so black would be the
+13:52 brightness so we start to master
+13:56 rendering things just straight-up
+13:58 Cartesian coordinates XY on/off and then
+14:01 what color is it okay so now we have a
+14:04 platform to relay really artificial
+14:08 things directly to the screen it could
+14:13 be a photograph that was scanned in
+14:14 could be just something that a
+14:16 programmer drew and a piece of software
+14:18 so now you have software you know
+14:21 engineers that are like oh my god we got
+14:23 to create some paint applications and
+14:26 there's then different philosophies of
+14:28 how to create paint applications you
+14:30 have your Photoshop kind of guys that
+14:31 believe that you could just draw in
+14:34 pixels only when we used to draw video
+14:39 games in the 80s Electronic Arts bought
+14:41 a company I don't think they made this
+14:44 from scratch but maybe I had that wrong
+14:46 but it's called deluxe paint everybody
+14:48 use that product man it was 600 by 400
+14:51 the man the tool was fantastic then you
+14:56 had applications like super paint which
+14:58 were just black and white for quite a
+14:59 long time but then you have folks that
+15:02 are thinking on the realm of of vector
+15:09 graphics and you get your illustrator
+15:11 folks so instead of deciding that it
+15:12 pixels on or off personally
+15:15 you're gonna draw using tools that are
+15:18 algorithmic I want a circle that's got
+15:20 this diameter and I want it right here
+15:23 you figure out what pixels are on when
+15:25 it finally renders because I want this
+15:27 to be able to render on a teeny tiny
+15:29 postage stamp high res and I wanted to
+15:32 render on a 5k monitor and I want
+15:36 everything to be as perfect and smooth
+15:37 as possible so algorithmic drawing was
+15:41 the advancement for pixelated drawing
+15:43 and then there was a little mistake that
+15:48 happened in terms of its intent versus
+15:52 its outcome and this was in the mid 70s
+15:56 we were heavy into wow that's loud
+16:00 particular power plants when I have to
+16:03 scarecrow this dude out of here but then
+16:06 we start building nuclear power plants
+16:08 and we have a problem on our hands they
+16:12 are responsible for radiating their
+16:14 employees and so they set up a ton of
+16:18 sensors all over the core of the nuclear
+16:25 power plant and they're sensing
+16:26 obviously radiation it's like a bunch of
+16:28 Geiger counter sensors well they were
+16:31 also able to study the trajectory of a
+16:35 particular particle with the device that
+16:37 they were using so they had just like
+16:39 the Hadron Collider
+16:40 you know layers and layers of sensors
+16:42 once you have layers and layers of
+16:44 sensors to give you an XY coordinate
+16:47 within the sensor just think about you
+16:50 know a rectangle and on the first
+16:52 rectangle you see it in the upper right
+16:53 hand corner but the one right behind it
+16:56 you see it drift a little bit towards
+16:57 center on behind it goes right to her
+16:59 center it went behind a goes down the
+17:01 lower left-hand corner the that
+17:04 information that's of no the strength of
+17:08 the particle that's coming off the
+17:09 nuclear power plant core but it's also
+17:12 telling you the trajectory and what they
+17:14 ended up doing was writing algorithms
+17:16 the very first transformational
+17:18 algorithms that says look this is
+17:20 occurring in 3d space in the real world
+17:24 but our superiors want to see it and
+17:27 need to see it on the screen as a
+17:30 picture but since we can't just take
+17:33 pictures of electrons coming off a
+17:35 nuclear core we're gonna have to write
+17:38 software that will simulate this such
+17:40 that people can see it so this goes on
+17:44 for a couple years where they start to
+17:47 perfect this this entire idea and it's
+17:51 an interesting moment because that you
+17:54 know that particular area of mathematics
+17:56 you know rendering something that's in
+17:59 3d and 2d such that you feel like you're
+18:02 seeing it on the screen accurately just
+18:06 organically came out of you know the
+18:08 need to see things
+18:09 on the screen to transmit it over a wire
+18:12 you know
+18:13 well once that little bag of tricks hid
+18:18 the visual effects world the world would
+18:21 never be the same again
+18:23 and so just like the paint applications
+18:26 there were all kinds of philosophies
+18:27 about how to make an application that
+18:31 could show you something in 3d so the
+18:34 nuclear power plant stuff was just
+18:35 really basic it was like you know little
+18:37 green pixels they'd show you like a
+18:39 picture of the core and they'd over
+18:41 print on top of it where the pixels
+18:43 actually were now for the first CG now
+18:49 you have artists that are like or I
+18:52 should say programmers that are saying
+18:55 okay we've got to make some things
+18:57 happen here there is no modeling
+19:01 software there's no concept of modeling
+19:03 software in the world which would be
+19:05 take a pixel make another pixel some
+19:08 other place in space-time right and they
+19:11 connect them together to make an edge
+19:13 you know and then take another one and
+19:16 then put them together make a polygon
+19:17 there's no concept for that initially so
+19:21 these guys they get together and they
+19:24 kind of all go off on their own religion
+19:27 and they create their own software very
+19:30 quickly they came to the conclusion that
+19:32 the world is sort of made up of some
+19:35 basic things and maybe we can just work
+19:37 with some basic things to make
+19:39 everything occur and that at a later
+19:41 date we can create the software that
+19:44 will allow us to personally formulate
+19:47 what something looks like like you you
+19:50 know this awning thing that's over my
+19:52 head right that I've always put in the
+19:53 intros for the most part it's all cubes
+19:57 yeah some were squished somewhere along
+19:59 bits a cube so you make a cube and you
+20:02 tell it what shape you want it to be
+20:03 well what's the nail the nail is sort of
+20:06 a cylinder it's tapering it one in and
+20:11 the head is usually just a cylinder has
+20:14 been flattened out if it's a screw it's
+20:16 a sphere that's been chopped so you see
+20:19 in the top part of the sphere and so
+20:22 they had created this math
+20:23 that adds things to the geometry some of
+20:28 the very first CG I've ever seen is like
+20:30 centipede looking stuff or a bunch of
+20:32 spheres we're all linked together and
+20:33 the centipedes like on a little
+20:35 algorithm swimming through space so
+20:38 obviously everything is very primitive
+20:39 at the beginning but this purely going
+20:44 to add geometry methodology wasn't
+20:48 enough right you can't just add
+20:50 everything to everything and get what
+20:52 you're looking for unless you have the
+20:54 meticulous nature of today where they
+20:56 can just draw the petal of a rose there
+21:00 it is so we have to and the birds are
+21:05 crazy so they had to create a new
+21:08 technology which was subtracting shapes
+21:10 from other shapes what we call today as
+21:13 a boolean operation so now imagine you
+21:18 wanted to create a hole in something you
+21:23 want to create a washer all right it's a
+21:26 flat disk with a little donut hole in
+21:27 the middle so this would be essentially
+21:29 a cylinder squish really flat and then
+21:32 you want to take another cylinder
+21:34 through the center of the flat one and
+21:38 subtract a hole out of the Senate
+21:41 because it's very difficult to tell 3d
+21:43 software the next thing I'm about to
+21:45 draw is going to remove geometry from
+21:49 the center it's a tough interface to do
+21:52 so we use these boolean subtractors but
+21:55 you can boolean two things together you
+21:57 can pull you the boolean the difference
+21:59 or you can boolean the unit the the
+22:02 union of the two objects basically say
+22:03 what's going to be left is where these
+22:05 things touch everything else is going to
+22:07 be shaved off so by the movie Tron 1982
+22:13 you have four big players here in the
+22:16 United States of America and what
+22:18 they've been doing up to that point is
+22:20 rendering logos doing little little
+22:22 animations for commercials and really
+22:24 just kind of getting a game on the
+22:26 problem is is they have to obviously
+22:28 convince people to pay money for CG
+22:32 stuff without having you know
+22:34 necessarily the proven record that hey
+22:36 if you
+22:37 make a CG commercial instead of a
+22:39 hand-animated commercial you're gonna
+22:41 make a ton more money there's really no
+22:43 rationale for that so stuff is expensive
+22:46 these guys have PhDs in a lot of cases
+22:49 and in order to make what they're making
+22:51 they need a big computer for 1976 to
+22:56 1982 Cray computers little mini
+23:00 computers mainframes there's not a lot
+23:03 of power out there plus even though
+23:07 they're actually making tremendous
+23:08 amounts of progress and I mean some of
+23:10 these companies were so ahead of the
+23:12 game is ridiculous you might have one
+23:14 company that's able to create some sort
+23:17 of tetrahedron shape shape in 3d space
+23:20 and they had engineers that said ok
+23:22 we're going to be doing something called
+23:25 ray tracing and ray tracing is the
+23:29 straight-up
+23:30 simulation of lights so you have a
+23:32 little light in the room a light bulb
+23:34 inside and at some point there's this is
+23:36 a little Genesis moment where photon
+23:39 waves are being cast and so they
+23:44 algorithmically figure out how many
+23:46 photons we're going to allow out of a
+23:47 particular light source and then make it
+23:49 all configurable today but strength
+23:52 intensity color everything and then it's
+23:55 gonna have to shoot out randomly now you
+24:00 can imagine trying to be God in a
+24:02 computer from the 70s it doesn't work
+24:05 it's too much detail these computers
+24:08 will be rendering to till today you know
+24:10 45 years later so in order to correct
+24:14 that issue or to live within the
+24:16 constraints that they had they started
+24:18 creating all kinds of wild algorithms
+24:22 that would clip off and abort
+24:25 anything that was gonna I wasn't gonna
+24:27 make it into the camera once the pixel
+24:29 just went too far off into nowhere they
+24:32 just clip it and say it's over flipping
+24:34 is not really the word for it but you
+24:35 abandon that pixel the other thing was
+24:38 that what if you create this tetrahedron
+24:41 this 20-sided thing but they know the
+24:44 back side of the camera is never going
+24:45 to see it so as soon as they realize
+24:49 that the camera can't
+24:50 see a certain level you know on the
+24:54 horizon of this thing they just stop
+24:56 rendering it getting all that processor
+24:58 power back and giving it to everything
+25:00 else that actually is going to be seen
+25:02 of course it's a little bit different
+25:04 today because we have monster power and
+25:06 just an average laptop compared to their
+25:09 world but they started creating every
+25:12 single trick that could possibly create
+25:13 plus they have different theories about
+25:16 how to store things in memory initially
+25:19 they're calling everything different
+25:20 things because they have what we call
+25:24 today the mesh the 3d mesh that's in
+25:27 memory which is all the geometry that
+25:29 creates something and then you're gonna
+25:31 have to put some sort of surface on it
+25:35 today we call it a shader in most cases
+25:39 a shader is the straight-up color that's
+25:42 going to be on something but now what if
+25:44 I want to render this cigar and I wanted
+25:47 to have fine tobacco wrapper on the
+25:50 outside of this cylinder and I wanted to
+25:52 have the veins from the leaves that I'm
+25:54 smoking there's a lot of work involved
+25:57 I've got to find a picture of tobacco in
+26:01 most cases now you can also play with
+26:03 shaders and shaders can create stars all
+26:06 the stars in the intro are on a shader
+26:08 there's nothing that's I'm not putting a
+26:11 texture in the background it's actually
+26:13 a shader creating stars now for the
+26:16 planets that you see in the intro well
+26:18 those are straight from NASA and those
+26:21 are their CG pictures that they tell you
+26:23 are real so you have textures textures
+26:27 are straight-up pictures of things like
+26:30 a brick wall piece of steel and
+26:33 someone's taking a photograph of it you
+26:35 know big square photograph and then they
+26:38 treat it in a particular way or they cut
+26:40 it in four pieces and then they move the
+26:42 corners around and they soften it up
+26:45 such that it can repeat as a pattern you
+26:49 should do we used to do this in video
+26:50 games forever but early CG had none of
+26:54 this texturing stuff it just had shaders
+26:58 now they're gonna they would have called
+27:00 it something different in every single
+27:02 studio back in those times
+27:04 but one company's gonna acknowledge that
+27:06 shadows happen another company's gonna
+27:09 acknowledge shadows on an object but not
+27:11 shadows that it casts on the ground and
+27:14 so again I don't know which episodes
+27:17 gonna come first I think I'll put the
+27:19 Tron one out first but maybe I'll put
+27:20 this one out first but the movie Tron
+27:23 from 1982 it is a beautiful historical
+27:29 record of all this technology coming
+27:33 together 1982 in such a way that it told
+27:37 the story perfectly to the point that
+27:39 Tron is a cult classic franchise there
+27:42 is more CG I think in every scene in
+27:45 1982 than in the scenes and Tron Legacy
+27:50 in terms of not the amount of humans
+27:53 worked on things with just the fact that
+27:56 they built a lot of the set pieces in
+27:58 Tron Legacy trying to get away from CG
+28:01 which is sort of been this trend right
+28:03 was that the mandalorian show the Star
+28:07 Wars show on Disney the actors are like
+28:12 man I expected to be in the green screen
+28:14 more expected to be a blue screen more
+28:15 and they're showing up and these sets
+28:17 completely exists which is cool that's
+28:20 the way they did it back in the 70s so
+28:23 then you know we've got these companies
+28:26 and as far as I can remember I don't
+28:31 know exactly which ones have survived
+28:34 but you start to have the demand for
+28:39 software and computers to do
+28:42 computer-generated graphics right at CG
+28:44 let's knock out the AI now you have two
+28:50 super power houses that happen in the
+28:52 Bay Area right away as soon as you get
+28:54 into the Tron poster on 1983 Arab you
+29:00 have the budding company that will
+29:03 eventually turn out to be Pixar now
+29:06 Pixar was founded by the guys that did
+29:08 really wrote these transformational
+29:10 algorithms when I first came to
+29:13 California in 87 I was desperately
+29:16 looking for the
+29:17 because in my hometown I had mastered
+29:20 everything that was 2d actually went up
+29:23 to my computer teacher who was my
+29:25 physics teacher my trig teacher
+29:27 programming teacher everything astronomy
+29:31 soundwaves
+29:32 all that stuff and I asked him I said
+29:35 how the hell do you trance translate
+29:37 something in 3d to 2d cuz I want to
+29:40 start making video games like that and
+29:42 he didn't know he had no idea he had no
+29:44 idea like where to go at all right we
+29:48 had no internet so I'm at home trying to
+29:50 invent these transformation lockers I'm
+29:52 literally just like Newton at home like
+29:54 okay let's run this algorithm and see if
+29:57 we can get this to him they can in my
+29:58 head how to rasterize but I got here and
+30:01 about two years later my boss my new
+30:06 boss it was sort of after the video game
+30:09 my little stint and video game drawing
+30:12 before I got in full-time he knew how to
+30:16 do it and he gave me this big-ass book I
+30:19 can't remember the name of it but it was
+30:20 written by several folks but most of
+30:23 them work for Pixar these guys have PhDs
+30:27 in this stuff man and it's just
+30:28 unbelievable and this is you know Pixar
+30:30 invented a tremendous amount of the
+30:34 algorithms that we end up using today
+30:36 and this is you know they had the little
+30:38 unicycle was one of their first movies
+30:39 they ever made the unicycle that was in
+30:41 the back of the store and they made this
+30:43 freaking movie about it being a living
+30:46 thing
+30:46 they created the the little beach ball
+30:49 with the star and the stripe on it and
+30:51 that was very specific to test texturing
+30:55 plus shading plus materials like the
+30:59 ball was made of like a beach ball
+31:00 material a blown-up piece of plastic and
+31:04 then of course you know their logo you
+31:07 know the little dancing light there's a
+31:09 bunch of stuff going on not only the
+31:12 geometry of the light which was handmade
+31:14 but it's the light source that's coming
+31:16 from the inside it is trying to create
+31:19 you know the kind of the bounce and
+31:22 squish algorithms of normal animation
+31:24 making it cute synchronizing it with
+31:27 sound George Lucas is funding them
+31:31 Botham couldn't quite you know after the
+31:36 Star Wars movies were over this place is
+31:38 sucking him dry and he has no more you
+31:41 know
+31:41 like brand-new movie income coming in so
+31:44 someone told him you know you should
+31:46 probably sell that and Steve Jobs comes
+31:49 around and goes I'll take it
+31:51 kaboom and I'm you know I I know very
+31:56 little about how Steve managed Pixar at
+31:58 all very very little but eventually we
+32:01 got Toy Story now Pixar has to go first
+32:06 right so Pixar is having to write all
+32:10 their own software their software
+32:13 it's called render man and it was just
+32:17 SuperDuper gorgeous software for the
+32:21 time they made sure they could conquer
+32:24 everything that was on their plate at
+32:27 the time now for those of you are really
+32:30 CG addicts you know you watch special
+32:33 effects all the time or you're in the
+32:34 business of course there's plenty of
+32:36 dragons they hadn't slayed yet you know
+32:38 when they created the Nemo movie I was
+32:42 working with Bobby back on his animation
+32:44 school website which is a hilarious
+32:47 bizarre story which is animation mentor
+32:51 I think that's what it was called
+32:52 I still exist so I got a lot of you know
+32:55 inside information about what they were
+32:58 going through and it was the refraction
+33:00 of light in water and he was telling me
+33:04 at the time that they were rendering
+33:07 Finding Nemo that it took 27 hours for
+33:11 some of the frames with super computers
+33:13 at the time so what computers were they
+33:16 using aha this is we have another
+33:19 company that blows up just a few years
+33:22 after Pixar in the mid 80s called
+33:28 Silicon Graphics Silicon Graphics is one
+33:32 of these companies that it's no longer
+33:34 well actually sorry I think someone
+33:36 bought the name right now but Silicon
+33:38 Graphics went from mega huge
+33:43 to almost non-existent what definitely
+33:46 went out of business at one point a lot
+33:48 of the big companies out there that are
+33:51 sort of serving this business and the
+33:52 hardware realm our former Silicon
+33:55 Graphics employees the Silicon Graphics
+33:58 who realized ok there's there's this
+34:02 huge need to drive this 3d software that
+34:07 all this custom stuff everyone's making
+34:09 plus those PDI which we'll talk about in
+34:12 a second here so they started making
+34:14 these computers these monster computers
+34:17 and they were also they also had a
+34:19 software division which I believe made
+34:23 flight simulators at one point but they
+34:27 they were the ones that realized that
+34:31 you know we're gonna put tons of
+34:33 processors in here we're gonna have
+34:34 external you know LED indicators as to
+34:38 how many processors are in a particular
+34:39 computer you know like the first one I
+34:41 ever saw was a predator which had been
+34:44 jacked up to like 16 processors which at
+34:46 the time computers had one processor it
+34:50 wasn't until the early 90s that Apple
+34:52 came out with its first dual processor
+34:55 for a home computer but Silicon Graphics
+34:59 was this cool ass company right in the
+35:02 Bay Area between San Jose and San Mateo
+35:06 and they had this bus that would drive
+35:12 around and by the time I joined
+35:15 Electronic Arts part time in 93 this bus
+35:19 would show up in the parking lot and it
+35:21 would like unfold right and it had this
+35:23 maybe was a semi I guess like a big rig
+35:26 I don't know I can't remember if that
+35:29 was a bus or a big rig did you think it
+35:31 was a bus but anyway it was super cool
+35:32 and it was like you know they had stacks
+35:35 of computers and you could come up and
+35:36 look at him and they had computers that
+35:40 were I think geared towards more
+35:43 workstation computers like he'd put it
+35:45 somewhere and you were modeling and and
+35:47 it's modeling and when you rotate a 3d
+35:50 model in real time it's a lot of
+35:54 processing power to nail it in
+35:56 full visual acuity even to this day 2019
+36:00 you have to buy six thousand dollar
+36:02 video cards to really get a fully
+36:05 textured beautiful world to rotate
+36:08 without any any kind of rendering time
+36:12 taking place now this this intro I made
+36:15 for the UFO in the background it's just
+36:20 running on my Macintosh or my Windows
+36:22 machine depending on where I was at the
+36:24 time creating this stuff but you know
+36:27 one frame of this 4k intro it was the
+36:31 one landing in the backyard it's a
+36:32 little faster because I'm using a plate
+36:35 I shot at the backyard so it's not
+36:36 rendering that but just this UFO coming
+36:38 in spinning oh I could get a frame
+36:40 probably when it's little it's about a
+36:42 frame every thirty seconds or so but
+36:47 when it starts getting big and getting
+36:48 all the environmental textures on it and
+36:50 they're animating from a movie that I
+36:52 shot of the surrounding area oh man
+36:56 it'll take good you know five to ten
+36:59 minutes for a single frame now what I
+37:02 was rendering the just to give you some
+37:05 ideas when you see the UFOs done going
+37:09 through the planets and then it goes
+37:13 over the surface of the earth and you
+37:15 see the moon close-up that's a whole
+37:17 Flat Earth model I made with a bubble
+37:19 dome over it with a dome underneath
+37:21 super complex and I'm going to do
+37:26 another shot of that eventually because
+37:28 I did a tremendous amount of work on it
+37:29 to make sure it's perfect in the camera
+37:31 but that takes a really long time that
+37:33 takes so much time that I actually
+37:35 started rendering things in layers I
+37:36 just rendered the backplate and I
+37:38 rendered just the UFO by itself and
+37:41 composited them together to save myself
+37:43 a tremendous amount of time so you can
+37:47 imagine in the 80s when we don't have
+37:49 processors that are gigahertz they're
+37:52 all working together to break this stuff
+37:54 down and then you have to have software
+37:56 that can talk to the computer so someone
+37:59 has render man someone has something
+38:01 else and you have to have it talk to it
+38:03 okay well here's my here's the way I
+38:05 want the you know is this is how I'm
+38:07 processing the the image so I'm going to
+38:09 give
+38:09 - you little squares and you keep
+38:11 rendering the squares now I'm gonna give
+38:12 it to you and pixel by pixel right
+38:15 the only other big CG movie that I'm
+38:18 aware of between 1982 and 1992 which was
+38:21 Terminator 2 in 1992 is The Last
+38:25 Starfighter and there was you know some
+38:29 little indie experiments here and there
+38:32 but overall in terms of serious
+38:36 cinematic CG The Last Starfighter took
+38:41 it to another level
+38:42 however they were never able to do the
+38:45 compositing between live-action and CG
+38:49 so you either at a CG scene or you had a
+38:51 live-action scene I don't believe they
+38:53 mix them together by 1992 we've all seen
+38:57 t2 ILM blows this thing away
+39:01 ILM is using Silicon Graphics computers
+39:06 Electronic Arts has a few Pixar
+39:09 definitely has a few and so everyone's
+39:11 trying to say okay we're gonna stop
+39:13 doing everything that we can do that we
+39:16 can buy off-the-shelf
+39:17 and we're only gonna participate in the
+39:20 things that we would that we have to do
+39:21 with our genetics right yeah this is
+39:24 like amazing to be out on my t-shirt and
+39:26 November I was so hoping this would be
+39:28 one of those years now there was this
+39:30 little computer back in the day called
+39:32 the Amiga and it was one of these weird
+39:38 situations where you have a group of
+39:39 individuals who are so forward-thinking
+39:45 that it's almost like they're they're
+39:48 spying themselves they're so good one of
+39:52 the very first pieces of software
+39:53 written in the world to do 3d is called
+39:56 sculpt 3d and it was in the early 80s on
+39:59 the Amiga computer I had a really short
+40:03 stent in my life on the Amiga computer
+40:06 in the late 80s because a friend of mine
+40:08 had one they didn't really know what to
+40:10 do with it so they kind of had some
+40:11 video games on it but that was about it
+40:13 dad was a electronics engineer I don't
+40:17 know if he used it he used to just sit
+40:18 in his you know sort of lazy boy chair
+40:22 watching
+40:23 TV just drawing circuits by hand so he
+40:25 just kind of knew it enough at his head
+40:27 but there's a company today that creates
+40:30 a product called light wave and they're
+40:33 centered in Texas the company's new tech
+40:35 that's any WT ek they had created a
+40:39 product called Video Toaster and I
+40:42 believe its initial incarnation was on
+40:44 the amiga computer now the amiga
+40:46 computer was the first computer to be
+40:48 able to do 256 colors in a world where
+40:51 everyone was stuck in 16 colors you know
+40:56 vga cards were just starting to come out
+40:59 on the windows box so that everyone
+41:03 could have it but these two have CGA and
+41:07 EGA which is like four colors man it was
+41:09 hot and two of them are black-and-white
+41:10 so take your pick for the other two
+41:12 colors the Video Toaster
+41:16 was so brilliantly designed that even
+41:20 though an Amiga computer wasn't
+41:22 tremendously fast compared to like some
+41:24 some like Cray computer or Sun
+41:27 Microsystems or some other custom thing
+41:30 you were still able to link a bunch of
+41:33 them together in the room for pennies on
+41:35 the dollar and render full-blown quality
+41:40 images I mean it was just really at the
+41:42 limitation of your patience to wait for
+41:44 an image to render plus your ability to
+41:47 model and texture something or shade
+41:50 something right I believe that the first
+41:52 Babylon 5 series and the very first I'm
+41:57 very very positive the very first Star
+42:00 Trek CG that ever happened for next
+42:01 generation we're done on these amiga
+42:05 computers in a room because the buddy of
+42:07 mine got into the team that was doing
+42:09 Babylon 5 Kyle and he couldn't believe
+42:14 it you know they'd go into a room and
+42:16 there's just all these amigas and you're
+42:17 like oh my god I mean I've been him but
+42:19 what my buddies has seen that and
+42:22 they're here they are rendering network
+42:26 broadcast television CG with a bunch of
+42:29 at the time considered to be pretty
+42:32 dried up old computers they weren't
+42:34 really being manufactured anymore
+42:36 so new tech is this big player now since
+42:41 then you know Maya in 2019 is sort of
+42:45 the go-to product for all sort of
+42:47 commercial CG if you don't work for a
+42:51 company that makes their own software
+42:53 like Pixar I will say that Pixar the CTO
+42:58 of Pixar recently said in a public
+43:01 gathering that the new blender 3d 2.8
+43:06 does everything that their software does
+43:08 for those of you that don't know blender
+43:11 3d is free and has a massive community
+43:14 just go blender.org just like the word
+43:17 spelled other than special
+43:18 get yourself 2.8 you can go and get the
+43:21 beta every single day 2.8 I think
+43:24 they're up 2.8 to now without even
+43:26 releasing 2.81 but it's a great company
+43:30 but now on the backside again you have
+43:33 dozens and dozens of products that do 3d
+43:36 at this point by nineteen say 90 but the
+43:39 popular ones that are starting to come
+43:41 through our 3d studio max which is its
+43:44 own company at the time maya which is
+43:47 owned by autodesk today most these
+43:49 companies all started off independent
+43:51 the company that made photoshop was
+43:52 independent purchased by adobe the
+43:54 company that made illustrator purchase
+43:56 made it Obie all that's like PowerPoint
+43:58 all these companies are separate then
+44:02 they get kind of swallowed up today new
+44:06 tech is still going strong with their
+44:09 product light wave light wave is known
+44:12 for very quick production pipelines is
+44:19 difficult that is as it is to use it's
+44:21 way easier than Maya and it's SuperDuper
+44:24 fast so I think that blender you know
+44:28 just as a little prediction here is
+44:30 going to clean up the entire industry
+44:32 because the price that they're putting
+44:34 on this software is just outrageous they
+44:37 still hang on to these ridiculous models
+44:40 of oh we'll just charge four to ten
+44:42 thousand dollars for a product will sell
+44:43 a few copies and that'll keep the doors
+44:45 on instead of you know selling it for
+44:48 $1.99
+44:49 and having tens of millions of people
+44:51 legally owned the products right but who
+44:55 are the big players by let's say 1993
+44:57 you have Industrial Light and Magic
+44:59 which took a long time to sort of get on
+45:02 the 3d bandwagon but of course we have
+45:05 to thank George Lucas because he's the
+45:07 reason why Pixar got to where it's going
+45:09 I mean you know give it to Steve Jobs -
+45:12 Steve Jobs really made it a business but
+45:15 he had the foresight to finance these
+45:17 guys when they were actually coming up
+45:19 with the algorithms now someone else
+45:20 would have done it yeah PDI now PDI is a
+45:23 weird little company that has been
+45:25 swallowed up by a believe Sony the PDI
+45:29 made Shrek when you see the first Mike I
+45:32 think I can safely say my one of my
+45:35 employees my master scheduler she went
+45:39 off from ei and joined PDI and helped
+45:42 finish up Shrek one and then did Shrek
+45:45 two and shark three and I've been in PDI
+45:47 a few times because I had other friends
+45:48 at PDI and they were in I think it's
+45:54 Palo Alto technically speaking but they
+45:58 have their own software their own thing
+46:00 so when you see the trek movies the
+46:02 first three shark movies when you're
+46:04 what you're looking at is completely
+46:06 custom software now you know you're
+46:08 seeing custom software when you see a
+46:10 Pixar movie now today you're seeing one
+46:13 of the store button products except for
+46:15 Pixar which uses render man and render
+46:17 man is actually I believe the rendering
+46:21 engine so we're gonna get into the
+46:22 stages of all this now because I I'm not
+46:25 exactly sure what they call their actual
+46:27 modeling software now again some of you
+46:30 have dabbled in 3d you're hearing me and
+46:32 you're like through this is boring some
+46:35 of you have never done it before and you
+46:36 really have no clue especially if you're
+46:38 older why does CG like how does it work
+46:41 man
+46:42 so hopefully this is really helpful if
+46:44 you have a hole in knowledge you will no
+46:47 longer have that hole so let's talk
+46:50 about let's take a break from the
+46:51 companies in the history for a second
+46:53 because now we're getting into
+46:55 distinctions that I haven't explained
+46:58 yet like why with one company be better
+47:00 than another why is new tech faster than
+47:02 Maya
+47:02 so you have to come up with your design
+47:06 someone's written a story a director has
+47:09 agreed to make the movie make the
+47:11 television show in some cases you have a
+47:13 Star Trek where you have an enterprise
+47:15 that's been around since the 60s
+47:17 someone's redesigned it in 79 you're
+47:19 going to redesign it for a next
+47:21 generation so next generation for
+47:23 instance was all models for several
+47:25 years I think till like 93 before they
+47:27 had a first CG ship and then it was only
+47:31 CG at a few shots it wasn't CG for
+47:33 everything when they blew up the
+47:35 enterprise they did not use CG they used
+47:38 a model and they physically blew it up
+47:40 in a studio when the Voyager I think in
+47:45 the intro even crashes into the snow
+47:47 it's like the toilet lid looking thing
+47:50 hits the snow and all that snow barfs up
+47:52 in the camera that is a scene that my
+47:54 buddy Kyle worked on and they had to go
+47:56 off and buy I think every single box of
+47:59 baking soda in town to create this set
+48:03 so if you crash in the camera so there's
+48:06 still plenty of room for physical assets
+48:10 at this point but someone is going to
+48:12 design the object that you're going to
+48:13 have to model very rarely are you going
+48:16 to sit there in 3d software because it's
+48:18 so slow and you know design in 3d if you
+48:24 do that and you're good at that that's
+48:25 incredible now as a modeler because
+48:30 people are people can say they're in
+48:31 special effects and never do modeling
+48:34 they can do special effects and never
+48:36 touch a camera inside the 3d software
+48:39 they could be in special effects and
+48:42 they don't do either they help create
+48:44 the computers that Network everything
+48:46 together such that the other artists can
+48:49 get it done there are other folks that
+48:51 create nothing but plug-ins super
+48:55 geniuses that say oh you're James
+48:58 Cameron and you want a a water creature
+49:01 to come up out of the water and have a
+49:02 human face for a split second which was
+49:04 then used in Terminator 2 for the CG cop
+49:08 that goes you know into the the
+49:11 helicopter and then turns into Chrome or
+49:13 use Chrome first he turns into the human
+49:16 these are remarkable shots these people
+49:19 have created to trick the eye so plug-in
+49:24 coders they exist at video game
+49:27 companies like Blizzard has a I met them
+49:30 like three sort of plug-in coders that
+49:32 are creating algorithms such that inside
+49:36 the engine you can get spells to go when
+49:38 you see a guy cast a spell to teleport
+49:40 you know you've got these wild you know
+49:42 youth all kind of winds around their
+49:44 hands
+49:45 those are plug-in coders making a
+49:48 reusable tool again you put the inputs
+49:50 in you get the visual out it's really
+49:53 cool so you can get into the special
+49:56 effects business and not be an artist at
+49:58 all but you'll be an artist by the time
+50:00 it's over because you will help realize
+50:02 a pixel on the screen right so modeling
+50:09 you have really two disciplines to
+50:12 creating a 3d model you can use all the
+50:15 primitive shapes that we have discussed
+50:16 the cone the cylinder sphere there's a
+50:20 couple different types of spheres cubes
+50:23 cubes they're always rectangles you know
+50:25 you just keep scaling them and
+50:27 stretching them and pulling them out and
+50:29 then you have your real sculptors where
+50:34 there's two types of sculptors in my
+50:35 opinion there's true sculpting software
+50:37 now where you can actually have a lump
+50:39 of clay you can take a sphere and say
+50:41 okay I'm going into sculpting mode and
+50:44 you start using the sculpting tools
+50:45 blender 2.8 sculpting tools are
+50:49 beautiful and you just start hitting
+50:51 this thing and it's starting to create
+50:53 the geometry doesn't exist initially to
+50:57 take a total corner on a cube and
+51:00 smoothes it out like a my clay then you
+51:05 can pull it and twist it and turn it and
+51:07 pull big piece out and the only big
+51:10 difference between that and reality is
+51:12 that in reality you could never put the
+51:14 you're gonna put marble back on after
+51:17 you take it off and this you can you can
+51:21 add clay it's really cool but now let's
+51:25 say you have the shape that you're
+51:27 looking for now you have a couple
+51:28 different types of things you have
+51:30 non-organic and organic it's a whole
+51:32 different world right let's say you want
+51:34 to create a like a little toy soldier
+51:36 and you know he's a GI Joe from the 70s
+51:39 so he has actuated arms hands wrists all
+51:42 that kind of stuff but you know he can't
+51:44 move like a human being completely right
+51:47 so he has constraints and so you have
+51:50 this methodology that we call rigging
+51:52 today you put the bones inside of it and
+51:55 then you rig it and what that means is
+51:57 you're telling the 3d software depending
+52:00 on its sophistication this was not was
+52:03 not easy back in the day but let's just
+52:05 say you had a you know two things that
+52:07 were hinged like an elbow right you take
+52:10 these two objects you tell them where
+52:11 their rotation point is which just
+52:14 coincidentally is where it looks like
+52:16 there's actually a some sort of
+52:19 connection between the two objects it's
+52:21 all theoretical inside the software and
+52:24 you say look you have to you you two are
+52:27 always going to be attached at this one
+52:28 point so if this thing moves this other
+52:30 thing moves with it and you can actually
+52:33 physics on it such that kind of ragdolls
+52:35 as well but you will give it a
+52:38 constraint you can only move in this
+52:39 particular relative axis and you get an
+52:44 elbow you get an arm right if I move my
+52:46 arm right now on camera moving my arm
+52:48 and my upper forearm has to obey my arm
+52:52 you can do that in software by
+52:55 developing these little constraints but
+52:58 that's not organic right it'll work but
+53:02 it won't look you know like like the
+53:05 water creature in abyss which has got a
+53:08 really nice organic flow it's it's
+53:10 materializing and moving in a really
+53:12 beautiful way right so let's say you
+53:14 want to make a human being you're going
+53:16 to have to give it bones now bones that
+53:19 we have are obviously very important
+53:23 because it keeps us having fingers and
+53:25 chests and skulls and feet inside CG
+53:32 well you know the skin on your chest in
+53:36 a CG product right now it just is it
+53:40 doesn't move that much it just is now
+53:42 they're getting software to be
+53:44 sophisticated enough that they actually
+53:45 are making tissue rely on all the
+53:48 internal structure they've been doing
+53:49 this for years probably 20 years but in
+53:52 most cases you could make a tiger and
+53:55 then you start laying in core bones that
+53:58 need to occur upper arms forearms you
+54:00 know you're kind of mimicking the bones
+54:02 inside but you don't necessarily have to
+54:03 make the ribcage unless the ribcage
+54:06 needs to flex and move with its
+54:08 breathing you know if it's jumping
+54:10 across a cavern in the and the Beast
+54:13 stretches out his body to fly and then
+54:15 soon as it hits it kind of compresses
+54:17 all of its bones well if anything needs
+54:20 to move then it needs to have a bone and
+54:21 all the bones are associated with each
+54:24 other based on all these rotational
+54:26 disciplines it gets really complicated
+54:31 I worked when I was doing the LED 3d
+54:34 theater project and my last startup
+54:37 again we had Rhythm & Hues bring us a
+54:43 tiger an albino tiger and I met the I
+54:47 met three of the engineers that actually
+54:49 helped make this thing and one they were
+54:52 blown away when they saw in 3d that was
+54:54 so fun but they go look 33 people worked
+54:57 about I don't know I think he sent like
+55:00 20 years to make this thing so it had
+55:02 been like a model that had been advanced
+55:04 up through software it over and over and
+55:06 over again and ended up being the basis
+55:09 for the tiger in Life of Pi which I
+55:13 still haven't seen that movie but to
+55:15 give you a little bit of a preview about
+55:17 how complex this has become they now
+55:20 have algorithms that generate hair so
+55:24 you take a surface and you say you have
+55:25 hair on you blender has a great hair
+55:27 generator but when they just put a bunch
+55:30 of hair on a being which for Pixar was I
+55:33 think the the creature in Monsters Inc
+55:38 the John Goodman played the blue guy you
+55:41 know it looks good but it looks kind of
+55:44 like a toy you would get from a carnival
+55:46 right it's just kind of furry that's it
+55:49 well on a beast this dude was telling me
+55:53 he was look you know he goes right here
+55:54 he's pointing at it in 3d right nice
+55:56 going
+55:57 goes underneath the tiger it starts to
+56:01 sweat down below and when water moisture
+56:04 gets on a fibre of hair it changes its
+56:08 entire behavior so we had to figure out
+56:11 how sweaty the being was at any point in
+56:14 time to wait these hairs down to map
+56:16 them down a little bit and you know what
+56:18 it's like when your hair gets wet it
+56:19 clumps together and then when it's dry
+56:21 it frays out and then when it settles
+56:23 down over a day's worth of use like my
+56:24 hair right now it's more smooth so these
+56:29 artists are constantly picking this
+56:32 stuff apart they look at reality every
+56:34 single day they're not missing anything
+56:37 they're knowing they know exactly where
+56:39 light goes and so when they get to their
+56:42 job their fiction is indistinguishable
+56:46 with reality but now let's talk about
+56:50 let's go back to the companies from one
+56:52 little finishing phrase here so I'd get
+56:56 out another stick here for my smoky and
+56:58 cigar sampler these companies have
+57:01 written all their own software at one
+57:04 point in the early 90s right Pixar has
+57:07 its modeling software which I don't
+57:09 believe they shared that with anyone and
+57:11 then they had what's called the
+57:12 rendering software which takes the
+57:14 geometry frame by frame and turns it
+57:18 into finished frames making an
+57:20 absolutely gorgeous and this is where
+57:21 you know the artist is looking at sort
+57:23 of a low res low polygon estimation of
+57:27 what something looks like and then they
+57:29 push a button and they send that low res
+57:31 geometry off to the supercomputer array
+57:33 the rendering farm and it used to take a
+57:36 lot of time you guys used to go to lunch
+57:38 or go get a cup of coffee and they could
+57:42 finish it before the first frame comes
+57:44 back and they look at it and they
+57:45 inspect it you know just look real they
+57:49 bring over the producer producers
+57:52 looking at it you know assistant
+57:53 director or whatever yeah okay that's
+57:55 pretty good once you change that change
+57:57 this
+57:57 I noticed that - yeah okay and they go
+58:00 back and fix things sometimes they'll
+58:02 create an anomaly where the modeling
+58:04 software got confused there's a big
+58:09 thing about you
+58:11 which side of the polygon is going to be
+58:13 rendered in which side is not going to
+58:14 be rendered and that's how they figure
+58:17 out what's called clipping so sometimes
+58:20 a polygon gets flipped backwards I want
+58:22 to flip backwards it's invisible when it
+58:23 flips the right way you can see it and
+58:25 if they end up sending a beam of light
+58:27 out and it hits the backside of a
+58:28 polygon they just get rid of it
+58:30 sometimes so the rendering side of
+58:33 things starts to inadvertently create
+58:37 standardization in the software and
+58:39 cause problems for companies like PDI
+58:44 now Pixar is doing the same thing PDI's
+58:47 doing but Pixar is making multi-million
+58:51 dollar movies now
+58:52 so is PDI after Shrek came out right but
+58:56 there is a situation where once you have
+59:00 proprietary software created who created
+59:03 it and that's where you get into a
+59:06 staffing issue let's say you have a PhD
+59:09 super mega-genius who's creating your
+59:12 software and the guy gets sick and dies
+59:14 or the guy gets disgruntled or the guy
+59:17 just wants to move on in life nothing
+59:19 bad going on he's just like I need to
+59:21 get out of here now the company's like
+59:23 oh crap we have to hire someone that can
+59:26 understand his code wasn't get up to
+59:28 speed on all of his code and then put
+59:31 all the other features in for Shrek four
+59:32 or five six seven eight nine ten and
+59:34 then you have software that's written
+59:37 really well in software that's extremely
+59:40 cumbersome I was always told that PDI
+59:44 software was very complicated let's just
+59:49 say that and so you have modules that do
+59:53 certain things well and certain modules
+59:55 that do things badly and they're they
+59:58 know how to fix it
+59:58 they're just a matter of money and time
+60:00 and quality that little triangle of
+60:02 death and so as studios are looking at
+60:09 okay we can hire you to make this movie
+60:11 or we could hire someone else to make
+60:13 this movie you know PDI owned I believe
+60:16 the Shrek franchise I think that was
+60:18 entirely their concept they put it
+60:20 together and made a little
+60:23 take for themselves but when you have
+60:26 ILM Pixar and other big companies put
+60:30 stuff together Digital Domain which I
+60:35 believe James Cameron helped create
+60:36 Digital Domain I have again fringe on
+60:39 allerdyce who worked there as well then
+60:41 you have Wetty now that creates all the
+60:43 plan of the apes and all the Lord of the
+60:45 Rings stuff it's not uncommon for one of
+60:48 these guys to fly all over the world and
+60:50 work in New Zealand for two years on an
+60:54 avatar and then he flies to Scotland to
+60:57 work on some CG game for Electronic Arts
+61:01 and then fly back to the States to work
+61:03 on car commercials or Apple commercials
+61:06 right so it's it's it's a fun world but
+61:09 it's a little brutal for these folks new
+61:13 tech the the Lightwave product you know
+61:17 anyone who uses it knows that it's
+61:19 absolutely brilliant at what it does
+61:21 they again will ship a product to you
+61:24 and it has a certain core number
+61:27 features out of the box right and maybe
+61:30 an artist you know who's been in it
+61:32 their whole life is like new text
+61:34 modeling software is the best in the
+61:36 world and they and they don't know
+61:38 necessarily Maya but they're looking at
+61:41 a guy in Maya going well how long does
+61:42 it take you to make that spaceship oh
+61:44 four months he's like I made it in four
+61:46 days so I don't care what your product
+61:49 does I don't need to learn it mine's
+61:50 faster yeah well you know this is the
+61:53 standard okay 3d studio max was
+62:00 responsible for all of the breathtaking
+62:03 CG that Blizzard Entertainment created I
+62:05 mean where they were taking home awards
+62:08 every year it was 3d studio max within
+62:11 3d studio max gets purchased by Autodesk
+62:13 who also owns Maya and there was a
+62:15 religion philosophy of some new folks at
+62:18 Blizzard or people that were worried
+62:20 that 3d studio max wasn't going to keep
+62:23 up with the with the trends and they
+62:25 moved over to Maya
+62:27 well that completely slowed down the
+62:28 pipeline at Blizzard and they no longer
+62:31 created these really beautiful super
+62:33 long cinematics now they do today
+62:36 the battle for Azeroth expansion to
+62:39 World of Warcraft I finally got a
+62:41 character to 120 I went back in just to
+62:43 play it and there's a gigantic CG scene
+62:46 in there that's it's all rendered in
+62:48 Maya most likely but changing for the
+62:51 sake of changing is sort of silly when
+62:53 you really look at the fact that product
+62:56 output generates revenue for the company
+62:58 anyone getting in there and selling
+63:01 upselling a religion that slows the
+63:03 thing down by 40 times is just foolish
+63:08 you know so but you still are gonna have
+63:12 from 1990 to about 2010 okay for the
+63:18 most part in you know there's a lot of
+63:19 this still today everything is manually
+63:22 generated human beings looking at models
+63:25 they have some scanning scanning
+63:26 techniques that they've used since the
+63:28 early 90s where they would take a laser
+63:29 and scan an object and that would
+63:32 generally put some geometry in the
+63:33 computer it's all horrible geometry
+63:37 overcomplicated from the laser but then
+63:39 human beings have to manually you know
+63:43 draw on top of this other object to
+63:46 reduce the amount of polygons because
+63:49 the more polygons a model has the longer
+63:53 it takes for it to render in the final
+63:55 layer to make it look photo-real and so
+63:59 there's all kinds there's still all
+64:00 kinds of software that will take an
+64:03 object that's you know drawing us some
+64:04 massive level of detail but when it
+64:07 shows up in the video game for instance
+64:08 it's really tiny and so they run a bunch
+64:11 of software on it to remove geometry to
+64:16 make it smaller and they can do this
+64:18 live that's what's cool they can have a
+64:19 really super complicated one in memory
+64:21 and one location but the one that you
+64:23 see on the screen is like one tenth of
+64:25 the geometry which makes it go a lot
+64:27 quicker and it saves memory in the
+64:29 computer because now think about it we
+64:32 have all this geometry and rules bones
+64:35 rigging / bones and memory and now you
+64:41 want to animate the thing so every
+64:43 single split-second every indices every
+64:46 single point in space is being run
+64:49 through this massive transformational
+64:51 algorithm that is moving it in 3d space
+64:55 and memory and then rendering it to you
+64:58 in 2d plus it's like the light casting
+65:01 and all this other stuff right so that's
+65:04 when we get eventually the GPU the
+65:09 graphics processing unit that's when you
+65:12 get the companies like Silicon Graphics
+65:13 looking at the math and going oh we're
+65:16 always processing sort of this this
+65:20 exact type of math and so let's build
+65:22 processors that are absolutely geared
+65:24 for nothing more than CG three three
+65:28 coordinates in an 3d space and we're
+65:30 going to crunch them and rotate them and
+65:32 move them and so they can just throw
+65:34 polygons at us and we're going to be a
+65:36 polygon rendering machine and this
+65:39 significantly improved video games for
+65:42 consoles video games for your computer
+65:44 if you had a GPU and your computer which
+65:47 now every computer ships with one rate
+65:48 it also mines Bitcoin really well but
+65:52 now let's take a little pit stop here
+65:56 because by 1993 we have created Tron
+66:00 1982 Last Starfighter what's a little
+66:05 films but we've also done Terminator 2
+66:08 and terasi Park Jurassic Park is very
+66:12 interesting because you can see the
+66:14 evolution of the software and perhaps
+66:16 even different companies that might have
+66:17 participated although I think it's all
+66:19 i--all em when you look at the
+66:20 brontosaurus on the very first shot he
+66:23 looks sort of weird his skin doesn't
+66:25 look real it looks kind of glowy and
+66:28 shiny it was almost like a test test run
+66:32 they did internally to say we can do
+66:34 this but then they never went back and
+66:36 really made it look that real but by the
+66:39 time you get the velociraptors in the
+66:40 center of the phone we're towards in the
+66:42 film running around the kitchen my god
+66:45 you've got some you know Phil Tippett's
+66:48 off creating the big you know feet in
+66:50 the big skull with the eye that's moving
+66:51 and stuff but still the velociraptors
+66:54 look massively real and I'm overlooking
+66:57 some stuff like masking you know when a
+67:01 you know if you're trying to say look I
+67:03 filmed this kitchen at live-action you
+67:06 know it's a real kitchen and I have to
+67:08 have a Velociraptor walk behind the
+67:11 island in the center of this kitchen and
+67:12 there's hanging spoons and stuff and we
+67:15 have to make sure that the render of
+67:19 this dinosaur doesn't over print on top
+67:21 of a spoon that's in the foreground
+67:22 right so they have to do masking exactly
+67:27 where the spoon is and if the if the
+67:29 dinosaur is bumping something because
+67:32 it's kind of [ __ ] II in the kitchens
+67:34 that's why it's indigenous world and
+67:35 it's shaking all those spoons and
+67:37 they're all going around well these
+67:38 animators are in there they've rendered
+67:40 the spoon but it's off-camera that'll
+67:43 never be rendered in your eye what
+67:45 they're doing is they're creating a mask
+67:46 such that where the spoon is it's
+67:48 subtracting the dinosaur
+67:50 so the dinosaur does an over print on
+67:52 something that's in the foreground I
+67:53 mean this stuff is like so complicated
+67:55 it's ridiculous right but what else
+67:58 happened in 1993 which was sort of the
+68:01 beginning of 3d video games you have
+68:06 this little company in Texas called EADS
+68:08 software and its software is famous for
+68:11 its first sort of pseudo 3d games the
+68:16 very first one they ever created was
+68:17 Castle Wolfenstein which is doing some
+68:21 again pseudo 3d but it convinced the AI
+68:23 that it was in 3d now before that
+68:27 artists just simply drew corridors and
+68:29 as you would look around you know they
+68:31 would just animate through some hand
+68:34 animated door jambs rotating every once
+68:37 in a while but it with John Carmack
+68:41 being probably in history the most
+68:45 brilliant 3d coder in the world you know
+68:48 Unreal Engine is pretty amazing but
+68:51 Carmack now creates I think what's
+68:53 called the Tech 5 engine but Carmack's
+68:57 is just he's a tour de force man he is
+69:01 20 coders in one and he understands
+69:04 absolutely everything about the hardware
+69:06 of a computer as well as what the
+69:08 software can do inside that hardware and
+69:10 he is in my opinion the
+69:13 first person to really push everything
+69:17 to the next level now there's another
+69:18 dude that was working with him back at
+69:20 the beginning and there's this huge
+69:22 ongoing drama lawsuit about the history
+69:24 of the two of them but John is the one
+69:26 that's continued to create software the
+69:28 other guy didn't but then the other guy
+69:29 claimed he did as much as John it's like
+69:31 hey you know if I said I was you know a
+69:36 marble sculptor as good as Michelangelo
+69:38 and I helped create this you know the
+69:41 Statue of David and all this other stuff
+69:42 but then after I left you know
+69:46 Michelangelo studio I'd never created
+69:49 another one mmm kind of makes you go
+69:53 well maybe you weren't what you thought
+69:54 you were you know no disrespect right
+69:57 but this game comes out and I think by
+69:59 March 1983 called doom and John had
+70:04 taken the Castle Wolfenstein code to the
+70:06 next level where it wasn't perfect 3d
+70:11 but it was good enough man you totally
+70:14 run around this demonic room world or
+70:19 whatever and it was an amazing game now
+70:20 by the time he got to quake quake was
+70:23 full 3d there's this other team they
+70:26 created unreal which sold themselves to
+70:28 GT interactive and unreal came out of a
+70:31 came out right at the very beginning in
+70:33 full 3d but now the reason why I take
+70:37 this little digression over to video
+70:39 games is to make a distinction between
+70:41 the way that light was being portrayed
+70:44 and calculated in memory from a video
+70:47 game to 3d software because those of you
+70:51 were alive at the time you know for a
+70:54 fact that Doom isn't like Terminator 2
+70:58 unreal is not like you know Jurassic
+71:02 Park there's a huge difference in the
+71:04 quality so what did they do did they
+71:07 cast less light
+71:09 no they invented a whole new technique
+71:12 and this is brilliant and I it's amazing
+71:16 it's called ray casting so you have a
+71:20 camera just like your eyeballs and they
+71:23 have something called the frustum
+71:25 and it is the box by which the camera
+71:29 can see all things so you know that from
+71:32 your eyesight you've got your peripheral
+71:33 vision but in a video game it pretty
+71:35 much goes straight out because you have
+71:36 a monitor you're looking at right we
+71:38 have peripheral vision your video games
+71:40 don't even if you buy a 50 monitor
+71:42 straight you're just getting a wider
+71:44 frustum you're not really getting light
+71:46 that's coming in from your sides this is
+71:48 what my LED 3d theater was designed to
+71:53 do give you a peripheral vision and a
+71:55 movie theater for the very first time
+71:57 but were 10 20 years away from the
+72:00 software hardware to do that so what
+72:02 they did was they said okay we're gonna
+72:05 start in the upper left hand corner and
+72:08 we're gonna throw a pixel out and see
+72:10 what it bumps into and we're only gonna
+72:12 let it bump into things X number of
+72:15 times and then we're gonna just tell the
+72:16 camera this pixel is this color and they
+72:20 go to the next one over and the next one
+72:21 over the next one over so when you're
+72:22 playing doom or even Castle Wolfenstein
+72:25 every single frame is rendering every
+72:28 pixel of Lulla every pixel of light on
+72:30 the monitor for upper life upper left to
+72:33 the lower right it's phenomenal that
+72:36 they were able to do this on 386 is 46
+72:39 is back in the early 90s I mean in real
+72:42 time just mind-blowing how brilliant
+72:46 these guys were meanwhile over in Pixar
+72:48 by the Gees the was that Finding Nemo
+72:53 must have been around 2002 they were
+72:58 still taking 27 hours for one frame of
+73:00 Finding Nemo so you have a divergence of
+73:05 technology technique ray tracing which
+73:09 is coming out of the actual light source
+73:10 bouncing all over the room and if it
+73:12 happens to make it into the camera you
+73:13 get to see the light if you have a video
+73:18 game you're ray casting and it's sending
+73:20 in the opposite direction out from the
+73:21 camera so just know that's the
+73:23 difference between all of this software
+73:25 and today because GPUs are so incredibly
+73:29 powerful
+73:30 you now have ray tracing in video games
+73:33 and from my mind it's just mind-blowing
+73:37 that the stuff is
+73:38 come so quick that that's possible now
+73:41 there's all kinds of other techniques we
+73:43 use in video games to reduce the amount
+73:47 of light calculations they have
+73:51 something called baking and what they
+73:53 will do is say well this lights never
+73:57 going to move and so what we're gonna do
+73:59 is we're going to in the studio before
+74:02 you ever receive the videogame we're
+74:05 going to take that that dungeon that
+74:06 you're crawling through that forest that
+74:08 you're crawling through and they have
+74:09 that little lamp out there in the middle
+74:10 of nowhere with a little light on it and
+74:12 it's casting light onto the ground well
+74:15 it's never gonna change no light you
+74:18 know technically speaking if you walked
+74:20 in front of the light you would disturb
+74:21 the light on the ground but they know
+74:22 you don't really care about that level
+74:24 of massive detail so maybe they create a
+74:27 shadow algorithm underneath you to blot
+74:29 out what's down there but what they end
+74:31 up doing is baking light in there and
+74:33 this is all built into the engines at
+74:35 this point but they try to bake as much
+74:37 of the calculation as possible into the
+74:41 artwork as textures instead of making
+74:45 you do it live all the time but now a
+74:47 guy named Will Wright who's an absolute
+74:52 legend in video games he created way
+74:54 back in the 80s SimCity and now you know
+74:58 there's the Sims there's there was sim
+75:01 earth for a little while I mean the guy
+75:02 I think is um he created a company
+75:06 called Maxis back in the I could
+75:07 remember I had to look it up in May X is
+75:10 out of I believe Walnut Creek and EA
+75:15 acquired his company while I was working
+75:17 at Electronic Arts which is why I know
+75:19 most of this stuff
+75:20 but after I had left in 2002 within the
+75:25 next two or three years he created a
+75:27 product called spores a video game
+75:30 because he saw the writing on the wall
+75:32 which is that the video games are
+75:36 starting to get to be 1080p which was a
+75:38 big deal another 4k well the challenge
+75:42 for the video game companies and this is
+75:43 now bleeding into the CG world of movies
+75:47 is that what if you wanted to create New
+75:49 York City in some apocalyptic world
+75:52 where it's all dirty well the
+75:55 old-fashioned way is you hire a bunch of
+75:57 artists to create scraps of aluminum
+76:00 cans and old mailboxes that have rusted
+76:03 in a particular way windows that are
+76:05 busted out in an infinite number of
+76:07 combinations buildings you'd have to do
+76:10 air every single building separately so
+76:13 what will figured out was we're gonna
+76:16 have to start writing code to randomize
+76:20 models because we don't have enough
+76:22 human beings to really tackle the the
+76:26 organic nature of reality and so he bit
+76:29 off this massive project and it was so
+76:31 cute it's gone now I think it's pretty
+76:34 much I have the collector's edition in
+76:36 my closet because I knew it was a
+76:38 landmark moment in time I didn't know if
+76:40 this product was going to succeed but he
+76:42 created a video game where you started
+76:43 as a single cell creature and you ended
+76:46 up creating multi-celled full-blown
+76:51 aliens and you had a world that you were
+76:54 on it was all kind of cute and textured
+76:56 and you you chose what algorithms you
+77:02 would use to put like a horn on the
+77:04 front of the guy's thing where they had
+77:05 teeth right here you know like in the
+77:07 single cell or you know moebus stage you
+77:09 know whether it had little zappers that
+77:11 electricity on him but it was all
+77:13 algorithmically generated models that
+77:17 then you picked and put together it was
+77:19 brilliant and then immediately all the
+77:23 other game companies started realizing
+77:26 this and started writing algorithms to
+77:27 randomize everything and so you get this
+77:30 randomization any of you played Diablo 3
+77:32 know that World of Warcraft are sorry
+77:35 Blizzard excuse me they randomized all
+77:38 the dungeons now it's a bunch of hand
+77:40 generated artwork but they've randomized
+77:42 the paths and stuff so you'll never have
+77:44 a dungeon the same necessarily so that
+77:47 starts to solve this problem that they
+77:50 have where they were running out of
+77:51 resources or running out of money or
+77:53 running out of time it's a big deal now
+77:57 how many of you have ever seen things
+77:59 like a spaceship explode in CG in the
+78:03 90s and a spaceship explode in the
+78:05 tens and then the spaceship exploding
+78:07 the and the teens of the 21st century if
+78:11 she paid attention you'll notice that
+78:13 when things blow up in the 90s they
+78:15 typically picked a few places where
+78:18 these polygons would rip apart they
+78:19 start breaking the ship apart but they
+78:21 start putting fire like live-action fire
+78:24 on top of the model such that by the
+78:26 time your eye starts to discern this
+78:28 explosion is very unrealistic there's a
+78:31 fireball in front of it and you can't
+78:33 really see it then by the first decade
+78:36 of the 21st century now we're starting
+78:38 to see some fairly decent you know
+78:40 ripping of ships and when two ships
+78:42 collide you know they're tearing each
+78:44 other up starting to get a little bit
+78:45 better and today it's awesome because
+78:49 they've now written from the plug in
+78:51 teams okay they will write software that
+78:54 allows for a ripping of the existing
+78:59 polygons as so as things start to blow
+79:01 up they can say this is the center point
+79:03 of the explosion or the collision or as
+79:05 two polygons collide maybe just has
+79:07 three points to create a triangle and
+79:09 then all of a sudden it starts to
+79:12 generate more sub polygons just for this
+79:14 scene and starts to rip the thing apart
+79:16 and it starts to look phenomenal now
+79:19 we've got fire and smoke and everything
+79:21 inside the computer water water is
+79:24 phenomenal now even blender has like
+79:26 photo real water remember a Pacific Rim
+79:29 all those robots are CG and all the
+79:31 water splashing around in the oceans is
+79:34 all CG as well the other huge area which
+79:38 we had to conquer or slowly over time
+79:40 and I think we're getting damn near
+79:43 perfect at this point which was the
+79:45 human face the human face was rough even
+79:48 to this day with what is it the CG
+79:51 Princess Leia and rogue one at the very
+79:55 end what we haven't really figured out
+79:58 how to do is to move the mouth at the
+80:00 proper speed of reality and I do not
+80:03 know why this is so damn difficult
+80:05 because it's in everything when you see
+80:07 the CG Jeff Bridges in Legacy it's it's
+80:12 bad I mean you know hats off to the
+80:14 folks trying to make this occur I know
+80:16 they have a really tight budget and a
+80:17 tight
+80:19 schedule they did the best they could
+80:20 but I mean it's crazy it's creepy any
+80:23 did any of you ever saw Polar Express
+80:25 there's the scene on the the trolley car
+80:30 and all these little kids are looking at
+80:33 each other and boy they list look like a
+80:34 little Damien omen you know devil
+80:37 children because it doesn't look real
+80:39 so rendering the eyeball perfectly was a
+80:42 big deal just getting the color right
+80:44 get any geometry correct getting the
+80:47 skin on the face especially if it's
+80:50 completely CG you'll understand why
+80:53 Pixar went with a very cartoony looking
+80:57 geometry because that they can get right
+80:59 they can do Mickey Mouse just fine but
+81:02 doing your sister your daughter your
+81:04 wife very difficult and let's say they
+81:07 get the face correct getting the hair to
+81:10 flow properly is super duper difficult
+81:12 there's a lot of physics in here and so
+81:15 typically they will create a do that is
+81:17 you know 95% locked it does move a
+81:21 little bit and they have a few hairs
+81:22 that'll move just a little bit as the
+81:24 scene animates and a lot of times we're
+81:27 gonna have to do it manually but now we
+81:30 have something called the deep fake the
+81:34 D fake is extremely impressive now I
+81:38 have a whole episode called the deep
+81:40 fake out which if you want to get into
+81:41 the political implications and the
+81:43 propaganda implications of the deep fake
+81:45 go watch that episode we're not going to
+81:47 get into those controversies in this
+81:49 episode but now like I've said a few
+81:51 times I was invited to a company in Los
+81:54 Angeles about 2008 where a friend of a
+82:01 friend in the industry of Harvard grad
+82:04 brought me in and said look I got this
+82:06 technology we're trying to get video
+82:08 game companies to stop putting helmets
+82:10 on all the characters to get rid of the
+82:12 face problem and that they can't do it
+82:14 realistically so why do it at all and
+82:16 they showed me absolutely photo real
+82:20 facial animations and it was I could rig
+82:25 my face with all the dots and then they
+82:30 could take any person in the
+82:32 world and it would be that person and
+82:36 again the demo was an Asian girl
+82:38 probably in her early 20s doing the
+82:41 animation but the character that was
+82:43 animating an absolutely photo reel was
+82:46 this black african tribesmen with face
+82:48 paint on and all the crustiness of the
+82:51 paint and the guy was probably I would
+82:54 say he was least in his 40s
+82:56 and it just looked phenomenal I mean it
+83:00 was absolutely real and the funny thing
+83:01 was I asked where the technology came
+83:03 from and it came from an alphabet agency
+83:07 it was it was Declassified to be used in
+83:11 entertainment software it was over 10
+83:14 years ago people with the deep fake
+83:17 stuff were sitting on the Internet we're
+83:18 starting to get to the stuff that I saw
+83:20 11 years ago but you better believe that
+83:24 stuff was completely implemented
+83:29 probably 15 years before I saw it making
+83:32 it 25 years ago so the deep fake is
+83:39 obviously a marriage between so it can
+83:43 take someone like Kris hater you know
+83:45 who's on the late-night show he was
+83:48 gonna do an impersonation of Arnold
+83:50 Schwarzenegger and they can run his face
+83:54 through software looking at every
+83:56 inflection of his face which is
+83:58 beautifully exposed in the in the shots
+84:00 where his mouth is where his eye is if
+84:02 he makes a particular you know
+84:04 expression with his eyebrows and they
+84:07 can take the geometry and overlap it
+84:10 with Arnold Schwarzenegger face I've
+84:15 saved some modern photograph of him and
+84:17 it will look like hater turns into
+84:20 Arnold Schwarzenegger and the funny
+84:22 thing was when I first saw that that
+84:27 deep fake of him doing the Arnall and
+84:29 personation the funny thing is I didn't
+84:31 realize I was looking at deep fake and
+84:33 we're sitting in my smoke lounge and I
+84:36 guess we just didn't read the video
+84:38 title which had it right there in the
+84:40 title and I'm looking at him and he
+84:42 starts doing the Arnold impersonation
+84:43 which obviously the voice is just
+84:44 dead-on with
+84:46 this guy and he looks just exactly like
+84:49 you know Arnold Schwarzenegger and I was
+84:51 like and everyone in the room is like oh
+84:52 my god he really could transform his
+84:54 face there look like Arnold
+84:55 Schwarzenegger but the reality was they
+84:57 were overlaying Arnold's real face on
+84:59 top of hater for those of you who are
+85:03 big fans of Fast and the Furious you
+85:05 know that Paul Walker died in this
+85:09 Porsche crash and then his brother ended
+85:12 up being hired to play his body and I
+85:16 believe the number is somewhere around a
+85:19 hundred and seventy five scenes Plus
+85:22 Paul Walker's in the movie but it's deep
+85:26 faking his brothers face on top of his
+85:28 body art you know if you think about
+85:31 becoming from Paul to his brother his
+85:35 brother had his his face put on him I
+85:38 guess there's a better way to say it but
+85:39 no one knew it except for people who
+85:43 knew that he had died there because you
+85:44 never know what book shots they might
+85:46 have had before he died and you know I
+85:48 got half of a Tim other half is not him
+85:50 but I went and saw those shots and oh my
+85:53 god it's crazy how realistic it is right
+85:56 so what's the future of CG at this point
+85:59 because that's the big question
+86:02 well the writing's all over the wall D
+86:05 fake is gonna continue to be a business
+86:07 there is a movie that you need to see
+86:10 called lookers made in 1979 to 1980
+86:15 somewhere there my buddy Richard Taylor
+86:16 did the special effects on it and it
+86:19 predicted the future perfectly which was
+86:23 that all things will become CG after a
+86:26 while if we you know I will say this
+86:31 much if we allow our world to turn into
+86:35 some tyrannical [ __ ] show but then it
+86:39 will be all CG and you won't know who's
+86:41 real and who's fake in this world
+86:43 imagine electing a president that
+86:45 doesn't exist because the president is a
+86:47 CG character and all you hear about are
+86:52 rumors that the person exists but you
+86:55 never get to see the person because
+86:56 they're not allowed to go there you know
+86:59 so CG is interesting it's it's it's a
+87:02 beautiful thing for telling stories but
+87:04 now it's starting to kind of get into
+87:06 manipulating reality a little bit right
+87:08 now here's what's funny I sit around and
+87:12 watch shows all the time
+87:14 with guys in their 40s and over and they
+87:21 can't tell what CG and what's not CG and
+87:25 a lot of it has to do with these fake
+87:27 rocket launches from countries that
+87:29 don't have rocket technology I know that
+87:33 North Korea buys a bunch of stuff or did
+87:36 before they got freed and emancipated
+87:39 from alphabet agencies they were using
+87:43 CG really bad techniques to launch
+87:47 rockets inside CG software and then
+87:49 telling the world and their citizens
+87:50 look what we can do but every CG artist
+87:53 is looking at it going oh my god it's
+87:55 like a horrible smoke plug-in you know
+87:57 you didn't even randomize it enough and
+88:00 volumetrically it's wrong and lighting
+88:02 it's wrong and sometimes you'll see them
+88:07 try to blend live-action with CG and so
+88:11 you'll have a rocket the cameras moved a
+88:13 little bit it's shaken a little bit for
+88:15 whatever reason someone didn't lock the
+88:16 camera down bad tripod wind blew and so
+88:20 the rocket is taking off in the launch
+88:22 pad but it's kind of like left and right
+88:23 left and right left and right because
+88:25 the background is shaking but the
+88:26 Rockets staying in place they didn't
+88:28 track the shot properly when I land the
+88:31 UFO in the background of this house I
+88:33 stood pretty much where I'm standing now
+88:35 I pointed the camera at the sky in fact
+88:38 I did it backwards sorry I locked it
+88:40 down I pointed straight at the backyard
+88:41 so I had the final shot exactly the way
+88:43 I wanted it because I didn't know
+88:44 randomly how to bring it down perfectly
+88:47 without doing too much adjustment right
+88:49 so I pointed at the backyard and it's
+88:53 filming in 4k and then I just push it up
+88:55 to the sky which is that way then I got
+88:59 into blender 3d they have a beautiful
+89:02 tracking system inside but it took me at
+89:05 least a week
+89:06 and I'm not joking seven days to figure
+89:09 out how to track this gigantic
+89:12 pan because I've got objects up there
+89:14 they don't exist in the bottom half down
+89:16 here so I had to track track it in like
+89:18 thirds like one third of the camera
+89:19 tracked using objects that are up in
+89:21 that shot and then one third the objects
+89:23 there in the middle and the one third
+89:24 all the patio things and they get it all
+89:26 perfect so I learned a lot it was really
+89:29 cool but I'd say YouTube is your best
+89:31 friend for learning this stuff if you're
+89:34 into if you want to get into this as a
+89:35 profession or even just play around with
+89:37 it for your own purposes get blender 3d
+89:40 it's right now a two point eight two
+89:43 point something is about the two point
+89:46 eight something is about to release this
+89:48 year I think it's a great organization
+89:51 it's great people and they just have
+89:54 everything they've got a full video
+89:56 editing software like Final Cut in it if
+89:59 you actually have a tiny little
+90:00 Photoshop inside but they have 3d
+90:03 sculpting down pat they have textures
+90:06 and shaders down you can do pretty much
+90:08 anything you can conceive it's all node
+90:10 based programming when you want to get
+90:12 into it meaning you don't have to write
+90:14 any code if you don't want to they do
+90:16 have Python interface as well if you're
+90:17 a big plug-in kind of coder it's all
+90:20 based on Python the reason why the
+90:22 product exists is that the engineer who
+90:24 wrote it it was in Europe you got tired
+90:28 of writing everything by code so you
+90:30 start creating interface components to
+90:32 help them do some basic things and it
+90:33 just kept growing and growing and I
+90:35 think it's 25 years old now but now the
+90:38 world is helping and the world is
+90:40 donating to the movement so it is it is
+90:42 just a beautiful piece of software and
+90:44 growing in leaps and bounds if you get
+90:47 into it today and you get serious with
+90:49 the tutorials online you could be
+90:52 employed probably with a deep six digit
+90:57 salary in two to three years Spenny how
+91:00 aggressive you are in terms of deep fake
+91:03 inside a blender I'm not sure they've
+91:05 quite conquered that that's a little bit
+91:07 of other software since I have a little
+91:10 bit of time on the stick I thought I
+91:11 would talk about the tracking suits that
+91:16 we use and how that technology is
+91:18 changing you've all seen it if you've
+91:20 seen the making of Planet of the Apes
+91:22 the making of any of the lord of the
+91:24 Ring
+91:25 or The Hobbit shows Hobbit movies this
+91:29 has been done for quite a while you'll
+91:31 have human bodies and this is refined
+91:33 itself considerably from this point but
+91:35 there the old technique was to put a
+91:37 bunch of little dots on a suit a leotard
+91:39 and they're lit usually little plus
+91:43 signs so they can kind of see how the
+91:45 plus sign is turning inside the camera
+91:47 and the software figures out ok well it
+91:49 looks like this now then that body has
+91:51 actually turned this way and look at all
+91:53 the other dots to figure out how things
+91:54 have worked but today that's been
+91:56 optimized down to just a few dots in
+91:59 fact geez two years ago my partner in
+92:04 the 3d LED theater start-up Richard
+92:08 Taylor had been shown technology where
+92:12 you wear a little cell phone size thing
+92:15 on you and you just have a few dots on
+92:18 your fingers a few dots on your body and
+92:20 it's all using wires to figure out how
+92:23 you're using your body and you could
+92:24 walk around in it for hours and hours
+92:26 and hours and this little box down there
+92:29 is memorizing how your body is moving
+92:30 that doesn't do face you have to do your
+92:32 face separately but that's a huge
+92:35 improvement so a lot of the motion
+92:37 capture stuff that you see out there is
+92:38 phenomenal motion captors been around
+92:40 forever video game companies have I
+92:44 think for the most part started using
+92:47 motion capture for everything some
+92:49 companies like Blizzard held out for a
+92:50 long time because the animators thought
+92:52 that hand animated things had a special
+92:55 feeling to it that that motion capture
+92:59 didn't that kind of felt like they were
+93:01 cheating it's like what Mortal Kombat
+93:03 came out you had your Street Fighter
+93:05 people that said a hand animate is the
+93:07 way to go taking pictures of someone in
+93:09 a studio and then animating them
+93:11 together was cheating well Mortal Kombat
+93:15 is now an absolute legendary product you
+93:18 know so if I'm corrected at all by Tim
+93:22 take his advice take his word for it
+93:25 because he's right the history of
+93:28 optical in camera effects optical
+93:31 printers and all that stuff and the pre
+93:33 CG world is another thing that is just
+93:36 an odyssey unto itself
+93:38 I know enough to be dangerous in that
+93:41 world but I personally have never had my
+93:43 hands on those machines
+93:44 I think Tim has so you know it's it's
+93:48 good to know the entire history of this
+93:50 software and hardware so that you
+93:53 understand where the vectors of
+93:54 improvement are going you know like
+93:56 what's what's left to fix what's left to
+93:58 make better what are some of the old
+94:00 techniques you know one of the
+94:05 techniques that John Carmack used back
+94:07 in the day was that in order to do some
+94:11 of these transformational algorithms to
+94:12 move pixels and vertices in 3d space so
+94:18 that you could see him in 2d
+94:19 we're very computationally heavy and
+94:22 they were they use sine cosine
+94:25 calculations quite a bit and tangent and
+94:28 all kinds of other heavy calculations
+94:31 that you know for those of you played
+94:33 with calculators in the 80s you would
+94:35 type in a number here cosine you watch
+94:37 the calculator go BAM and it would give
+94:40 you the ad you know think well computers
+94:41 were no they weren't that much faster so
+94:45 one of the things that John did was they
+94:50 pre calculated in memory a bunch of
+94:54 numbers they basically said we're always
+94:56 taking this number and getting the
+94:58 cosine of it so let's just do it ahead
+95:00 of time put it in memory and then when
+95:02 we need that instead of calculating it
+95:04 we'll look it up in like a table like
+95:06 those old math you know your old
+95:07 multiplication table lookup sheets right
+95:12 and so that was a technique to make
+95:14 things a lot faster another one was that
+95:17 floating point math having to track a
+95:20 decimal place you know you got a number
+95:22 a decimal and then way before the
+95:24 decimal well that takes a significant
+95:27 amount of memory takes a significant
+95:30 amount of processing power but integer
+95:32 integer math with no decimal decimal
+95:34 place goes really quick and so there
+95:38 were techniques developed to live inside
+95:40 of integer math integer math and then at
+95:45 the last second you put the decimal
+95:46 place in or it's supposed to go and I'll
+95:49 give you a real world example
+95:52 of where I use this technique and this
+95:55 is why it's important to know the whole
+95:56 history of all things because it's a
+95:59 back of tricks man okay
+96:01 I was my buddy from Blizzard who was in
+96:05 cinematics he came out and started his
+96:09 own company and his company is called Lu
+96:12 motive I believe it still exists but it
+96:16 was creating LED hats where you would
+96:18 have this really badass logo in the
+96:19 front and it was it was essentially this
+96:23 laser perforated gel that went
+96:25 underneath the caps front piece of cloth
+96:27 and so we could cut a hole in the cloth
+96:28 and then we could change the color of
+96:31 the gel using three LED lights on the
+96:35 side it was only three might have been
+96:37 four but he works for a year to figure
+96:42 out the best technology that make that
+96:44 affordable makes it reliable he actually
+96:47 went off and initially tapped the
+96:51 company that made the Tron suits and
+96:53 found out that that technology was very
+96:56 cumbersome it actually had a vibration
+97:00 in the circuit and so you would hear
+97:02 this kind of e you know and because it's
+97:04 really close to your head so you're
+97:05 hearing this so we're like hey that's
+97:07 not gonna work so he found this other
+97:09 technique this laser perforation but he
+97:13 needed a program to be able to change
+97:15 the colors and rotate through the colors
+97:17 and he wanted to double click to make it
+97:19 go into one mode you could program up
+97:22 till like 23 colors and you could make
+97:25 it strobe you can make it fade this is
+97:27 what he wanted but he didn't have it yet
+97:29 right so I see this product and I'm just
+97:32 submitting the medial I'm like oh my god
+97:33 this is the coolest thing Scott let me
+97:36 get inside and write the code for this
+97:38 microprocessor I've never done it before
+97:41 in my life but I know I can do it let me
+97:43 have it
+97:44 and he put me off and put me off put me
+97:46 off because he was getting the current
+97:48 Hardware of the Hat figured out but once
+97:51 he had that figured out he goes okay
+97:53 smart guy
+97:54 whatever figured this out and so he gave
+97:58 me the pre-existing kernel code which
+98:01 beautifully had the inputs and outputs
+98:04 already figured out how to
+98:06 talk to the LED was already figured out
+98:07 for me how to sense you know the battery
+98:10 supply being below a threshold where it
+98:12 needs to recharge and all these
+98:14 different little basic things were
+98:15 programmed by the people who made the
+98:17 chip now the chip is smaller than a
+98:20 postage stamp I mean the thing is it's
+98:23 probably I don't know it was 60% the
+98:25 size of a normal postage stamp
+98:26 tiny little thing right I think I had 2
+98:31 Meg of RAM inside this thing
+98:32 so the showing a color and strobing
+98:38 things not too difficult just a bunch of
+98:39 timers and that kind of stuff
+98:41 I had to program the double click by
+98:43 myself which was definitely the least
+98:46 fun of the whole thing but I contact the
+98:50 manufacturer of the chip and I said look
+98:53 I got to do a bunch of RGB blending
+98:57 color blending because I'm gonna take
+98:59 two colors and overtime blend say red to
+99:02 blue it's probably gonna be purple in
+99:05 the center and then it's going to hit
+99:06 the other side right well in order to
+99:09 really do this properly it's got a ton
+99:10 of floating point math in it well the
+99:13 chip doesn't have enough memory to hold
+99:16 my data in memory my program in memory
+99:19 and then have all these massively
+99:20 complex floating-point algorithms going
+99:22 on so the chip manufacturer tells me you
+99:25 can't do it you're gonna have to upgrade
+99:27 your chip and so I went into their
+99:30 forums and I talked about it again
+99:31 everyone's like you can't do it you
+99:32 can't do it we've been there done that
+99:33 can't do it so I go back to my bag of
+99:37 tricks
+99:37 having read books on this on how Carmack
+99:41 did what he did and so I developed a
+99:45 technique to do all my math and integer
+99:47 math in the last second slam it into one
+99:51 floating point variable for each led I
+99:54 had to talk to so only at the last
+99:56 second was it accurate in memory to make
+99:59 the RGB value perfect on the LED POW got
+100:04 it to work no problem now I had no
+100:07 memory left when this thing was done it
+100:09 was like programming my computer as a
+100:10 kid in the 80s then I helped you know I
+100:14 had a little bit more room to handle how
+100:17 things work so when it came to like
+100:19 the Hat was charging I can sense that
+100:22 the Chargers been put on the chip I
+100:24 could see the power going into the
+100:28 battery and so I made it breathe so when
+100:30 you put the Hat down you plugged it in
+100:32 to breathe really cool and then when it
+100:34 was done I made it go big big big big
+100:36 and then it just turned it off it's cool
+100:38 double click man that was like two weeks
+100:41 of hell trying to figure out ok I
+100:44 clicked it once I click it twice what's
+100:46 the amount of interval between the
+100:47 clicks and trying to push that in memory
+100:49 somewhere where I could memorize it if I
+100:51 got that working as well and of course
+100:54 debugging and that kind of stuff so get
+100:58 into this get into it deep it's a lot of
+101:00 fun it is a whole career onto itself
+101:03 with YouTube there is no excuse for not
+101:05 being able to do anything and everything
+101:07 you know I'm not into I used to own
+101:10 Lightwave I founded it exceptionally
+101:13 difficult to use but it was in the late
+101:16 90s kept my license alive for a couple
+101:19 versions and then finally just let go I
+101:21 never put any time into my ax
+101:24 once I saw blender it was over blender
+101:26 is gonna be the future and it's free now
+101:29 someone might end up buying them and
+101:31 then starting to charge money for it but
+101:33 hopefully they don't take it to where
+101:34 like you know nuke is I think what nine
+101:38 thousand dollars or some crazy amount of
+101:40 money I mean these companies just need
+101:42 to figure out that the volume is the
+101:44 best model rate windows sold their
+101:48 product for $79 and that's why they took
+101:51 over the world right so don't make that
+101:53 business mistake if you happen to get
+101:55 into a product line but anyway hope you
+101:57 dug the episode this is sort of one I've
+101:59 been wanting to do for quite a while
+102:01 I'll try to fill this thing with a lot
+102:03 of photographs of what I'm talking about
+102:05 if you have any questions definitely put
+102:07 them in the comments section if you want
+102:09 to get into probably a massive dialog
+102:11 you want to get into the LOC Facebook
+102:13 group but that brings us to deep
+102:15 thoughts radio.com that's where all the
+102:18 feeds are there's two video there's two
+102:21 audio there's three social media there's
+102:25 four ways to contribute to the channel
+102:28 financially and there's an all-new
+102:30 reseat remastered season one
+102:33 so it came up in this last week here
+102:37 that I mentioned in episode and someone
+102:38 goes hey where's that episode and it's
+102:40 because it was season 1 and so just
+102:43 going to the website and type in what
+102:47 you're looking for in the search field
+102:48 and pal it'll be right there for you get
+102:50 a chance to see it so until the next
+102:52 episode take care of yourself and
+102:54 someone else and I see in the next deep
+102:55 thoughts over now
+102:57 [Music]
+102:59 [Applause]
+103:01 [Music]
+103:06 [Applause]
+103:16 [Music]
+103:22 [Music]

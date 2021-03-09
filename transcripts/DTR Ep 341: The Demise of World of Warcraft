@@ -1,0 +1,1744 @@
+undefined
+00:00 [Music]
+00:34 welcome back to deep thoughts ladies and
+00:36 gentlemen today we're gonna take a break
+00:39 on the heavier subjects and we're gonna
+00:41 go into something that I actually get
+00:43 paid to lecture about which is going to
+00:45 be video games and most specifically
+00:48 World of Warcraft created by Blizzard
+00:53 obviously it's not gonna appeal to a lot
+00:54 of you folks so if you just need some
+00:56 noise in the background this is probably
+00:58 an episode for you for those of you into
+01:00 this kind of thing you might find it
+01:01 pretty fun before I get into this I want
+01:04 to give you a little bit of my
+01:05 background so you know you're not just
+01:07 listening to someone with opinions you
+01:10 are listen to someone with opinions but
+01:12 it's fairly qualified opinion I work
+01:15 professionally in the video game
+01:16 business from 1989 to 2013 I had my own
+01:21 company for 10 years roughly 2005-2013
+01:27 plus some sort of drifting personal
+01:30 projects for two years after that I you
+01:34 know my background very quickly you know
+01:36 you know you've got guys who listen to
+01:37 all the videos you know get your barf
+01:40 bags because you're gonna hear a couple
+01:41 things twice I worked on my first video
+01:45 game in 1981 at the age of 11 with my
+01:48 uncle and I was the artist my big my big
+01:52 thing when I was a kid was I was a
+01:54 pretty good sketch artist an oil painter
+01:56 by the age of 9 and so I was able to
+02:00 paint album covers and stuff at a really
+02:02 young age so by the time I started
+02:06 working with my uncle I was converting
+02:08 my illustrations into graph paper and
+02:11 then turning those into varying layers
+02:13 of color on the Texas Instruments 99 for
+02:17 a but I have programmed games on the
+02:20 Commodore 64 the Apple to the IBM old PC
+02:28 the very first green one with no
+02:29 graphics cards I had to use all the
+02:32 special characters to create a horse
+02:35 racing game so I was using like pipes
+02:38 and greater than and less than signs to
+02:39 create that you know the moving legs of
+02:43 a horse and that was based off a drag
+02:46 race game I had been on the Apple
+02:47 - with full-blown graphics and sound and
+02:49 everything as my high school project so
+02:52 one was in Pascal on the PC one was in
+02:54 the basic on them on the Apple at the
+02:58 same time I was at home on a cocoa
+03:01 computer at Texas Instruments sorry
+03:03 Radio Shack trs-80 cocoa computer
+03:07 version 2 and so with that computer I
+03:09 created awesome levels of stuff I mean
+03:13 from from keyboards to a product call
+03:17 FileMaker which is not the same one that
+03:19 sold but it did exactly the same thing I
+03:22 did paint application with fonts back in
+03:26 the mid 80s before any that existed at
+03:29 least on that platform of course I had
+03:31 to live in 32k of RAM or 64 K of RAM to
+03:35 do everything it was crazy and I was
+03:36 just a kid really own kid doing this
+03:37 stuff so by the time I got to 1989 the
+03:41 reason why I got the job out started
+03:43 getting laid off was that I had already
+03:44 had my digital art portfolio just it was
+03:48 gigantic by 89 so I was probably 19
+03:51 years old at the time and I was 19 years
+03:54 old at the time about to turn 20 later
+03:57 that year and I walked in didn't really
+04:00 have a color portfolio because none of
+04:02 the computers did color except for the
+04:03 Amiga and if you had a VGA card for your
+04:05 PC which I did not that was the issue
+04:09 so fast-forward a little bit I get to
+04:12 Electronic Arts as a consultants in 1993
+04:16 and found out one of my best friends had
+04:19 gone from the venture we shared in 89 to
+04:22 92 and he went in there a year later and
+04:26 got in to Electronic Arts there's all
+04:29 kinds of different positions and now
+04:31 he's a big game producer but he and I
+04:34 and another dude named Kurt sat down in
+04:36 an apartment and we videotaped it
+04:38 somewhere I have the videotape and it's
+04:40 us sitting down to plan creating the
+04:43 first MMO because we realized that the
+04:46 engine had come out where you could
+04:47 actually infinitely scroll a world and
+04:50 use fog as a shroud for the loading
+04:52 sequence out there and so we held a few
+04:55 sessions on how to do this because Kurt
+04:57 was a absolute genius
+04:59 and Billy's a great producer role player
+05:02 and I do my engineering side and my
+05:05 artistic side on my game design side
+05:07 because in the 80s you had to design
+05:09 your game on paper and then write all
+05:12 the script do all the art and do all
+05:14 your programming you were one dude that
+05:15 did it all right so I start getting into
+05:20 the bowels of Electronic Arts I was
+05:22 doing consulting for the QA department
+05:24 writing a database for them at the first
+05:26 time and here I come in with all this
+05:29 experience and I'm doing some weird
+05:30 thing off to the side but you do
+05:32 everything in EA when you work there you
+05:35 pitch in on everything constantly but
+05:39 1994 EA purchased I don't know if this
+05:43 is the actual year that they purchased
+05:45 them but EA eventually purchased origin
+05:47 which origin now runs EA and so they had
+05:51 had this game called Ultima and it's
+05:56 really funny my girlfriend's brother
+05:58 played every single Ultima when I was in
+06:01 the Midwest and so I got a chance to see
+06:02 this game but I never played it and so
+06:06 by the time we got this news that origin
+06:08 was creating the first MMO based on
+06:11 origin are based on Ultima so it was
+06:13 Ultima Online and so it took four years
+06:16 to get this game out the door in 1998
+06:18 and so we were the first MMO on planet
+06:21 earth and of course the copycats came in
+06:23 really really quickly god bless him
+06:25 EverQuest was the next one that really
+06:27 blew the doors off because it was 3d
+06:29 brilliant game engine you know a lot of
+06:34 friends that lost their life's
+06:36 programming they're playing that game
+06:37 and I just mean they played it so much
+06:39 they didn't have a social life but then
+06:41 Ultima Online was extremely popular
+06:44 obviously it was the only game in town
+06:46 for a long time until EverQuest came
+06:47 around and so then when the origin
+06:49 people saw EverQuest going to 3d they're
+06:51 like what we need to do this and so they
+06:54 started a secret project called Ultima
+06:56 Online 2 or as we called it internally
+06:59 uo2
+07:00 and you can still see a trailer of this
+07:02 demo trailer of this online on YouTube
+07:05 all it's really low res but after a year
+07:08 and a half of making that product and
+07:10 having no perspective of what it takes
+07:13 to make up
+07:13 like that Electronic Arts went to origin
+07:16 and said look man you're spending a ton
+07:18 of money when are you gonna have this
+07:19 thing done and they said well probably
+07:22 another year and a half and they said
+07:24 well we don't trust you
+07:26 so we're canceling the project know if
+07:29 any of you had seen uo2
+07:31 it was essentially world of warcraft way
+07:35 before world of warcraft at least four
+07:37 years before world of warcraft came out
+07:39 now as rumor has it obviously the group
+07:43 imploded who was creating that and some
+07:47 folks went to Blizzard as I understand
+07:49 it and got their artwork in there maybe
+07:51 some of their engineering because there
+07:54 there were essentially characters who
+07:55 looked exactly the same between the two
+07:57 games - just a few little copyright
+07:59 changes right especially the big fat
+08:02 guys with the big hatchets and the
+08:05 chains there was one of those dudes in
+08:06 uo2 but the idea that a character would
+08:09 dance silly just as something to do was
+08:13 in uo2
+08:13 in 1999 the beta or the Delta or
+08:16 whatever it was and then everyone was
+08:18 asking why would you want to do that and
+08:20 then when I got inside the world of
+08:22 warcraft franchise it was like well of
+08:23 course this is a funny place right but
+08:26 you owe olds while online the ultimate
+08:28 franchise wasn't a big jokey platform so
+08:31 then we're doing these creative things
+08:32 that were brilliant no one was getting
+08:34 it okay so here's your setup so I'm
+08:38 coming to you as a as a software
+08:41 engineer I'm coming to you as a video
+08:43 game artist and I'm coming to you as a
+08:45 video game designer I have taught
+08:47 countless classes in colleges all up and
+08:49 down California from Berkeley to Chapman
+08:53 University to Nome in school film art
+08:58 and game and just a lot of lot of
+09:01 different lectures and little halls here
+09:03 and there the UCI the University as they
+09:07 started their game University so this is
+09:10 something I've been paid to talk about
+09:12 in general so as we go into this world
+09:14 of warcraft analysis which i think is
+09:17 utterly fascinating for me it's a it's a
+09:20 it's a once-in-a-lifetime game that i
+09:25 think recently last year
+09:27 in 2018 they made too many mistakes the
+09:32 very avoidable and having at least half
+09:37 a dozen close friends in Blizzard by
+09:40 2008 and then looking at where it is
+09:43 today they're great people but I think
+09:46 they've replaced it with too many folks
+09:47 that I guess just don't get what the
+09:52 customer wants at this point it's really
+09:53 sad so blizzards going through a lot of
+09:56 changes right now in 2019 Activision's
+09:58 going through a bunch of changes and I
+10:00 don't know how you solve this problem
+10:03 because you can't fire your way
+10:05 necessarily into success right you've
+10:07 got to get the old-school folks in there
+10:09 that understand gaming and have them
+10:11 work on your title and figure out first
+10:15 what's wrong
+10:16 where do you make mistakes where is the
+10:18 fatigue and then go in a different
+10:20 direction right and at the end I'm going
+10:23 to share my expansion that I designed
+10:25 for world of warcraft so well button
+10:27 that up news at 11:00 there you go so
+10:30 vanilla world of warcraft comes out in I
+10:32 believe 2004 and yet because the guy was
+10:37 playing it and one of the places I was
+10:39 consulting some programming I saw it it
+10:42 was beautiful and I was like I have to
+10:44 stay away from this product right now
+10:46 because it will suck me in it is
+10:48 everything I ever wanted in an MMO and
+10:52 so I didn't get into the game until
+10:54 December of 2005 vanilla of course I
+10:58 joined this game and for those of you
+11:00 who don't know anything about Wilda
+11:01 Warcraft I doubt you would continue
+11:03 watching but if you do get through this
+11:04 let me throw you two minutes Warcraft
+11:07 was a game created in the 90s which was
+11:09 a funny sort of medieval
+11:12 resource-management game so you build
+11:15 little buildings you tell people to go
+11:16 out and grab the resources by shutting
+11:18 down chopping down a tree or mining gold
+11:20 or whatever you needed to do to build
+11:22 your buildings and then you would have
+11:24 the story line battles between the the
+11:28 scenarios that they program so you would
+11:30 create like a a faction next door that
+11:31 will come and attack you and you see you
+11:33 go through these phases and you got
+11:35 these levels and you level up and they
+11:37 created several versions of the title in
+11:38 2d and then they eventually went to
+11:41 three
+11:41 I think a little too quick and the
+11:43 computers were too slow to really show
+11:46 this off and it's its glory they're
+11:47 actually porting it right now to the
+11:50 modern day computers because one of the
+11:52 founders said you know I'm gonna play
+11:53 the old game I don't think anyone's
+11:55 interested in playing the old game
+11:57 besides a few old farts that won't make
+11:59 up the will make up the expense to
+12:04 create the game in the profit margin
+12:05 unfortunately so I think going backwards
+12:07 is just a fun thing to do to kind of say
+12:10 hey you know Corvette builds another 64
+12:13 stingray just cuz it's really cool and
+12:15 they'll sell every model but they won't
+12:17 make that many so that's not a probably
+12:19 the way it goes I could be wrong so this
+12:23 thing goes on a hiatus for I don't know
+12:24 I guess it would be I think about 96 97
+12:28 people were pretty much done with the
+12:30 game I mean for those of very loyal
+12:32 lists you're gonna say I'm full of crap
+12:33 and good for you that you love the game
+12:35 that much but by 2004 the franchise was
+12:40 largely mothballed and so when this
+12:42 thing comes out you have a revolution in
+12:47 mmo's they learned every lesson from
+12:50 EverQuest every lesson from Ultima
+12:52 Online and anything else that was out
+12:54 there such when this came out it was
+12:56 balanced it was beautiful and it ran
+12:58 really well on any computer that they
+13:00 said it was compatible with considering
+13:02 this was 3d and it had a lot of assets
+13:05 in there it was amazing now I don't have
+13:08 the lineage in the change history from
+13:11 2004 which I think was like March or
+13:14 something up to December 2005 I did play
+13:19 it I just watched people play it but it
+13:22 was utterly gorgeous they did interviews
+13:24 introduced some extra classes but the
+13:26 way the game works is that you pick a
+13:29 race and so you'd be human or orch or
+13:31 troll or whatever and you Torin which is
+13:35 a cowl race and then you pick your class
+13:38 so you're a hunter you're a warrior
+13:40 hunter didn't release with the original
+13:42 game it came later you're a rogue which
+13:44 is sort of like a thief you know you're
+13:46 backstabber and that kind of stuff but
+13:49 you venture out on your own doing a
+13:50 single-player thing and eventually you
+13:52 start grouping with other people to
+13:53 share the
+13:54 Quest's if you gotta kill 20 antelope
+13:57 and grab their hooves to bring it to
+13:58 some guy in town you can get together
+14:00 and you'll share every other spoil we'll
+14:02 go to the next guy in that rotation and
+14:04 it was it was beautiful and then they
+14:08 had the the dungeons which were very
+14:11 tough thing to figure out with the
+14:13 initial ultima online dungeons were not
+14:16 phased which means there was a boss in a
+14:19 cave and everybody would go in there at
+14:21 the same exact time and kill the boss
+14:22 and everyone sitting around waiting for
+14:24 the boss to respawn and they'd kill it
+14:26 and then you know kill it in two seconds
+14:28 and a bunch of people didn't get to
+14:29 touch the guy so the loot is hard to get
+14:32 managing you know your turn was
+14:35 impossible and so they eventually
+14:37 figured out phasing which is you go into
+14:39 a dungeon and you get your own room with
+14:41 your guys there's the boss only your
+14:44 guys have access to it and infinitely in
+14:46 the background a bunch of other people
+14:48 going into the same exact room and
+14:49 they're getting their own little
+14:50 instance of the dungeon that was the new
+14:53 technology that was figured out I don't
+14:57 know if EverQuest figured that out I
+14:59 never saw my buddy do a dungeon in
+15:00 EverQuest but will the Warcraft had it
+15:03 figured out when I got there in December
+15:07 the game allowed you to get to level 60
+15:09 and then that was it they're gonna need
+15:11 to expand the game to get you any higher
+15:14 and so I would go into the main town and
+15:16 almost everyone in the whole game was at
+15:18 60 just sitting around waiting and all
+15:21 they did was they went into the dungeons
+15:23 because the dungeons had the challenge
+15:25 for them it was a boss that was so
+15:27 difficult it took 40 people to kill and
+15:29 then the loot was very sparse so if you
+15:32 had a bunch of fancy loot on you know
+15:35 this dude had been in and out of a
+15:36 dungeon 200 times at least now the
+15:40 object of the game no one wants to admit
+15:43 it but it's actually a dull dress-up
+15:44 game that's what it is
+15:46 so you're trying to create a doll which
+15:50 is your avatar inside the game and you
+15:52 are dressing it up you're getting better
+15:55 weapons better armor you're leveling
+15:57 your skillset with those objects and so
+16:01 that's the end game you want a better
+16:02 ride because you can buy these mounts
+16:04 that you would first the first amounts
+16:07 we're just all land
+16:08 mounts and then as they expanded up the
+16:10 game they came out with flying mounts
+16:11 which is a big deal so fast forward you
+16:16 have several expansions from from 2005
+16:21 all the way up to present-day 2018 each
+16:24 expansion has always been met with a lot
+16:27 of criticism here and there but in the
+16:30 end most the time these expansions are
+16:35 successful in fact I'm gonna go through
+16:39 the expansions and why I think they were
+16:40 successful and why they weren't
+16:41 successful and the thing that the thing
+16:48 that what happened to me is there would
+16:49 be an expansion that I thought would
+16:50 totally suck and it ends up being my
+16:52 favorite expansion and the other
+16:54 expansions that look amazing and they
+16:55 end up being bore fests both Isa with
+16:58 each expansion what ends up happening is
+17:00 for those of you haven't played the game
+17:02 you get in the in vanilla game you had
+17:05 two continents on a planet and what they
+17:07 ended up doing with one expansion is
+17:09 creating a whole new planet with its own
+17:10 big giant continent separate places you
+17:13 can go to that all look different behave
+17:15 different then they realized well we
+17:17 don't really have to do that we can
+17:18 actually create new continents on this
+17:20 previous map and so most of the
+17:22 expansions have all been inside this
+17:24 original map now the cool thing about
+17:28 World of Warcraft versus all other games
+17:31 that aren't like World of Warcraft so
+17:33 will so for other MMOs they might be in
+17:35 this category but as a parent I I knew
+17:40 that I was going to be playing lots of
+17:41 games because of my career and so my
+17:44 daughter was gonna see me playing games
+17:45 it'd be hard for me not to tell her are
+17:47 hard to tell her that she could play a
+17:49 game but I didn't want her to see things
+17:52 that were I did want to get her into a
+17:55 mind-numbing game that was going to rot
+17:58 her brain right and so I let her play
+18:00 games that were educational for the
+18:03 first several years of her life when she
+18:05 crossed ten years old I'd let her start
+18:07 playing The Sims which allowed her to
+18:08 figure out how life works in a very big
+18:11 way it was very powerful for her I've
+18:13 talked about it several times on the
+18:15 show but when she got into Sims 2 and
+18:16 they could make babies my kid learned
+18:18 that you need an income and a stable
+18:20 family before you start having children
+18:21 because
+18:22 demand a lot of resources money and time
+18:25 and she learned that literally told me
+18:27 after playing the hardest level first
+18:29 she just couldn't beat this
+18:31 trailer-trash level and she goes man you
+18:33 just got to be married you got to have a
+18:34 job before you have kids it's like good
+18:37 for you but she ended up playing World
+18:39 of Warcraft and absolutely devoured the
+18:43 game and what I loved about it was it
+18:45 had reading comprehension if the reader
+18:48 quests and you have to translate that
+18:50 into action and a lot of these quests
+18:53 were written in riddles and so you had
+18:55 to have a little bit of that IQ stuff
+18:58 that knowledge-based I should say
+19:00 intelligent intelligence based thinking
+19:03 to get the thing done plus the best
+19:05 thing of all was that you had to be
+19:07 tenacious about grinding to get a quest
+19:11 finished into work really really art
+19:13 over and over and over so and that's
+19:15 what life does right that's what a job
+19:16 is that's what your education is so my
+19:18 kid got this huge reinforcement of that
+19:21 algorithm right when she needed it so
+19:25 right off the bat you know you have
+19:28 vanilla while vanilla while can't
+19:32 receive any other score but a 10 out of
+19:35 10 which or 5 stars out of 5 stars you
+19:39 can't give it anything less than that
+19:40 because they hit it out of the park as
+19:44 is evident by their user base that blew
+19:46 up the profit margins that blew up it
+19:49 was amazing now could they keep all the
+19:51 people that got to 60 completely happy
+19:53 no but I mean what can you do you got to
+19:56 create an expansion that takes a little
+19:58 while if you never create an expansion
+20:00 before then you're trying to iron out
+20:02 the rules of how to create an expansion
+20:05 now I have a Fry's Electronics down the
+20:09 street in Fountain Valley California and
+20:11 one night I wanted to go buy something
+20:14 at Fry's and so I grabbed my girlfriend
+20:17 I'm like would you go with me
+20:18 I'm just like sure that's a real
+20:21 girlfriend let me tell you well we get
+20:23 to the parking lot and there's a line
+20:24 around the whole store and I'm like what
+20:26 the hell's going on here and they said
+20:28 the new expansion for World of
+20:30 Warcraft's coming out we're all waiting
+20:32 to get it and all the employees are
+20:33 inside fries they're gonna sign our box
+20:35 as we go through this is uh Burning
+20:38 Crusade otherwise known as BC so I'm
+20:42 like do you mind honey if we stand in
+20:44 line wasn't terribly long you know at
+20:45 first and she's like no okay I'll do it
+20:47 so we stood in line I bought this box
+20:49 got it signed by everybody it was really
+20:52 cool man
+20:53 I still own that box by the way brought
+20:56 it home plugged it in install it and I
+21:00 have to say pound-for-pound beauty for
+21:04 beauty game design for game design
+21:06 Burning Crusade for me is the ultimate
+21:08 expansion now you might think well
+21:12 you're an old fart that's why you think
+21:13 that yeah maybe
+21:15 what I loved about well the Warcraft is
+21:18 gonna Burning Crusade excuse me as
+21:21 opposed these other ones which we're
+21:22 going to get into was that they had game
+21:25 playing at the forefront of the design
+21:29 what does that mean when you were in
+21:32 Burning Crusade you have a brand new
+21:35 world with a bunch of different regions
+21:36 so imagine like a continent and it's all
+21:38 balkanized into these different regions
+21:40 and these regions were distinct and I
+21:43 mean super distinct if you walk to the
+21:46 edge of one of these realms you look
+21:48 down at the soil and it was orange you
+21:51 could walk to the next area and it might
+21:55 be purple on the ground or green like
+21:58 like a weird green like a weird
+22:00 possessed green or there could be lush
+22:03 almost Hawaii looking green right
+22:05 nagrand or it could be just absolutely
+22:08 dry desert with these crazy spikes
+22:11 coming out of the earth it was it was
+22:14 designed to create an environment and
+22:16 when you walked into that world they lit
+22:18 the sky differently so all the ambient
+22:20 light bouncing off everything that you
+22:22 brought gained this mood right
+22:25 I believe the lands called Zanger Marsh
+22:27 something like that the purple place
+22:30 with all of the the mushrooms the
+22:35 soundtrack for this game was truly
+22:38 unreal I mean it was beautiful when the
+22:43 game designers of world of warcraft said
+22:45 we heard the soundtrack for the first
+22:47 time we weep
+22:48 yeah because it was so beautiful and so
+22:50 amazing it's it's literally John
+22:52 Williams level stuff in my opinion and
+22:56 into the soundtracks were appropriate to
+22:58 the area that you were in what's nice
+23:01 about the world being arbitrary in all
+23:04 the different areas being very very
+23:06 distinct almost designed in a bubble
+23:09 where they weren't asking questions to
+23:10 the cubes next to them what do you make
+23:12 in your world look like and you know
+23:14 instead of saying oh it's this way this
+23:15 way this way we're gonna make sure our
+23:16 worlds blend together
+23:18 I'm sure the statement was something
+23:20 like we're not telling you you do your
+23:23 world we do our world it's a competition
+23:25 all right I mean it may never happen
+23:27 that way but when I played the game it
+23:30 was like having a bunch of different
+23:32 worlds to play in and that was brilliant
+23:36 and that prioritized the game the gamer
+23:39 and not some other agenda it also freed
+23:43 up the artists to do whatever the hell
+23:45 they wanted to in their world they don't
+23:47 have to worry about what's going on in
+23:48 the rest of the continent and this is
+23:50 something that was lost in the very nice
+23:52 expansion which I think was a big big
+23:55 mistake the next expansion was the Wrath
+23:59 of the Lich King and the I believe they
+24:02 won an Emmy or something for the
+24:06 cutscene on this on this game with Lich
+24:09 King is fighting a dragon and he's on
+24:12 he's in the icer it's his buddy's
+24:13 resurrecting his dragon or whatever and
+24:15 it's the ice cracking and it's just the
+24:16 most beautiful intro scene all the
+24:19 cutscenes of everything in Blizzard are
+24:21 utterly breathtaking and they pay a lot
+24:24 of money to their employees to get it
+24:25 right or at least that was the case
+24:27 right the Lich King created a new
+24:31 continent called northren just north of
+24:34 the two main continents and they're in
+24:36 the initial initial of vanilla Wow but
+24:39 they did something that spread this big
+24:43 brush of boredom over the whole place
+24:46 it's a northern continent so it's kind
+24:49 of like Antarctica but it's in the north
+24:51 and it's a mountainous terrain all this
+24:54 other stuff and there's some some lush
+24:55 areas in it but what they did at least
+24:58 from the outside looking in was they
+25:02 they said well you know Burning Crusade
+25:03 was not logical in terms of a
+25:07 geographical geological excuse me
+25:11 Sensibility and it was like you can't
+25:13 have orange soil turn into you know
+25:17 purple soil it's not just a line in the
+25:19 ground that happens right you you
+25:21 gradually have to change land and it's
+25:24 all based on temperature and storms and
+25:27 where the coast is and all this other
+25:29 [ __ ] that we don't care about right
+25:30 so the world itself was primarily
+25:34 covered in snow and the theme of the
+25:37 world was a dark evil Lich King which is
+25:41 sort of like isn't that the archetype of
+25:43 most stories bad guy lives in a weird
+25:45 world well there with Burning Crusade
+25:50 you had these enchanted places nagaram
+25:53 which is absolutely gorgeous there's a
+25:55 super high level place to go that you
+25:56 wouldn't go right away
+25:57 Zanger marsh which is this beautiful
+26:00 again purplish kind of world they also
+26:02 had their dark areas as well but you
+26:05 could you can kind of be in that dark
+26:07 area and kick a bunch of dudes butts and
+26:10 they could go over to that ground I
+26:11 should just hang out there and fish you
+26:13 know it was like just a beautiful Hawaii
+26:15 looking joint and just chill out you
+26:17 know I'm doing something else but
+26:18 listening to my little Bob in the water
+26:20 make a splash and I hit the key to fish
+26:23 and then I catch 500 fish and run off
+26:25 and do something else with Northrend
+26:28 you're sitting in this world and Lich
+26:29 King I should say you're just in a
+26:33 dreary kind of place the entire time you
+26:37 can't really find anything that's there
+26:38 was a there was like a meteorite crater
+26:41 place that had sort of the lush tropical
+26:43 world but it was boring we got through
+26:49 it the quests were very clever the
+26:51 quests are always the part that usually
+26:53 wins you over when it comes to the
+26:55 expansion you may not like the world but
+26:57 they start playing the quest were gone
+26:58 that was clever that was cool
+27:00 I like the way you changed that you
+27:02 changed this but we noticed something as
+27:05 well which is that you got a company
+27:09 making at one point over a billion
+27:12 dollars a year in product sales and
+27:15 monthly subscriptions and by the time
+27:18 Lich King came out we noticed they were
+27:21 repurposing a ton of the assets that
+27:23 were in vanilla or Burning Crusade they
+27:26 take spiders and just change him a
+27:28 little bit they changed the the texture
+27:31 a little bit a few more bumps maybe an
+27:32 eyeball that didn't exist before the
+27:34 ogres kept showing up and showing up
+27:37 just with different paint on them
+27:38 different capabilities stronger it was
+27:40 the same old [ __ ] you might you know cop
+27:44 this lion which like when they were too
+27:46 poor to create new and immuno new
+27:49 animals [ __ ] all right
+27:51 this place is making money hand over
+27:54 fist they could have subbed out anything
+27:57 their artists were off the chain right
+27:58 the amount of art that was created for
+28:01 each one of the expansions that never
+28:02 turned into actual beast was was I don't
+28:06 know hundred to one so that in itself
+28:09 started looking really strange why why
+28:11 are you repurposing things when you got
+28:13 enough money to make it original hmm
+28:15 don't know if you had a rig that you
+28:18 already animated we can install that rig
+28:21 into something completely different they
+28:24 never got really creative with it like a
+28:26 two-headed monster with like one breathe
+28:28 fire one breeze you know ice just a
+28:32 basic creative thing there right but now
+28:35 the interesting thing about World of
+28:36 Warcraft because I had actually popped
+28:38 out and started my own game company in
+28:40 2005 and we were doing mostly casual
+28:42 titles for online web browsing stuff
+28:44 right having lived 15 years and the
+28:49 other stuff we always used World of
+28:52 Warcraft as the conversation centerpiece
+28:56 the cornerstone for all game design no
+28:58 matter how casual the game was we'd
+29:00 always be in a conversation somewhere go
+29:01 well you know well the World Cup does
+29:03 that this is sort of what we're doing
+29:04 from that theme and of course well the
+29:06 Warcraft built off themes and other
+29:08 games but they really notched took it up
+29:11 a notch I will definitely say now even
+29:14 though I might have a criticism about a
+29:16 particular expansion let me tell you
+29:18 every single expansion until this recent
+29:21 one has enchanting world's great
+29:24 dungeons great places places that when
+29:27 they load and you see
+29:28 you feel just warm and fuzzy I typically
+29:31 would not play the game much in summer
+29:33 and OD in it on winter or in winter and
+29:38 I was anticipating that happening this
+29:40 year but it ain't happened in this year
+29:43 now the third expansion is I think most
+29:48 often referred to as one of the worst
+29:50 expansions up until this recent one
+29:52 which is Cataclysm Cataclysm had a
+29:54 cutscene that was the trailer that got
+29:56 us all to buy the game which was a
+29:58 mechanical dragon and created by dwarfs
+30:02 who in lore of all or you know dwarfs
+30:06 create the weapons for the gods see I
+30:08 mean they create Thor's hammer I mean
+30:09 their that's who they that's their just
+30:12 master craftsman right elves are bad
+30:14 craftsmen but their more ornate
+30:17 self-serving typical creative worlds
+30:22 where they build stuff for themselves
+30:23 they don't build anything for anybody
+30:24 else and it's all it's all dainty right
+30:29 the Cataclysm started to show the
+30:32 inability in my opinion to create a sort
+30:37 of a unified story that would really tie
+30:41 an expansion completely together it
+30:43 really started looking to me like they
+30:44 just had a bunch of random ideas and
+30:46 sort of stuffed it all in just to a
+30:48 particular box it was the very first
+30:50 time that the forum's started filling up
+30:52 with people saying I'm out of this game
+30:54 I was in a guild at one point where I
+30:58 had dudes that were top top of
+31:01 everything at every single you know
+31:04 pseudo armor they could possibly have
+31:06 like arenas we're starting around that
+31:08 time and they were just winning all
+31:10 kinds of stuff but they still bailed
+31:11 they were like this is this is crap I'm
+31:13 not playing this title now some of the
+31:16 the the dungeon quests involve fighting
+31:19 this dragon and it was so monumentally
+31:23 huge like a real dragon in dungeons of
+31:27 dragons which would be bigger than
+31:28 Godzilla it you only could fight little
+31:32 parts of the beast at once so you
+31:33 crawled up its back and then you ended
+31:35 up fighting it
+31:37 where was half inside this Canyon you
+31:40 know reaching out to get you and so
+31:42 wasn't like you know one dude striking
+31:44 it with the sword it's dead like Dragon
+31:46 Slayer
+31:46 the Cataclysm ndu introduced water which
+31:51 was very very interesting it suffered
+31:55 from water because it sort of slowed
+31:59 down your moving and so they gave you a
+32:00 little seahorse that you could use to
+32:02 get around pretty quickly in the title
+32:03 because he realized there was a bit of a
+32:05 flaw it was kind of neat to be in water
+32:07 you never had any problem breathing in
+32:10 the water because they gave you I forgot
+32:11 what it was they gave you some ability
+32:13 that just removed the water problems but
+32:14 then you jump in the water someplace
+32:16 else and you drown if you didn't know
+32:17 what the hell you were doing right but
+32:20 it was enchanting up to a point but
+32:22 again it was again largely constrained
+32:25 by an underwater geological engineer
+32:28 that came in there and said well you
+32:30 know is this kind of coral exists in
+32:32 this so they're policing the artwork
+32:34 based on reality which is what what
+32:36 everyone is trying to escape right then
+32:40 there was this two-year pause while
+32:44 we're all digesting Cataclysm again a
+32:46 lot of people like my guild my guild
+32:48 just blew up after cattle ISM release
+32:50 cuz all the heads left then there was
+32:54 mists of pandaria it looked like Kung Fu
+32:57 Panda initially when I saw the trailer
+33:00 of it I was so heartbroken that they
+33:04 were going to make this Panda race it
+33:06 was gonna go for both Alliance and the
+33:08 Horde for those of you don't know what
+33:10 that means inside this world we have two
+33:14 giant factions we have the more human
+33:17 faction which is all kind of warm fuzzy
+33:20 you get to play humans basically and
+33:22 then you have the Horde side which
+33:24 didn't have a human-like character until
+33:26 they came out with the blood elves which
+33:28 are basically humans with big giant ears
+33:29 and who are awesome and so I'm seeing
+33:36 this mr. Pender II and you know I like
+33:38 to kung fu panda movies but I thought
+33:39 man what are we doing with this where's
+33:41 the the gritty lore of World of Warcraft
+33:45 and so I was very pessimistic but I
+33:48 bought it because you know you just got
+33:50 it
+33:51 the time it wasn't bad I was kind of
+33:54 frustrated with the first Q quest a few
+33:56 first few quests easy for me to say and
+33:58 then I fell in love with it
+34:00 miss depend area turned out to be one of
+34:03 my favorite expansions of all time and
+34:05 the interesting thing was Metzen was
+34:08 interviewed just after the expansion
+34:10 released I believe at a Blizzcon and
+34:13 they were sort of passing up some of the
+34:17 criticism and giving him a chance to
+34:18 kind of you know bat it down which he
+34:20 did a great job but the most brilliant
+34:24 thing Metzen said I think I got this
+34:26 right was I'm paraphrasing him of course
+34:28 but he said something to the effect of I
+34:30 wanted to create a race that made you
+34:34 think about war because you don't have
+34:37 to be angry and killing something all
+34:39 the time and the pandas are based off of
+34:43 obviously Japanese / Asian you know
+34:47 face-saving honor system right it's
+34:50 almost like a samurai type lifestyle and
+34:55 it was they were largely alcohol makers
+34:59 and but they had this just beautiful
+35:02 manicured world now again they they went
+35:06 for this Jeolla geological accurate
+35:09 island which again gets boring after a
+35:13 while but at least was Pleasant it was a
+35:16 nice uplifting bright green world and so
+35:19 wherever you were you were pretty much
+35:20 okay yes there was snow and that kind of
+35:22 stuff cuz they basically figured out
+35:24 snow looks great not really realizing
+35:27 that it might get boring after a while
+35:30 you know now I should take a quick step
+35:35 to describe the fact that they
+35:38 eventually introduced flying into the
+35:39 game and flying was a big problem
+35:43 not because of the expansions but
+35:45 because of the original vanilla game
+35:46 there's a lot of construction that's
+35:49 invisible inside these levels at a
+35:52 higher elevation so there would be
+35:54 literally walls that had you know
+35:58 collision detectors on they say you're
+36:00 bumping into wall you're bumping into a
+36:01 wall if you could get in the air so they
+36:04 couldn't just open up
+36:04 flying right away because they had to go
+36:06 back and redo the the world and when
+36:10 Cataclysm came out they destroyed and
+36:12 changed a lot of the vanilla world such
+36:15 that places that you used to be all the
+36:17 time were gone which i think was
+36:19 actually a fairly cool idea I think that
+36:24 it did sort of break some of the hearts
+36:27 of folks that were going to you know
+36:30 want to go back and go through their
+36:32 levels at the old at the old style so
+36:36 they ended up phasing the old with the
+36:38 new which was kind of cool but it was
+36:41 sort of it was actually a great story
+36:43 situation because you ended up mourning
+36:45 the loss of these great traditional
+36:46 places that you were able to go to in
+36:49 the game but they had to totally redo a
+36:51 lot of the artwork on the background to
+36:53 allow flying to occur at least in
+36:56 vanilla and I believe there was the way
+36:59 they said it was Orgrimmar on the north
+37:02 side and sorry I always play hoard you'd
+37:05 run into a wall if you were able to fly
+37:07 so they fixed that and got flying going
+37:08 it was actually something you could
+37:10 purchase pretty quickly in the game as
+37:13 long as you leveled up but then the as
+37:16 it was rumored internally now there's
+37:19 two reasons why they do this but they
+37:20 end up making flying a super pain in the
+37:23 ass to get in the new region so you can
+37:24 fly in all the previous regions you
+37:26 would achieve flying capability but for
+37:28 some reason you couldn't fly in the new
+37:30 world which makes no sense but that's
+37:31 fine it's a game but the artists were
+37:35 getting upset that if you flew you
+37:37 wouldn't see their artwork I don't know
+37:39 if that's true I could as an artist I
+37:41 think I could get behind that a little
+37:43 bit and understand that but they also
+37:45 had simplicity in questing if you could
+37:48 fly because you could fly into an area
+37:50 hit hit hit hit kill some folks on the
+37:52 edge and then fly out and go to another
+37:54 weak spot and hit hit it and you know
+37:56 you still have to do the fight so it's
+37:58 not like you're suddenly levelling
+38:00 through the game extra extra fast a
+38:02 little bit faster I'm sure for
+38:04 SuperDuper badass players and these guys
+38:06 hit maximum level right every expansion
+38:10 gives you ten more levels and so you
+38:13 could get a kid within 24 hours hitting
+38:17 the top
+38:18 ten levels because they've been
+38:19 preparing and they played the beta of
+38:21 the game they knew where to go so
+38:23 interesting so after Miss depend area we
+38:26 have the warlords of draenor and this is
+38:31 there was a something that medicine said
+38:35 in his interview about Mississip end
+38:37 area that he dropped that immediately
+38:39 had me concerned and he said oh man
+38:42 we've got the next five expansions
+38:44 figured out maybe even said ten and he
+38:48 goes we're really gonna dig into the
+38:49 lore of World of Warcraft like oh
+38:52 suddenly you're gonna dig into the lore
+38:54 cuz it's been a pretty lower base game
+38:56 right again Burning Crusade did a
+38:59 beautiful job creating its proprietary
+39:01 storylines which were fantastic you
+39:04 always want to be expanding your lore in
+39:06 my opinion not going inward to try to
+39:10 get at some Freudian realization of your
+39:12 previous lore and the lore that well at
+39:16 Blizzard is gigantic for Warcraft
+39:18 they've got to two to four people
+39:20 dedicated to writing lower all day long
+39:23 you know and it's very important that
+39:25 you can do that that you can afford to
+39:27 build up your your world but they you
+39:31 know they had this problem where again
+39:33 they were repurposing tons of old assets
+39:36 again mister Pandaria was no different
+39:38 you had the Panda race and they're in
+39:39 their world but you didn't have the the
+39:44 real freshness of all the different
+39:46 creatures and things I mean there's
+39:48 always a couple new creatures but I mean
+39:49 come on you have two years to do this
+39:52 you know it's been six months designing
+39:55 new creatures they don't have to have
+39:56 any sensibility and then you plug them
+39:58 into the Lord and give them a backstory
+40:00 and and fill them up right and I've done
+40:02 this several times Electronic Arts but
+40:06 warlords of draenor got you up to level
+40:08 100 and you just for me personally it
+40:13 was it was everything that had bored me
+40:17 to death condensed into one expansion
+40:20 however the the quest designers were
+40:23 able to keep me going and were able to
+40:26 keep you excited and playing the title
+40:29 so the sixth expansion moving quickly to
+40:33 these because they they don't have a lot
+40:37 to describe in my opinion Legion
+40:39 introduced the broken Isles which was a
+40:41 new continent near Azeroth and you have
+40:46 more of this introspective lore more
+40:49 reason to get bored with the game
+40:53 because you're going back into you you
+40:56 are getting a chance to see some of the
+40:58 characters that you've never seen before
+41:00 but you you don't get the the sort of
+41:05 hey if if Walt Disney was still alive
+41:08 for instance and he were to say there's
+41:10 a brand new world I'm making you would
+41:14 know that whatever he is he is creating
+41:16 will be a new world it will be like
+41:18 tomorrow land will be like frontier land
+41:20 or adventure land it'll be a new world
+41:22 and well the Warcraft goes it's a new
+41:25 park and if we you know it's when it
+41:28 opens its frontier land 2.0 you know and
+41:31 you're kinda like man they I don't
+41:33 dislike frontier land there's no
+41:34 criticism of that place but I've already
+41:36 been there and for you to just diversion
+41:37 it up not enough guys not enough right
+41:41 but Legion introduced some really
+41:46 amazing cities that and a new leveling
+41:51 system where you got a weapon that would
+41:57 allow you to expand a big talent tree
+42:00 and and one of the things that end up
+42:01 happening with the game was that again
+42:04 the game is so expansive this episode
+42:05 can only touch on the basics Russia said
+42:07 at the beginning but there in vanilla
+42:10 while you had a talent tree which
+42:13 between Velo vanilla while on Burning
+42:15 Crusade just kept getting more and more
+42:17 complicated to figure out how do you get
+42:19 your character configured so you can
+42:22 actually beat this particular boss and
+42:24 so you would save different
+42:27 configurations for different dungeons
+42:29 and that just got to be crazy if any of
+42:30 you see the old brilliant clip called
+42:33 Leroy Jenkins you'll know the the
+42:38 preceding minutes up to the point where
+42:40 Leroy Jenkins goes and does his thing
+42:42 and I'll explain that
+42:42 one second for those of you totally
+42:43 don't know they were looking at
+42:46 calculators that had been generated
+42:48 outside of the game to figure out how
+42:51 successful they would be going into the
+42:53 next room of a dungeon
+42:54 that's how complicated the game was and
+42:56 once you make something that complicated
+42:58 sometimes it plays really well to your
+43:01 core audience and then other times it's
+43:03 like jeez this is this is a little too
+43:06 much people can't just fall into the
+43:08 game and make it work right the other
+43:11 problem they ran into before I explained
+43:13 written Leroy Jenkins is that if you're
+43:15 selling an expansion that takes you from
+43:17 level 90 to level 100 you have to have a
+43:19 bunch of people at level 92 want to buy
+43:22 the expansion so each time the expansion
+43:25 came out they what they call nerfed they
+43:28 made it easier and easier to get to 90
+43:30 and then it started to get harder when
+43:32 you leveled in vanilla while it was
+43:35 torturous to get through the last ten
+43:38 levels I mean you were playing every
+43:40 single day for hours and hours and hours
+43:43 and you just yell like a 10% bump on
+43:45 your level whereas after five expansions
+43:49 you could get to 90 in jeez like a week
+43:54 if you're a casual player it was cool
+43:56 and what's beautiful is you're giving
+43:58 them money for an experience they
+44:01 shouldn't impose on you too much
+44:04 restraint for you to have the experience
+44:05 as quickly as you want to have it now
+44:07 they're always worried about fatigue and
+44:08 we're gonna get into that once we get
+44:10 through these expanses really quickly
+44:11 the légion ended up being pretty damn
+44:14 cool and the previous expansion we were
+44:17 given something called a garrison which
+44:19 was a little city that you got to make
+44:21 by yourself and build these little
+44:23 buildings and slots and level them up
+44:25 separately and you got all kinds of neat
+44:26 amenities if you were a tailor it would
+44:29 make you tailor things and give you
+44:30 supplies for it yeah so that was
+44:34 brilliant but then they abandon it when
+44:35 they went to Legion you had no reason to
+44:38 go back to that place and so by ignoring
+44:41 a previous creation it was sort of like
+44:44 that Apple Computer thing they make
+44:46 QuickTime it's really cool and then they
+44:48 just leave it and they just abandon the
+44:51 format altogether and then old pro res
+44:52 comes out and then all of a sudden
+44:53 they're back into it again but
+44:56 time you abandoned the technology so do
+44:58 your users and so when you want them to
+44:59 come back you're the boy that called
+45:01 wolf right well this is where they make
+45:04 the big ass mistake they made Legion
+45:07 created this beautiful system where
+45:09 you've got this very special weapon that
+45:12 then you gathered experience and these
+45:15 little items to level the weapon
+45:18 essentially infinitely but it got double
+45:20 the difficulty every single time that
+45:22 you leveled it but you earned it you
+45:24 know and you could login every single
+45:26 day and do your daily quests which gave
+45:28 you more credit towards upgrading your
+45:31 weapon and it was a reason to come back
+45:33 into the game they learn something from
+45:35 like games like clash of clans which is
+45:37 you must log in every day repair your
+45:39 base take all your money do upgrades
+45:41 maybe shield up for a week so you can
+45:43 save more money it's it's a reason to
+45:45 get back in the game so we all fell in
+45:48 love with this thing
+45:49 this artifact points that turn into this
+45:52 extra leveling system plus they had over
+45:55 they'd completely simplified the talent
+45:57 tree which was really cool now some
+46:00 people hate the fact that they made it
+46:02 easier I think that you have to look at
+46:05 how meticulously difficult it was to get
+46:10 into a dungeon in the Leroy Jenkins days
+46:12 so Leroy Jenkins real quick there was a
+46:14 level in dam at the the name of the
+46:19 dungeon escapes me at the moment but
+46:21 there was a room full of all these
+46:24 dragon eggs and if you walk by a dragon
+46:26 it gave a pop and it would pop all the
+46:27 other dragon eggs about ten of them and
+46:29 they're really hard to knock down these
+46:31 drag Ling's little tiny dragons flying
+46:34 around right and so they knew that you
+46:36 had to go in and you hit one of the eggs
+46:38 and you pull everybody back into the
+46:40 previous room you pull the dragon drag
+46:41 Ling's in you not come all down and hit
+46:43 the next stack the next stack until you
+46:45 wipeout must be like ten stacks to these
+46:47 things and then you can start finding
+46:49 the boss at the end of the room and at
+46:51 you know back in vanilla Wow it was just
+46:54 a deadly ass room to touch everybody had
+46:57 to be standing in the right place no one
+46:59 could touch the extra eggs otherwise
+47:01 you'd have 20 of these dragons and you'd
+47:03 have a wipe so all these dudes are
+47:06 standing in a room and they're doing
+47:08 this calculator and
+47:10 they're boring half the players and one
+47:11 of the guys character names was Leroy
+47:14 Jenkins I think that was his name of the
+47:15 character and so he gets bored at one
+47:18 point and they go and he there say okay
+47:21 guys you think you you know might be
+47:22 ready for this yeah okay and then this
+47:24 guy just screams Leroy Jenkins and he
+47:27 just runs in the room hits all the eggs
+47:29 and there they're staying in the
+47:32 previous room going did he just go in
+47:34 there oh my god and they all weren't in
+47:35 there and they try to fight and
+47:36 everybody wipes and it was just they
+47:39 call him a they call him a an idiot or
+47:42 something in his last words were at
+47:44 least I got chicken and he ended up
+47:46 being so famous for that I got recorded
+47:48 and I got put on the web it became so
+47:50 famous that kept dividing that player to
+47:52 the bliz cons to scream it into a
+47:54 microphone was really cute so then
+47:58 battle for Azeroth more of the same
+48:01 shits right now I will tell you this I
+48:06 played this game I bought its I bought
+48:07 the deluxe son version of the game I
+48:11 have played it for probably a couple
+48:14 hours and I was so utterly furious about
+48:19 what I found when I logged in I haven't
+48:22 been able to play it again but they've
+48:23 made in my opinion at least on the Horde
+48:25 side a game a super uber mistake
+48:32 you logged into this game and that
+48:35 artifact point system that you had been
+48:37 building for your special sword it was
+48:42 gone you push your your artifact lookup
+48:46 table because you're you be log in every
+48:48 single day like I was very close to
+48:50 taking up a couple of my weapons and two
+48:52 of my characters I got like nine maxed
+48:54 out characters and it gives me this
+48:58 grayed out version of my table and says
+49:01 all of your artifact points have been
+49:03 consumed and welcome to the expansion
+49:07 and you're like oh it'd be like logging
+49:11 in and my garrison is gone and they say
+49:13 well you don't need this anymore we
+49:15 decided oh okay right so the first big
+49:19 mistake they made as a game designer is
+49:21 they didn't make the
+49:23 artifacts sacrificing ritual that
+49:26 happened while you were installing the
+49:28 the new expansion they didn't embed that
+49:31 in a story they didn't make it part of
+49:33 the transition from one to the other to
+49:36 help you rationalize losing all of your
+49:38 work it's still a bad idea but they
+49:44 could have they could have transitioned
+49:45 it into something lighter another system
+49:48 of getting artifact points and some
+49:50 other way for another weapon and other
+49:51 thing whatever in the new world right so
+49:55 and I have characters that are very very
+49:57 powerful and Legion I saw I expected to
+50:02 go in and have no problem kicking ass
+50:03 and taking names in the next level and
+50:05 again if I had nerd it out completely
+50:07 played the beta right on every single
+50:09 blog on this yeah I'd probably be able
+50:11 to actually do that
+50:13 but I don't know that much time in my
+50:15 life I mean it's because I'm an older
+50:16 guy
+50:16 I think the demographic is older guys at
+50:21 this point so you're gonna have to serve
+50:22 your core customers right I mean just
+50:25 think about if I play with the guy 2005
+50:27 that was 25 years old
+50:29 you know the dudes in his late 30s at
+50:32 this point come on but then I start
+50:36 playing the core quests of battle for
+50:38 Azeroth and I find myself on this troll
+50:43 pyramid it's beautiful arts great right
+50:47 but the pyramid is so goddamn large that
+50:52 if you just try to jump off one of the
+50:54 the steps you're gonna die
+50:57 where I haven't got a lot of health man
+50:58 you're just gonna die and so you get the
+51:01 quest at the top of this pyramid and you
+51:03 got to spend about five minutes get down
+51:05 the pyramid to do your quest at the
+51:08 bottom now maybe there's a teleport I
+51:09 don't know about but I Jesus I could not
+51:11 find this thing to save my soul I
+51:13 couldn't believe they put me in the
+51:16 middle of this frustration dream and
+51:20 called it a game right so then I'm like
+51:23 you know it's not uncommon to be a
+51:25 grumpy old man when a new expansion
+51:27 comes out it's just not but I go to the
+51:30 forums I'm like am I crazy
+51:32 is this game just been gutted you know
+51:35 sure enough the forum is packed with an
+51:37 unprecedented amount of criticism about
+51:39 this game I go online all the reviews
+51:42 are just tearing this game a new one
+51:44 I had just dragged a friend back into
+51:47 the game I had her pay money to change
+51:49 servers I got her into my guilt my guild
+51:53 has a page on Facebook
+51:55 no one ever posts on it anymore I mean
+51:58 no one said we're all leaving this game
+52:01 it just went silent we're talking I
+52:04 don't know 750 people on this guild
+52:07 I mean individual characters we all have
+52:09 our own you know tunes our extra
+52:11 characters so I've got 8 out of my 9
+52:14 characters or in that guilt so you know
+52:16 it's the same person playing several
+52:17 these characters but anyway it just all
+52:19 went away unbelievable right so let's
+52:25 rewind why is this happening why is ever
+52:29 expansion getting more and more boring
+52:31 and why isn't Blizzard capable of
+52:34 listening to their customer base right
+52:37 well something happened in 2008 that's
+52:41 very very important and I don't know
+52:42 exactly the years because it's all an
+52:44 internal secret project but they started
+52:47 a project which I believe secret title
+52:50 was Titan and they poured hundreds of
+52:54 millions of dollars into this and as I
+52:56 understand it it was very much like what
+52:59 destiny turned out which is obviously a
+53:00 Bungie game but of some futuristic MMO
+53:04 and they built it out of their very best
+53:08 employees the best Starcraft people the
+53:12 best World of Warcraft people and see
+53:15 you had a ton of people moving into this
+53:17 new group to create this new big game
+53:19 the number I heard at the end was eight
+53:22 hundred and thirty million dollars was
+53:24 invest in this game now I also look at
+53:27 websites telling me that my buddies are
+53:28 worth 20 million dollars they barely
+53:31 have a coin to banging together so those
+53:34 numbers could be greatly exaggerated but
+53:36 Blizzard cancelled Titan I don't know if
+53:39 they cancelled Titan because destiny
+53:40 came out or why they cancelled it I have
+53:44 close friends that worked on the title
+53:46 and they stay pretty tight-lipped you
+53:49 after they left blizzard but they said
+53:52 yeah yeah it's sort of like destiny but
+53:54 you know there's a little something else
+53:56 now here's your problem
+53:58 you got the cream of the crop and your
+54:00 company that know how to get expansions
+54:02 done moving into this title around 2008
+54:05 so everything after 2008 all those other
+54:08 expansions started sucking I think
+54:11 because they lost their core DNA then
+54:14 they all quit because where they're
+54:16 gonna go their seats have been filled
+54:18 can't just go back to the old project
+54:19 someone's already doing your job now
+54:23 what's interesting about the individuals
+54:24 who quit because thing went off to
+54:26 become mega stars right some of these
+54:29 dudes went off to Eyal em some guys went
+54:31 to Wetty some guys are free consultants
+54:33 for everybody some people went to
+54:35 Microsoft
+54:36 some guys started their own company some
+54:37 guys bought you know operating shares in
+54:41 no man art school I mean it's like these
+54:43 dudes are brilliant people all by
+54:45 themselves so you could just push them
+54:47 into the world they'll always succeed
+54:49 right so instead of figuring out a way
+54:51 to recapture all those people and say
+54:54 well we're not losing you you know
+54:56 you're gonna get your paycheck we'll
+54:58 figure out a way to keep you happy let's
+54:59 get in the room together and talk about
+55:01 it maybe they tried this I don't know
+55:03 now they give you incentive packages to
+55:07 leave the company but at the time of
+55:10 this Titan expansion they tripled their
+55:13 employee numbers and they told the
+55:16 employees because I was privy to one of
+55:19 the meetings that they were having I
+55:20 didn't attend it but my friend told me
+55:23 right when it happened he goes this is
+55:24 really scary and I said what's going on
+55:26 he goes well they're tripling our
+55:28 employee base and they're telling us
+55:30 that they're tripling now but they're
+55:31 gonna have to reduce later because
+55:33 they're gonna find a bunch of people
+55:34 they don't have skillsets and to my
+55:36 knowledge the reduction never occurred
+55:38 which I don't know if reduction would
+55:40 have helped but that's a problem I think
+55:44 the problem is lower fatigue I think the
+55:47 problem is pulling in geologists to
+55:50 drive the art department stop making
+55:52 worlds that are so freakin accurate to
+55:55 our world we want to escape this place
+55:57 don't recreate earth in your game and
+56:01 then just give it a different name
+56:02 and say oh this is totally this and that
+56:05 right we want to see [ __ ] like Zanger
+56:07 marche places that are utterly
+56:09 phenomenally conceptually brilliant but
+56:12 physically impossible that's what we
+56:14 want right that's what I want about you
+56:17 guys so I was working at my game company
+56:19 I think it's about 2009 or so I started
+56:23 seeing these expansions coming out and
+56:24 getting really concerned I thought well
+56:26 Blizzard is right down the street I got
+56:28 friends who worked there let me see if I
+56:30 can get into the company just as a
+56:32 consultant you know just a pitch pitch
+56:34 an idea see or they go with it you know
+56:37 of course there's a lot of vested biases
+56:39 and everybody who works at a company
+56:41 right my idea I've been waiting 10 years
+56:43 from my idea and sometimes those are
+56:45 good and sometimes those horrific ideas
+56:47 if someone's having a really good an
+56:49 idea Blizzard right now they are not
+56:51 being heard let's just put it that way
+56:54 again they may have some amazing game
+56:57 it's two days from from this episode
+56:59 releasing and I look like a big horse's
+57:01 ass but right now
+57:02 world of warcraft is dying dying at a
+57:08 rapid pace it has a virus of trivial
+57:12 repeat patterns right so let's talk
+57:15 about fatigue for one second I think
+57:18 they have lore fatigue I think they have
+57:20 artwork fatigue
+57:21 you definitely have fatigue of all the
+57:22 characters you're fighting because
+57:24 they're all the same people with
+57:25 different skins on them and all that
+57:27 stuff it's boring
+57:29 ok no more spiders no more orgs are
+57:32 these I think they're orgs right or not
+57:35 Oh curse they did a great job upgrading
+57:38 all the character art so they look more
+57:40 photo real they still have buildings
+57:42 with about 20 polygons hey man I know it
+57:46 was really cool in 2004 to honor to 1994
+57:49 design principles but it ain't gonna fly
+57:51 anymore you're gonna have to upgrade all
+57:53 the Poly's you're gonna have to make
+57:54 this thing look more realistic and I'm a
+57:57 proponent against realism being the
+57:59 reason why game is better but you're way
+58:02 past the mark right
+58:03 another big criticism from the internal
+58:05 employees and this is a 2014 comment
+58:09 from one of my friends who left he said
+58:12 you know we would be shown the next
+58:14 version of the engine
+58:15 by the engine programmers at a big
+58:18 presentation internally and we come away
+58:19 going what the hell is going on with
+58:21 these people our engine looks
+58:23 ridiculously old and it just just at
+58:27 face value you have no you have no sort
+58:30 of impulse by when you see the engine
+58:32 play you have to be into the story and
+58:35 already know why it looks primitive you
+58:37 know so I started thinking so I'm gonna
+58:39 get into my little expansion here it was
+58:41 something I was hiding forever because I
+58:43 was trying to get it in but it's there's
+58:45 no hope at this point so here you go man
+58:49 so I started tiptoeing around this whole
+58:52 thing thinking well I can't design a
+58:55 expansion in the future very easily
+58:58 because it's it's all predetermined
+59:00 right they've now marched through two or
+59:02 three expansions with just plain
+59:03 old-fashioned vanilla lore and again
+59:06 that shit's getting old
+59:08 we're tired of seeing all that old crap
+59:09 kind of they almost have bosses saying
+59:11 the exact same phrases to you while
+59:13 you're finding them right so I thought
+59:16 okay let's do a prequel let's do a
+59:19 prequel because there's a lot of time
+59:21 travel in the game so there's no problem
+59:22 with flashing backwards to do something
+59:26 but they have all these different types
+59:28 of magic in the game if arcane magic and
+59:31 natural magic and holy magic and a bunch
+59:33 of other stuff right but no real story
+59:36 there there is I did talk to a guy he
+59:39 was SuperDuper into the lore about all
+59:40 the books and he was definitely kidding
+59:42 me hip to some of the back story they've
+59:44 been written and I guess if you pay
+59:46 attention to everything everyone says
+59:48 and read every note and book that you
+59:50 find in the game the stuff starts to
+59:52 come out but I mean playing the game for
+59:54 13 years and not really getting the
+59:56 answer that I was looking for I thought
+59:58 this was a pretty good sweet spot so I
+60:01 created a an expansion called wizards
+60:03 and demons and the two new classes were
+60:06 going to be Wizards and demons because
+60:08 you can never really be a demon you can
+60:10 be arcane and have a little demon off to
+60:12 the side but you can't play that race
+60:14 wizards being sort of your vanilla mage
+60:19 sort of an ambidextrous all-purpose
+60:23 magic user and so what I did was create
+60:28 a backstory where
+60:29 some wizards the first incarnation of
+60:31 magic users discovered various forces in
+60:35 the universe that were capable of being
+60:38 sort of the alchemy of magic right and
+60:40 they realized very quickly that it was
+60:42 super duper risky to play with this
+60:45 stuff on their homeworld and so what
+60:47 they did was they took a continent and
+60:49 lifted it into space so they could
+60:52 practice up in their little Flat Earth
+60:54 disk literally and develop schools of
+60:59 thought on how to do each individual
+61:01 magic so they divided up the continent
+61:03 into the each individual magic except
+61:06 they have one challenge arcane magic was
+61:09 this very dark mysterious stuff it
+61:12 always ended up being sort of a problem
+61:14 the more you played with it and so in
+61:16 order to this is the backstory in order
+61:19 to get some arcane magic onto this
+61:21 continent they built a keep which is
+61:24 basically a big giant fortress to keep
+61:27 something inside right it's a great
+61:29 movie called the key from the 80s are
+61:30 gonna see it and they summoned the
+61:32 diamond into the keep and they summoned
+61:35 him directly into an apparatus that held
+61:38 his throat held his arms held his body
+61:40 and they wrapped a big giant chain
+61:42 around him and in sort of the cartoon
+61:45 fashion that is world of warcraft the
+61:47 chain went completely around the
+61:49 continent
+61:49 he was basically chained to the
+61:51 continent and they built the keep such
+61:54 that his exuding arcane energy would
+61:57 leak out of the keep under the grounds
+61:59 and they put some magic barriers to keep
+62:02 it from leaking all over the place they
+62:04 allowed a body of water to get tainted
+62:06 with this stuff and they watched how it
+62:08 tainted the land right so imagine a
+62:10 round disc one side is one-third of the
+62:14 whole place is arcane and the other
+62:16 two-thirds or all the other magics
+62:17 divided up now there's individual cities
+62:20 that they brought with them that were
+62:22 already indigenous to the continent and
+62:24 then they built schools individual
+62:26 schools for the individual arts are the
+62:28 magics right but what happens is is that
+62:31 the the Wizards there's about twelve of
+62:35 them one of them is sort of the lead
+62:37 he's the lead guy he's our big hero and
+62:40 the other eleven are just good
+62:42 boys young good ol Wizards trying to
+62:44 work out their various skill sets but
+62:47 they end up all playing with the arcane
+62:49 power a little too much and they don't
+62:51 realize it but they're all getting
+62:52 possessed and they're getting possessed
+62:55 by the demon who says you know what you
+62:56 need to do you need to get me out of
+62:58 this place take me to the center of the
+63:00 continent which has this sort of
+63:03 worshipping area sort of a Stonehenge a
+63:07 kind of place and you need to perform
+63:10 this ritual it's really important and so
+63:14 they they get possessed they push him
+63:16 out this is all the front story they get
+63:18 him in the middle of this continent they
+63:20 start casting this spell and that's when
+63:26 the good guy wakes up and notices what's
+63:29 going on everybody's gone and they're
+63:30 all doing this ritual and he's seeing it
+63:32 from a few miles away because it's a big
+63:34 cauldron of purple magic going up and he
+63:38 realizes oh [ __ ] this is about to bring
+63:40 down potentially everything from that
+63:42 world into this world so he cast this
+63:44 massive spell which breaks it but it
+63:48 also causes a gigantic dispersion of
+63:50 energy it explodes in their face all the
+63:52 dudes down in the center are killed the
+63:55 demon is not coal backwards towards the
+63:58 keep the chain breaks the good guys
+64:02 blasted backwards they're both knocked
+64:03 cold the good guy wakes up first drags
+64:06 the demon inside the keep kind of makes
+64:08 really quick you know fixes to the key
+64:10 it's not gonna hold forever and then he
+64:13 and his almost dying breath sends a
+64:18 message back to Azeroth to get us to
+64:24 come and help out when the continent
+64:26 breaks because it breaks as a result of
+64:29 this huge pop from this magic going
+64:31 wrong
+64:32 it breaks the continent into sort of two
+64:34 to semi yin-yang shapes right one's all
+64:39 arcane one's all good but the guy casts
+64:42 a spell
+64:43 to blanket the entire place in two
+64:47 phases so there's two little islands in
+64:50 opposite areas one's going to be the the
+64:52 demon starting area and one's the wizard
+64:54 starting area
+64:55 you show up as whatever the hell you are
+64:57 but you can also start in this two
+64:59 different regions and build that way but
+65:02 what happens is you show up and the
+65:03 place is pretty much barren except for
+65:05 the even the arcane places a little bit
+65:07 barren there's not much to do there's no
+65:08 places that exist and you show up and
+65:11 there's this big stone there with a big
+65:14 combination on it now the first one was
+65:16 really simple you just turn it and do a
+65:18 couple little things pick up a rock here
+65:19 put it in there sort of like the the
+65:22 formation in Indiana Jones Temple of
+65:25 Doom where he's putting those rocks in
+65:26 there and turning it on right but it
+65:28 unravels this thing my big my big
+65:32 feature upgrade was that as soon as this
+65:34 thing turns a beast from that new region
+65:37 that's about to unlock runs up to you
+65:39 and screams at you and you get a title
+65:41 plate and you get kind of a preview of
+65:43 what's gonna be in that new area they
+65:45 actually did that and I believe Legion
+65:48 right it's funny how those things happen
+65:50 right but immediately a water drains out
+65:53 of this lake and there's a whole world
+65:55 in there a whole bunch of people
+65:56 different race you've never seen before
+65:58 but the cool thing about this expansion
+66:00 is that you don't get to see places
+66:02 until they're there so they don't have
+66:04 to gank your flight they can let you fly
+66:06 wherever you want they design it to be
+66:08 flying friendly on the first day right
+66:11 you unlock the different regions by
+66:13 getting the combination pieces to put
+66:15 into these stones and you end up
+66:18 unlocking the whole thing now of course
+66:21 your dungeons are all the schools all
+66:24 the different buildings that you don't
+66:26 quite understand that we're being built
+66:28 to harness a particular type of magic
+66:30 but the keep is going to be the big
+66:32 final game final expansion content and
+66:35 the keep is sort of like a labyrinth so
+66:39 as you're fighting in a dungeon that
+66:40 keep is changing shapes and so you're
+66:42 gonna have to be in the right place at
+66:44 the right time when one of these
+66:45 cantilevers it might be a floor piece
+66:47 moves up and hovers over the Beast and
+66:51 so you're gonna have to be in the right
+66:53 place to do the combination so adding an
+66:55 organic element to the actual dungeons
+66:58 themselves another big upgrade is that
+67:01 if you are saying natural magic you can
+67:04 actually walk into a lake when you're
+67:05 injured but your hands in Lake hit a
+67:07 combination
+67:08 and it actually sucks life out of the
+67:12 lake and repairs you
+67:13 same thing with going up to a tree so
+67:16 you can get a bunch of different
+67:17 augmentations if your holy various holy
+67:20 structures can actually heal you so it's
+67:23 a little tiny thing doesn't make a big
+67:25 deal not a lot of injury issues anymore
+67:27 in the game because they give you plenty
+67:29 of plenty of power to heal yourself
+67:30 properly but for some of those classes
+67:32 that struggle might be a valuable little
+67:34 addition to the game another thing I put
+67:38 in there was that mounts start to have
+67:40 some distinction between them right so
+67:43 let's say that you're in the previous
+67:44 expansions and you have an area that has
+67:46 a bunch of tigers but you have a tiger
+67:48 mount well if you're willing to get on
+67:50 your tiger mounts it's so ferocious and
+67:53 formidable and bigger than all the other
+67:55 least normal Tigers there's maybe an
+67:58 elite class tiger that might not fall
+68:00 for this but as you can ride through
+68:01 those areas without having intimate Accu
+68:03 and so you get to the next one and it's
+68:05 a bunch of dinosaurs so you jump on your
+68:07 dinosaur and you like do those and they
+68:09 think you're one of them or at least
+68:10 they're freaked out enough by your
+68:12 amount they won't mess with it therefore
+68:14 they won't mess with you so that's the
+68:17 basics of the expansion I drew quite a
+68:19 bit of artwork to figure out how this
+68:20 place should look started drawing some
+68:23 of the potential characters that would
+68:25 be in the game but again Blizzard has
+68:28 all the power to turn that basic concept
+68:30 into a game but think about it
+68:32 you get away from the lore of World of
+68:35 Warcraft and its pure form all those
+68:37 names you already know all the
+68:38 association's you need to know and
+68:40 you're doing a back story it feeds in
+68:42 perfectly with the game and if there
+68:44 have been lower written about various
+68:46 magics you can either put them in the
+68:47 mezzanine like the clone wars between
+68:50 this beginning and where we ended up
+68:52 starting vanilla well or you can sew it
+68:53 into the game itself but the cool thing
+68:57 is that this world is all magical
+68:58 everything is magical so the geography
+69:01 problem that we are not geography
+69:03 geology problem that we have we're
+69:05 making everything makes sense that not
+69:07 to make sense anymore because each
+69:09 balkanize region of this continent has
+69:11 its own magic it has its own owners and
+69:14 so if you walked in and the world went
+69:16 from purple to green makes complete
+69:18 sense
+69:19 right the demon race I wanted to make
+69:24 very similar to Ralph Bakshi's demons
+69:27 from the movie Wizards so they're kind
+69:30 of goofy and strange and they're kind of
+69:32 funny it brings back to calm the comedic
+69:35 element to a particular character so as
+69:37 you see your character just walking it's
+69:39 kind of funny you know and you could
+69:41 probably if they were to upgrade the
+69:43 engine they could allow you to choose
+69:45 sort of how do you want your demon to
+69:47 look do you want them to have horns do
+69:48 you want to have a big body thin body
+69:49 and you can make all kinds of different
+69:51 little demons it's all part of the same
+69:53 rigging you know maybe again you make
+69:54 certain movements a little bit different
+69:56 the idols and the walks and maybe how
+69:58 they strike you could create a few
+70:00 weapons there's tons of demons in the
+70:02 game right but we don't want those
+70:04 demons from banila being in the [ __ ]
+70:06 expansion right the wizards they're very
+70:10 robed individuals they have the hoods as
+70:15 opposed to having your head free it's
+70:16 part of the part of the look and feel
+70:18 this thing and so I think that you could
+70:21 create a lot of enchanting elements with
+70:23 them plus introduce a bunch of new
+70:24 magical capabilities that have never
+70:27 been in the game look at every game
+70:29 that's ever been made with magic every
+70:31 movie that's ever been made with magic
+70:32 just lifts ideas right rebrand them
+70:35 restructure them put them in the game so
+70:39 world of warcraft I hope I hope you
+70:43 survive I hope you re patch yourself I
+70:47 definitely will never ever buy world of
+70:50 warcraft again without hearing rave
+70:52 reviews from close friends of mine
+70:54 so they got 79 bucks out of me and
+70:57 probably two months worth of
+70:59 subscriptions trying to figure this game
+71:01 out and they they burned that bridge
+71:04 they really burned the [ __ ] out of that
+71:06 bridge so again I've never I've never
+71:10 played a game that long in my life I may
+71:13 never again maybe I'm just an old guy I
+71:15 don't know but I still love games I
+71:17 played fallout now for three years I'm
+71:21 still finding new rooms I've never been
+71:23 in played the crap out of this game so
+71:25 there are ways of still capturing a
+71:28 user's attention
+71:30 so that's a little weird episode for you
+71:33 if you have been to deep thoughts radio
+71:34 please go it's a place where you can
+71:36 change formats from audio to video video
+71:38 to audio there's a lakh Facebook group
+71:40 and a patreon page
+71:41 take care of yourself in someone else
+71:43 and I'll see in the next deep thoughts
+71:44 over now
+71:46 [Music]
+71:54 you
+71:55 [Music]

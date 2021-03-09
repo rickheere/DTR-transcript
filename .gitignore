@@ -1,0 +1,6 @@
+node_modules
+
+videos.json
+yarn
+yarn-error.log
+.vscode
