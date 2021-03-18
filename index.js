@@ -37,7 +37,7 @@ const getAllVideos = (pageToken) => {
           './videos.json',
           JSON.stringify(
             videos.reduce((output, { id: { videoId }, snippet: { title } }) => {
-              return [...output, { title, videoId }];
+              return [...output, { title: title.replace(/\//, '-'), videoId }];
             }, []),
             null,
             2
